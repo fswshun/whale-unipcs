@@ -4,7 +4,14 @@
     "0x0a6ebed0155edb4b21d92ad02897a626cd90119e",
     "2heJbC32Tpfcb3nbUb5ER61K11FGZVfVGtVnDm6LDogF"
   ],
-  "chains": [],
+  "chains": [
+    "robinhood",
+    "bsc",
+    "ethereum",
+    "base",
+    "arbitrum",
+    "solana"
+  ],
   "threshold_usd": 10000,
   "buy_alert_usd": 5000,
   "move_min_usd": 5000,
@@ -23,5 +30,13 @@
   "notify_max_age_hours": 48,
   "child_detect_max_age_days": 30,
   "labels": {},
-  "manual_prices": {}
+  "manual_prices": {},
+  "chains_checked": [
+    "arbitrum",
+    "base",
+    "bsc",
+    "ethereum",
+    "robinhood",
+    "solana"
+  ]
 }
