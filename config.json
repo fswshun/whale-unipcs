@@ -1,0 +1,27 @@
+{
+  "name": "unipcs",
+  "main_wallets": [
+    "0x0a6ebed0155edb4b21d92ad02897a626cd90119e",
+    "2heJbC32Tpfcb3nbUb5ER61K11FGZVfVGtVnDm6LDogF"
+  ],
+  "chains": [],
+  "threshold_usd": 10000,
+  "buy_alert_usd": 5000,
+  "move_min_usd": 5000,
+  "buy_list_min_usd": 1000,
+  "price_move_alert_pct": 5,
+  "daily_report_hour_utc": 0,
+  "pages_url": "https://fswshun.github.io/whale-unipcs/",
+  "initial_lookback_hours": 120,
+  "holdings_every_n_runs": 6,
+  "secondary_chains_every_n_runs": 6,
+  "primary_chains": [
+    "robinhood",
+    "bsc",
+    "solana"
+  ],
+  "notify_max_age_hours": 48,
+  "child_detect_max_age_days": 30,
+  "labels": {},
+  "manual_prices": {}
+}
