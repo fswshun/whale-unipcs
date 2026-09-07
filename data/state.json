@@ -1,4 +1,12 @@
 {
-  "run_count": 8,
-  "last_daily": "2026-09-07"
+  "run_count": 9,
+  "last_daily": "2026-09-07",
+  "cross_alerted": [
+    [
+      "2026-09-07",
+      "robinhood",
+      "0xe4d96d147f3c6a617e952694bc17a1108ca0a88b",
+      2
+    ]
+  ]
 }
