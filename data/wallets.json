@@ -4,7 +4,8 @@
     "parent": null,
     "first_seen": null,
     "chains": [
-      "bsc"
+      "bsc",
+      "ethereum"
     ]
   },
   "2heJbC32Tpfcb3nbUb5ER61K11FGZVfVGtVnDm6LDogF": {
