@@ -15,7 +15,7 @@
   "threshold_usd": 10000,
   "buy_alert_usd": 5000,
   "move_min_usd": 5000,
-  "buy_list_min_usd": 1000,
+  "buy_list_min_usd": 5000,
   "price_move_alert_pct": 5,
   "daily_report_hour_utc": 15,
   "pages_url": "https://fswshun.github.io/whale-unipcs/",
