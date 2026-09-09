@@ -74,6 +74,24 @@
       "note": "09-02T15:09 7.32e+05 \u725b\u6765\u300109-02T21:43 5.881 SPCXB\u300109-02T23:23 4.976e+06 JINQIAN",
       "value": 65.65288455634575,
       "unit": 0.001231
+    },
+    "robinhood:0x3df3644bcf4ce0d993e18c86c3080e53bfea06f1:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
+      "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
+      "chain": "robinhood",
+      "contract": "0x3df3644bcf4ce0d993e18c86c3080e53bfea06f1",
+      "sym": "Jacob",
+      "amount": 1928295.514250613,
+      "usd": 4045.563988897786,
+      "counter_usd": 0.0,
+      "n": 1,
+      "other": {},
+      "first": 1788969954,
+      "last": 1788969954,
+      "runs": 1,
+      "funding": 1360292.3889290716,
+      "note": "09-02T21:43 5.881 SPCXB\u300109-02T23:23 4.976e+06 JINQIAN\u300109-02T23:23 1.091e+07 Rabbit",
+      "value": 4045.563988897786,
+      "unit": 0.002098
     }
   },
   "last_daily_cut": 1788966000
