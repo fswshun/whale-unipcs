@@ -1,5 +1,5 @@
 {
-  "run_count": 306,
+  "run_count": 307,
   "last_daily": "2026-09-09",
   "cross_alerted": [],
   "buy_accum": {
@@ -81,17 +81,17 @@
       "contract": "0x3df3644bcf4ce0d993e18c86c3080e53bfea06f1",
       "sym": "Jacob",
       "amount": 1928295.514250613,
-      "usd": 4045.563988897786,
+      "usd": 4699.256168228744,
       "counter_usd": 0.0,
       "n": 1,
       "other": {},
       "first": 1788969954,
       "last": 1788969954,
       "runs": 1,
-      "funding": 1360292.3889290716,
+      "funding": 1359395.0029729898,
       "note": "09-02T21:43 5.881 SPCXB\u300109-02T23:23 4.976e+06 JINQIAN\u300109-02T23:23 1.091e+07 Rabbit",
-      "value": 4045.563988897786,
-      "unit": 0.002098
+      "value": 4699.256168228744,
+      "unit": 0.002437
     }
   },
   "last_daily_cut": 1788966000
