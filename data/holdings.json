@@ -31775,8 +31775,8 @@
         "symbol": "PEPONS",
         "amount": 11.0,
         "contract": "0xd2a577e92438fd0c1f2485f4fb91b9f866eb1e6c",
-        "price": 0.0005429,
-        "usd": 0.0059719000000000005
+        "price": 0.0005193,
+        "usd": 0.0057123
       },
       "0xd77be7a8108e1333a78fb14aefb65e1635d29c28": {
         "symbol": "SalaryCat",
