@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "chain": "base",
+    "addr": "0x4cd00e387622c35bddb9b4c962c136462338bc31",
+    "parent": "0x0a6ebed0155edb4b21d92ad02897a626cd90119e",
+    "first_seen": "2026-09-05T08:08:23+00:00"
+  }
+]
