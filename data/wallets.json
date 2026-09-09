@@ -119,8 +119,7 @@
     "chains": [
       "bsc",
       "robinhood",
-      "ethereum",
-      "base"
+      "ethereum"
     ]
   }
 }
