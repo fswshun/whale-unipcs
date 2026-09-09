@@ -73,5 +73,13 @@
     "chains": [
       "solana"
     ]
+  },
+  "AXLbNSUGvNgcpTc3586HXGcTyYgwfCJg2jMJXWaknXnf": {
+    "role": "子",
+    "parent": "2heJbC32Tpfcb3nbUb5ER61K11FGZVfVGtVnDm6LDogF",
+    "first_seen": "2026-09-09T12:42:34+00:00",
+    "chains": [
+      "solana"
+    ]
   }
 }
