@@ -1,14 +1,7 @@
 {
   "run_count": 301,
   "last_daily": "2026-09-08",
-  "cross_alerted": [
-    [
-      "2026-09-07",
-      "robinhood",
-      "0xe4d96d147f3c6a617e952694bc17a1108ca0a88b",
-      2
-    ]
-  ],
+  "cross_alerted": [],
   "buy_accum": {
     "bsc:0x56a86f2eb8514a03db0c56d8908e430daec97777:0x176e6378b7c9010f0456bee76ce3039d36dc37c8": {
       "wallet": "0x176e6378b7c9010f0456bee76ce3039d36dc37c8",
@@ -45,24 +38,6 @@
       "note": "09-02T11:42 1.386e+05 \u725b\u6765\u300109-02T14:54 7.334e+05 \u725b\u6765\u300109-02T14:55 7.421e+05 \u725b\u6765",
       "value": 898.3453788892991,
       "unit": 5.319e-05
-    },
-    "robinhood:0x34e37986bb076b6751274054960aa74ff10a27a6:0xf89f3858bc7bac05a83ec284e3e9acdb58bf892a": {
-      "wallet": "0xf89f3858bc7bac05a83ec284e3e9acdb58bf892a",
-      "chain": "robinhood",
-      "contract": "0x34e37986bb076b6751274054960aa74ff10a27a6",
-      "sym": "HUH",
-      "amount": 167992.3813699316,
-      "usd": 153.57863504839148,
-      "counter_usd": 0.0,
-      "n": 1,
-      "other": {},
-      "first": 1788879388,
-      "last": 1788879388,
-      "runs": 1,
-      "funding": 1314423.7544613325,
-      "note": "09-02T11:42 1.386e+05 \u725b\u6765\u300109-02T14:54 7.334e+05 \u725b\u6765\u300109-02T14:55 7.421e+05 \u725b\u6765",
-      "value": 153.57863504839148,
-      "unit": 0.0009142000000000001
     },
     "robinhood:0x905b79845eaea281e4200f206fe7920dad685dd3:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
       "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
