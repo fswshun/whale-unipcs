@@ -31656,8 +31656,8 @@
         "symbol": "MUSKISM",
         "amount": 15000.0,
         "contract": "0x4cd7ead4a30b78192f4e58179545a46779734d43",
-        "price": 0.0002125,
-        "usd": 3.1875
+        "price": 0.0001413,
+        "usd": 2.1195
       },
       "0xc48ad687af64a37b7fe85a4953a0a4da203684ed": {
         "symbol": "CAVEHORSE",
@@ -31665,13 +31665,6 @@
         "contract": "0xc48ad687af64a37b7fe85a4953a0a4da203684ed",
         "price": 0.0001084,
         "usd": 2.8315164
-      },
-      "0x4cd7ead4a30b78192f4e58179545a46779734d43": {
-        "symbol": "MUSKISM",
-        "amount": 15000.0,
-        "contract": "0x4cd7ead4a30b78192f4e58179545a46779734d43",
-        "price": 0.0001413,
-        "usd": 2.1195
       },
       "0xd18528b39da6464b3662c331a52181ecb15b1e18": {
         "symbol": "SAYLORMOON",
