@@ -1,26 +1,8 @@
 {
-  "run_count": 420,
+  "run_count": 421,
   "last_daily": "2026-09-10",
   "cross_alerted": [],
   "buy_accum": {
-    "robinhood:0xb97d9e5ad6244d27588fe0a624a8c78e512934ee:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
-      "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
-      "chain": "robinhood",
-      "contract": "0xb97d9e5ad6244d27588fe0a624a8c78e512934ee",
-      "sym": "RECEIPT",
-      "amount": 2477574.109144754,
-      "usd": 3860.060462047526,
-      "counter_usd": 0.0,
-      "n": 1,
-      "other": {},
-      "first": 1788973995,
-      "last": 1788973995,
-      "runs": 1,
-      "funding": 1366186.2506303063,
-      "note": "09-02T21:43 5.881 SPCXB\u300109-02T23:23 4.976e+06 JINQIAN\u300109-02T23:23 1.091e+07 Rabbit",
-      "value": 3860.060462047526,
-      "unit": 0.001558
-    },
     "robinhood:0x50fd6f46b83f31f2226964ff221422d2df81fefc:0xf89f3858bc7bac05a83ec284e3e9acdb58bf892a": {
       "wallet": "0xf89f3858bc7bac05a83ec284e3e9acdb58bf892a",
       "chain": "robinhood",
