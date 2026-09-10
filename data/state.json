@@ -1,26 +1,8 @@
 {
-  "run_count": 412,
-  "last_daily": "2026-09-09",
+  "run_count": 413,
+  "last_daily": "2026-09-10",
   "cross_alerted": [],
   "buy_accum": {
-    "robinhood:0xa3dd10a5a1c87a7070069c063e22e677bec480cd:0x0a6ebed0155edb4b21d92ad02897a626cd90119e": {
-      "wallet": "0x0a6ebed0155edb4b21d92ad02897a626cd90119e",
-      "chain": "robinhood",
-      "contract": "0xa3dd10a5a1c87a7070069c063e22e677bec480cd",
-      "sym": "BURGER",
-      "amount": 53332.96877038648,
-      "usd": 65.65288455634575,
-      "counter_usd": 0.0,
-      "n": 1,
-      "other": {},
-      "first": 1788965993,
-      "last": 1788965993,
-      "runs": 1,
-      "funding": 1228192.7819602918,
-      "note": "09-02T15:09 7.32e+05 \u725b\u6765\u300109-02T21:43 5.881 SPCXB\u300109-02T23:23 4.976e+06 JINQIAN",
-      "value": 65.65288455634575,
-      "unit": 0.001231
-    },
     "robinhood:0x3df3644bcf4ce0d993e18c86c3080e53bfea06f1:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
       "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
       "chain": "robinhood",
@@ -76,5 +58,5 @@
       "unit": 0.001299
     }
   },
-  "last_daily_cut": 1788966000
+  "last_daily_cut": 1789052400
 }
