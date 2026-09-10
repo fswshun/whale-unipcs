@@ -203,13 +203,6 @@
         "symbol": "MARTIANS",
         "amount": 10000000.0,
         "contract": "0xac77646bcff9d52e99800534192e0290933f4094",
-        "price": 0.00025616,
-        "usd": 2561.6000000000004
-      },
-      "0xac77646bcff9d52e99800534192e0290933f4094": {
-        "symbol": "MARTIANS",
-        "amount": 10000000.0,
-        "contract": "0xac77646bcff9d52e99800534192e0290933f4094",
         "price": 0.00025258,
         "usd": 2525.8
       },
