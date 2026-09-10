@@ -8890,13 +8890,6 @@
         "symbol": "OZZY",
         "amount": 13707.775324766584,
         "contract": "0xff1450b11baaef153c022048a0fbcad3f6ab2884",
-        "price": 1.664e-05,
-        "usd": 0.22809738140411595
-      },
-      "0xff1450b11baaef153c022048a0fbcad3f6ab2884": {
-        "symbol": "OZZY",
-        "amount": 13707.775324766584,
-        "contract": "0xff1450b11baaef153c022048a0fbcad3f6ab2884",
         "price": 1.662e-05,
         "usd": 0.22782322589762063
       },
