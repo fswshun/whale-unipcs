@@ -92,6 +92,24 @@
       "note": "09-02T21:43 5.881 SPCXB\u300109-02T23:23 4.976e+06 JINQIAN\u300109-02T23:23 1.091e+07 Rabbit",
       "value": 3860.060462047526,
       "unit": 0.001558
+    },
+    "robinhood:0x50fd6f46b83f31f2226964ff221422d2df81fefc:0xf89f3858bc7bac05a83ec284e3e9acdb58bf892a": {
+      "wallet": "0xf89f3858bc7bac05a83ec284e3e9acdb58bf892a",
+      "chain": "robinhood",
+      "contract": "0x50fd6f46b83f31f2226964ff221422d2df81fefc",
+      "sym": "ZDOG",
+      "amount": 152324.9517885137,
+      "usd": 197.87011237327928,
+      "counter_usd": 0.0,
+      "n": 1,
+      "other": {},
+      "first": 1789031564,
+      "last": 1789031564,
+      "runs": 1,
+      "funding": 1352882.5079045526,
+      "note": "09-04T04:03 37.5 SPCXB\u300109-04T04:03 5.135 NVDA\u300109-04T11:50 9.1e+06 AMC",
+      "value": 197.87011237327928,
+      "unit": 0.001299
     }
   },
   "last_daily_cut": 1788966000
