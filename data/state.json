@@ -1,5 +1,5 @@
 {
-  "run_count": 382,
+  "run_count": 383,
   "last_daily": "2026-09-09",
   "cross_alerted": [],
   "buy_accum": {
@@ -20,24 +20,6 @@
       "note": "09-07T16:52 2.1e+06 zDOG\u300109-08T06:37 4.344e+05 1Stock\u300109-08T08:03 6.666e+07 Stock4",
       "value": 1809.7759680000001,
       "unit": 0.002036
-    },
-    "robinhood:0x829b217ad539ccc53b18e53c63873333650e60f9:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
-      "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
-      "chain": "robinhood",
-      "contract": "0x829b217ad539ccc53b18e53c63873333650e60f9",
-      "sym": "cyberbeer",
-      "amount": 16889366.025367536,
-      "usd": 898.3453788892991,
-      "counter_usd": 0.0,
-      "n": 1,
-      "other": {},
-      "first": 1788943846,
-      "last": 1788943846,
-      "runs": 1,
-      "funding": 1314423.7544613325,
-      "note": "09-02T11:42 1.386e+05 \u725b\u6765\u300109-02T14:54 7.334e+05 \u725b\u6765\u300109-02T14:55 7.421e+05 \u725b\u6765",
-      "value": 898.3453788892991,
-      "unit": 5.319e-05
     },
     "robinhood:0x905b79845eaea281e4200f206fe7920dad685dd3:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
       "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
