@@ -1,26 +1,8 @@
 {
-  "run_count": 406,
+  "run_count": 407,
   "last_daily": "2026-09-09",
   "cross_alerted": [],
   "buy_accum": {
-    "robinhood:0x905b79845eaea281e4200f206fe7920dad685dd3:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
-      "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
-      "chain": "robinhood",
-      "contract": "0x905b79845eaea281e4200f206fe7920dad685dd3",
-      "sym": "DOGSHIT",
-      "amount": 852407.5032500811,
-      "usd": 488.0032956106714,
-      "counter_usd": 0.0,
-      "n": 1,
-      "other": {},
-      "first": 1788961269,
-      "last": 1788961269,
-      "runs": 1,
-      "funding": 1330302.3396493995,
-      "note": "09-02T14:54 7.334e+05 \u725b\u6765\u300109-02T14:55 7.421e+05 \u725b\u6765\u300109-02T15:09 7.32e+05 \u725b\u6765",
-      "value": 488.0032956106714,
-      "unit": 0.0005725
-    },
     "robinhood:0xa3dd10a5a1c87a7070069c063e22e677bec480cd:0x0a6ebed0155edb4b21d92ad02897a626cd90119e": {
       "wallet": "0x0a6ebed0155edb4b21d92ad02897a626cd90119e",
       "chain": "robinhood",
