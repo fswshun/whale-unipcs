@@ -1,5 +1,5 @@
 {
-  "run_count": 456,
+  "run_count": 457,
   "last_daily": "2026-09-10",
   "cross_alerted": [],
   "buy_accum": {
@@ -386,6 +386,26 @@
       "note": "09-04T04:03 37.5 SPCXB\u300109-04T04:03 5.135 NVDA\u300109-04T11:50 9.1e+06 AMC",
       "value": 1423.4786088252,
       "unit": 0.4713
+    },
+    "solana:8KT74aVWX2vdjs5WwCcsbfh8P6aTU5cafCvyWbTkpump:6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC": {
+      "wallet": "6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC",
+      "chain": "solana",
+      "contract": "8KT74aVWX2vdjs5WwCcsbfh8P6aTU5cafCvyWbTkpump",
+      "sym": "SOLCAT",
+      "amount": 6194760.763811,
+      "usd": 124.63858656787731,
+      "counter_usd": 300.0,
+      "n": 1,
+      "other": {
+        "USDC": 300.0
+      },
+      "first": 1789085736,
+      "last": 1789085736,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 300.0,
+      "unit": 4.842802029620928e-05
     }
   },
   "last_daily_cut": 1789052400
