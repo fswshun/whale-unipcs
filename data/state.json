@@ -1,5 +1,5 @@
 {
-  "run_count": 485,
+  "run_count": 486,
   "last_daily": "2026-09-10",
   "cross_alerted": [
     [
@@ -491,6 +491,24 @@
       "note": "09-04T04:03 37.5 SPCXB\u300109-04T04:03 5.135 NVDA\u300109-04T11:50 9.1e+06 AMC",
       "value": 1662.0871735214957,
       "unit": 1.16
+    },
+    "robinhood:0x9336f46d30c8a142703f512b6bb9758f3591e1a3:0xf89f3858bc7bac05a83ec284e3e9acdb58bf892a": {
+      "wallet": "0xf89f3858bc7bac05a83ec284e3e9acdb58bf892a",
+      "chain": "robinhood",
+      "contract": "0x9336f46d30c8a142703f512b6bb9758f3591e1a3",
+      "sym": "PWO",
+      "amount": 55180.60173212424,
+      "usd": 192.3595776381851,
+      "counter_usd": 0.0,
+      "n": 1,
+      "other": {},
+      "first": 1789106417,
+      "last": 1789106417,
+      "runs": 1,
+      "funding": 1585747.1913353377,
+      "note": "09-04T11:50 9.1e+06 AMC\u300109-04T11:50 5.144 QQQB\u300109-04T11:50 39.78 SPCXB",
+      "value": 192.3595776381851,
+      "unit": 0.003486
     }
   },
   "last_daily_cut": 1789052400
