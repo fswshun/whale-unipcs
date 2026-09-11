@@ -202,24 +202,6 @@
       "value": 1255.4247381396387,
       "unit": 3.821e-05
     },
-    "robinhood:0x905b79845eaea281e4200f206fe7920dad685dd3:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
-      "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
-      "chain": "robinhood",
-      "contract": "0x905b79845eaea281e4200f206fe7920dad685dd3",
-      "sym": "DOGSHIT",
-      "amount": 5062322.243501992,
-      "usd": 1210.9074806456765,
-      "counter_usd": 0.0,
-      "n": 1,
-      "other": {},
-      "first": 1789056711,
-      "last": 1789056711,
-      "runs": 1,
-      "funding": 1413171.2169210147,
-      "note": "09-04T04:03 37.5 SPCXB\u300109-04T04:03 5.135 NVDA\u300109-04T11:50 9.1e+06 AMC",
-      "value": 1210.9074806456765,
-      "unit": 0.00023920000000000001
-    },
     "robinhood:0x3acc80544ee35323f996e2338bfa548e8ffa79de:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
       "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
       "chain": "robinhood",
@@ -339,24 +321,6 @@
       "note": "",
       "value": 248.9111955128,
       "unit": 306.2671831666689
-    },
-    "ethereum:0xf12cbb0b9a0bcc6fc6782775f513bee049516ac9:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
-      "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
-      "chain": "ethereum",
-      "contract": "0xf12cbb0b9a0bcc6fc6782775f513bee049516ac9",
-      "sym": "UNCN",
-      "amount": 3020.3238039999997,
-      "usd": 1423.4786088252,
-      "counter_usd": 0.0,
-      "n": 2,
-      "other": {},
-      "first": 1789036031,
-      "last": 1789056779,
-      "runs": 1,
-      "funding": 2766053.7248255676,
-      "note": "09-04T04:03 37.5 SPCXB\u300109-04T04:03 5.135 NVDA\u300109-04T11:50 9.1e+06 AMC",
-      "value": 1423.4786088252,
-      "unit": 0.4713
     },
     "solana:8KT74aVWX2vdjs5WwCcsbfh8P6aTU5cafCvyWbTkpump:6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC": {
       "wallet": "6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC",
