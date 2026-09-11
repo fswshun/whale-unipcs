@@ -514,6 +514,24 @@
       "note": "09-04T18:09 3e+05 FATCOIN\u300109-04T19:04 2e+05 FATCOIN\u300109-04T19:53 3e+05 FATCOIN",
       "value": 585.9614553952632,
       "unit": 0.0002228
+    },
+    "bsc:0x5ab8b8e5e1be203db1f061254abf84fc4b557777:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
+      "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
+      "chain": "bsc",
+      "contract": "0x5ab8b8e5e1be203db1f061254abf84fc4b557777",
+      "sym": "AdAstra",
+      "amount": 17810870.463592637,
+      "usd": 268.9441440002488,
+      "counter_usd": 0.0,
+      "n": 1,
+      "other": {},
+      "first": 1789152566,
+      "last": 1789152566,
+      "runs": 1,
+      "funding": 1498599.7906309336,
+      "note": "09-04T19:04 2e+05 FATCOIN\u300109-04T19:53 3e+05 FATCOIN\u300109-04T23:03 2e+05 FATCOIN",
+      "value": 268.9441440002488,
+      "unit": 1.5099999999999998e-05
     }
   },
   "last_daily_cut": 1789138800
