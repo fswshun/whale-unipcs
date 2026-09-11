@@ -1,5 +1,5 @@
 {
-  "run_count": 537,
+  "run_count": 538,
   "last_daily": "2026-09-11",
   "cross_alerted": [
     [
@@ -201,24 +201,6 @@
       "note": "09-04T04:03 37.5 SPCXB\u300109-04T04:03 5.135 NVDA\u300109-04T11:50 9.1e+06 AMC",
       "value": 839.6415284239347,
       "unit": 9.562e-05
-    },
-    "robinhood:0xae12303bd73442d3c8dba9a58b164070d78a1e18:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
-      "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
-      "chain": "robinhood",
-      "contract": "0xae12303bd73442d3c8dba9a58b164070d78a1e18",
-      "sym": "LUCIA",
-      "amount": 2953683.2567819743,
-      "usd": 754.6660721077943,
-      "counter_usd": 0.0,
-      "n": 1,
-      "other": {},
-      "first": 1789059370,
-      "last": 1789059370,
-      "runs": 1,
-      "funding": 1439269.939067537,
-      "note": "09-04T04:03 37.5 SPCXB\u300109-04T04:03 5.135 NVDA\u300109-04T11:50 9.1e+06 AMC",
-      "value": 754.6660721077943,
-      "unit": 0.0002555
     },
     "robinhood:0xf09e7355eef8d7cd43c61294971d7f376a073801:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
       "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
