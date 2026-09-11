@@ -1,5 +1,5 @@
 {
-  "run_count": 483,
+  "run_count": 484,
   "last_daily": "2026-09-10",
   "cross_alerted": [
     [
@@ -140,24 +140,6 @@
       "note": "",
       "value": 103.0,
       "unit": 0.00019803072899678197
-    },
-    "robinhood:0xd07b2001d0713ba95c9b89eef3d6c672cf35e12f:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
-      "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
-      "chain": "robinhood",
-      "contract": "0xd07b2001d0713ba95c9b89eef3d6c672cf35e12f",
-      "sym": "FLY",
-      "amount": 6029046.2199499365,
-      "usd": 4513.946904876518,
-      "counter_usd": 0.0,
-      "n": 1,
-      "other": {},
-      "first": 1789082821,
-      "last": 1789082821,
-      "runs": 1,
-      "funding": 1503703.1634387143,
-      "note": "09-04T04:03 37.5 SPCXB\u300109-04T04:03 5.135 NVDA\u300109-04T11:50 9.1e+06 AMC",
-      "value": 4513.946904876518,
-      "unit": 0.0007487
     },
     "robinhood:0xdab0e8ce3b999d16898709a6dfc44c953bfc43b1:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
       "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
