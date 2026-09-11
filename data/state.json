@@ -1,5 +1,5 @@
 {
-  "run_count": 549,
+  "run_count": 550,
   "last_daily": "2026-09-11",
   "cross_alerted": [
     [
@@ -123,24 +123,6 @@
       "value": 103.0,
       "unit": 0.00019803072899678197
     },
-    "robinhood:0xdab0e8ce3b999d16898709a6dfc44c953bfc43b1:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
-      "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
-      "chain": "robinhood",
-      "contract": "0xdab0e8ce3b999d16898709a6dfc44c953bfc43b1",
-      "sym": "GIWA",
-      "amount": 6558422.660986237,
-      "usd": 3723.872386907986,
-      "counter_usd": 0.0,
-      "n": 1,
-      "other": {},
-      "first": 1789069579,
-      "last": 1789069579,
-      "runs": 1,
-      "funding": 1439988.8127664453,
-      "note": "09-04T04:03 37.5 SPCXB\u300109-04T04:03 5.135 NVDA\u300109-04T11:50 9.1e+06 AMC",
-      "value": 3723.872386907986,
-      "unit": 0.0005678
-    },
     "solana:XsbEhLAtcf6HdfpFZ5xEMdqW8nfAvcsP5bdudRLJzJp:6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC": {
       "wallet": "6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC",
       "chain": "solana",
@@ -183,24 +165,6 @@
       "note": "",
       "value": 1420.0841187745,
       "unit": 0.004277488370837075
-    },
-    "robinhood:0x3acc80544ee35323f996e2338bfa548e8ffa79de:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
-      "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
-      "chain": "robinhood",
-      "contract": "0x3acc80544ee35323f996e2338bfa548e8ffa79de",
-      "sym": "GAEJUKI",
-      "amount": 8781024.141643325,
-      "usd": 839.6415284239347,
-      "counter_usd": 0.0,
-      "n": 1,
-      "other": {},
-      "first": 1789069611,
-      "last": 1789069611,
-      "runs": 1,
-      "funding": 1439988.8127664453,
-      "note": "09-04T04:03 37.5 SPCXB\u300109-04T04:03 5.135 NVDA\u300109-04T11:50 9.1e+06 AMC",
-      "value": 839.6415284239347,
-      "unit": 9.562e-05
     },
     "robinhood:0xf09e7355eef8d7cd43c61294971d7f376a073801:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
       "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
