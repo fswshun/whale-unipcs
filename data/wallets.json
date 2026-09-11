@@ -139,5 +139,29 @@
     "chains": [
       "bsc"
     ]
+  },
+  "0xc292ed096cb52030aa9325e78ebc464b70de8a3a": {
+    "role": "孫",
+    "parent": "0x01db37579e55ce13f4504019025e36047bdad845",
+    "first_seen": "2026-09-11T16:30:31+00:00",
+    "chains": [
+      "bsc"
+    ]
+  },
+  "0x4c2945624031e88c44bbf2d49dc4bbf5b6a5d30a": {
+    "role": "孫",
+    "parent": "0x01db37579e55ce13f4504019025e36047bdad845",
+    "first_seen": "2026-09-11T16:30:57+00:00",
+    "chains": [
+      "bsc"
+    ]
+  },
+  "0xc2609187b981e2bac85536d3db283e3cb8758d42": {
+    "role": "曾孫",
+    "parent": "0x4c2945624031e88c44bbf2d49dc4bbf5b6a5d30a",
+    "first_seen": "2026-09-09T14:44:39+00:00",
+    "chains": [
+      "bsc"
+    ]
   }
 }
