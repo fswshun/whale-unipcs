@@ -78,24 +78,6 @@
       "value": 1420.0841187745,
       "unit": 0.004277488370837075
     },
-    "robinhood:0xf09e7355eef8d7cd43c61294971d7f376a073801:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
-      "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
-      "chain": "robinhood",
-      "contract": "0xf09e7355eef8d7cd43c61294971d7f376a073801",
-      "sym": "STRIKE",
-      "amount": 41769739.33302002,
-      "usd": 687.5299094215095,
-      "counter_usd": 0.0,
-      "n": 1,
-      "other": {},
-      "first": 1789083825,
-      "last": 1789083825,
-      "runs": 1,
-      "funding": 1503703.1634387143,
-      "note": "09-04T04:03 37.5 SPCXB\u300109-04T04:03 5.135 NVDA\u300109-04T11:50 9.1e+06 AMC",
-      "value": 687.5299094215095,
-      "unit": 1.646e-05
-    },
     "solana:USD1ttGY1N17NEEHLmELoaybftRBUSErhqYiQzvEmuB:6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC": {
       "wallet": "6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC",
       "chain": "solana",
@@ -119,48 +101,6 @@
       "note": "",
       "value": 494.38860179988694,
       "unit": 3.015097802659537
-    },
-    "solana:7GetcwtjHasEtG8NoDsgguh9jhV7w3q12yamUWnqMuLQ:6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC": {
-      "wallet": "6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC",
-      "chain": "solana",
-      "contract": "7GetcwtjHasEtG8NoDsgguh9jhV7w3q12yamUWnqMuLQ",
-      "sym": "STRC",
-      "amount": 3656236.346614462,
-      "usd": 114.62300946636338,
-      "counter_usd": 248.9111955128,
-      "n": 1,
-      "other": {
-        "USDC": 125.0,
-        "STRCx": 1.17140476
-      },
-      "first": 1789084228,
-      "last": 1789084228,
-      "runs": 1,
-      "funding": 0.0,
-      "note": "",
-      "value": 248.9111955128,
-      "unit": 6.807852991869151e-05
-    },
-    "solana:Xs78JED6PFZxWc2wCEPspZW9kL3Se5J7L5TChKgsidH:6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC": {
-      "wallet": "6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC",
-      "chain": "solana",
-      "contract": "Xs78JED6PFZxWc2wCEPspZW9kL3Se5J7L5TChKgsidH",
-      "sym": "STRCx",
-      "amount": 0.81272565,
-      "usd": 85.970119257,
-      "counter_usd": 248.9111955128,
-      "n": 1,
-      "other": {
-        "USDC": 125.0,
-        "STRCx": 1.17140476
-      },
-      "first": 1789084228,
-      "last": 1789084228,
-      "runs": 1,
-      "funding": 0.0,
-      "note": "",
-      "value": 248.9111955128,
-      "unit": 306.2671831666689
     },
     "solana:8KT74aVWX2vdjs5WwCcsbfh8P6aTU5cafCvyWbTkpump:6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC": {
       "wallet": "6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC",
