@@ -1,5 +1,5 @@
 {
-  "run_count": 558,
+  "run_count": 559,
   "last_daily": "2026-09-11",
   "cross_alerted": [
     [
@@ -541,7 +541,7 @@
       "contract": "FgJReZeYfmKZeWrCaGYL8gLnUixwBhjdHuRknC6ypump",
       "sym": "Doggo",
       "amount": 231251.61113,
-      "usd": 180.3762566814,
+      "usd": 104.75697984189,
       "counter_usd": 146.04306699999998,
       "n": 1,
       "other": {
