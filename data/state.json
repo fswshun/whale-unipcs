@@ -1,5 +1,5 @@
 {
-  "run_count": 535,
+  "run_count": 536,
   "last_daily": "2026-09-11",
   "cross_alerted": [
     [
@@ -183,24 +183,6 @@
       "note": "",
       "value": 1420.0841187745,
       "unit": 0.004277488370837075
-    },
-    "robinhood:0x3e81fe9176c38cda7af7c3e6e762f120ab194026:0x0a6ebed0155edb4b21d92ad02897a626cd90119e": {
-      "wallet": "0x0a6ebed0155edb4b21d92ad02897a626cd90119e",
-      "chain": "robinhood",
-      "contract": "0x3e81fe9176c38cda7af7c3e6e762f120ab194026",
-      "sym": "HARIO",
-      "amount": 32855920.914410856,
-      "usd": 1255.4247381396387,
-      "counter_usd": 0.0,
-      "n": 1,
-      "other": {},
-      "first": 1789057260,
-      "last": 1789057260,
-      "runs": 1,
-      "funding": 1413171.2169210147,
-      "note": "09-04T04:03 37.5 SPCXB\u300109-04T04:03 5.135 NVDA\u300109-04T11:50 9.1e+06 AMC",
-      "value": 1255.4247381396387,
-      "unit": 3.821e-05
     },
     "robinhood:0x3acc80544ee35323f996e2338bfa548e8ffa79de:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
       "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
