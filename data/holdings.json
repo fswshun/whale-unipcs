@@ -40577,8 +40577,8 @@
         "symbol": "MARVIN",
         "amount": 600000000.0,
         "contract": "0x70c29e99ca32592c0e88bb571b87444bb0e08e33",
-        "price": 6.97801e-07,
-        "usd": 418.6806
+        "price": 6.965e-07,
+        "usd": 417.90000000000003
       },
       "0x619e398858a3110df4d89056a15a40338a01e65f": {
         "symbol": "GARBAGE",
@@ -40586,13 +40586,6 @@
         "contract": "0x619e398858a3110df4d89056a15a40338a01e65f",
         "price": null,
         "usd": null
-      },
-      "0x70c29e99ca32592c0e88bb571b87444bb0e08e33": {
-        "symbol": "MARVIN",
-        "amount": 600000000.0,
-        "contract": "0x70c29e99ca32592c0e88bb571b87444bb0e08e33",
-        "price": 6.965e-07,
-        "usd": 417.90000000000003
       },
       "0x886c869cdc619214138c87f1db0ada522b16dfa3": {
         "symbol": "WIF",
@@ -40689,8 +40682,8 @@
         "symbol": "XEN",
         "amount": 45049864446.79581,
         "contract": "0x06450dee7fd2fb8e39061434babcfc05599a6fb8",
-        "price": 3.982e-09,
-        "usd": 179.38856022714089
+        "price": 3.993e-09,
+        "usd": 179.88410873605565
       },
       "0xf89674f18309a2e97843c6e9b19c07c22caef6d5": {
         "symbol": "GAMER",
@@ -40698,13 +40691,6 @@
         "contract": "0xf89674f18309a2e97843c6e9b19c07c22caef6d5",
         "price": 6.749e-07,
         "usd": 269.96
-      },
-      "0x06450dee7fd2fb8e39061434babcfc05599a6fb8": {
-        "symbol": "XEN",
-        "amount": 45049864446.79581,
-        "contract": "0x06450dee7fd2fb8e39061434babcfc05599a6fb8",
-        "price": 3.993e-09,
-        "usd": 179.88410873605565
       },
       "0x6a76a004f3bda1447b7d8bbea8355866420b8cb5": {
         "symbol": "CHARLIE",
@@ -50388,13 +50374,6 @@
         "contract": "0x7bf5097dca7756e06df664bf709b4dbfdecea9c9",
         "price": 0.0007424,
         "usd": 0.0022272000000000004
-      },
-      "0x2821d96b5fc81aec3763340b375a846a89a3ec1b": {
-        "symbol": "BASE",
-        "amount": 7.0,
-        "contract": "0x2821d96b5fc81aec3763340b375a846a89a3ec1b",
-        "price": 0.0003203,
-        "usd": 0.0022421
       },
       "0x538dbc33787c9f12aa824b6597e29a41d644ca41": {
         "symbol": "GrokBot",
