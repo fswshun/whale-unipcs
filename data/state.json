@@ -534,6 +534,26 @@
       "note": "",
       "value": 213.0,
       "unit": 0.003842249535754382
+    },
+    "solana:FgJReZeYfmKZeWrCaGYL8gLnUixwBhjdHuRknC6ypump:6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC": {
+      "wallet": "6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC",
+      "chain": "solana",
+      "contract": "FgJReZeYfmKZeWrCaGYL8gLnUixwBhjdHuRknC6ypump",
+      "sym": "Doggo",
+      "amount": 231251.61113,
+      "usd": 180.3762566814,
+      "counter_usd": 146.04306699999998,
+      "n": 1,
+      "other": {
+        "USDC": 146.04306699999998
+      },
+      "first": 1789162431,
+      "last": 1789162431,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 146.04306699999998,
+      "unit": 0.0006315331871045891
     }
   },
   "last_daily_cut": 1789138800
