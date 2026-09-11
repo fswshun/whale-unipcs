@@ -5176,13 +5176,6 @@
         "price": null,
         "usd": null
       },
-      "0x7b27f01cc0127f6e10a45389774b90e1597babfe": {
-        "symbol": "BIG",
-        "amount": 150305.26147347107,
-        "contract": "0x7b27f01cc0127f6e10a45389774b90e1597babfe",
-        "price": null,
-        "usd": null
-      },
       "0x50fd6f46b83f31f2226964ff221422d2df81fefc": {
         "symbol": "ZDOG",
         "amount": 149384.1837113286,
@@ -8864,13 +8857,6 @@
         "contract": "0xb042d352fc8d4a89ccb9d8e4640175db2e58a120",
         "price": 0.0001345,
         "usd": 0.6725
-      },
-      "0xcc3dc6fc9918b9846d1ad5aaea740f8bed9a1e18": {
-        "symbol": "DEMOTHREE",
-        "amount": 777.0,
-        "contract": "0xcc3dc6fc9918b9846d1ad5aaea740f8bed9a1e18",
-        "price": 0.0008051,
-        "usd": 0.6255627
       },
       "0xcc3dc6fc9918b9846d1ad5aaea740f8bed9a1e18": {
         "symbol": "DEMOTHREE",

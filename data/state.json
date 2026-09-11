@@ -1,7 +1,14 @@
 {
-  "run_count": 458,
+  "run_count": 459,
   "last_daily": "2026-09-10",
-  "cross_alerted": [],
+  "cross_alerted": [
+    [
+      "2026-09-11",
+      "robinhood",
+      "0xf014a3782e6979bd965376f6638d90914820ebff",
+      2
+    ]
+  ],
   "buy_accum": {
     "robinhood:0x50fd6f46b83f31f2226964ff221422d2df81fefc:0xf89f3858bc7bac05a83ec284e3e9acdb58bf892a": {
       "wallet": "0xf89f3858bc7bac05a83ec284e3e9acdb58bf892a",
@@ -406,24 +413,6 @@
       "note": "",
       "value": 300.0,
       "unit": 4.842802029620928e-05
-    },
-    "robinhood:0xf014a3782e6979bd965376f6638d90914820ebff:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
-      "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
-      "chain": "robinhood",
-      "contract": "0xf014a3782e6979bd965376f6638d90914820ebff",
-      "sym": "+",
-      "amount": 1692345.767881509,
-      "usd": 2084.969986030019,
-      "counter_usd": 0.0,
-      "n": 1,
-      "other": {},
-      "first": 1789087356,
-      "last": 1789087356,
-      "runs": 1,
-      "funding": 1503703.1634387143,
-      "note": "09-04T04:03 37.5 SPCXB\u300109-04T04:03 5.135 NVDA\u300109-04T11:50 9.1e+06 AMC",
-      "value": 2084.969986030019,
-      "unit": 0.001232
     },
     "solana:Xsf9mBktVB9BSU5kf4nHxPq5hCBJ2j2ui3ecFGxPRGc:6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC": {
       "wallet": "6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC",
