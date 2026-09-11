@@ -1,5 +1,5 @@
 {
-  "run_count": 553,
+  "run_count": 554,
   "last_daily": "2026-09-11",
   "cross_alerted": [
     [
@@ -514,6 +514,26 @@
       "note": "09-04T23:03 2e+05 FATCOIN\u300109-04T23:16 19.97 SPCXB\u300109-04T23:40 4.423e+06 DELTA",
       "value": 3162.664094730242,
       "unit": 0.0002701
+    },
+    "solana:4MMQY9bwkxxTtsK3W227Q5ABT6yFY8Pmn9Ze7wmAXKY8:6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC": {
+      "wallet": "6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC",
+      "chain": "solana",
+      "contract": "4MMQY9bwkxxTtsK3W227Q5ABT6yFY8Pmn9Ze7wmAXKY8",
+      "sym": "ALLINU",
+      "amount": 55436.27451,
+      "usd": 308.72461274619,
+      "counter_usd": 213.0,
+      "n": 1,
+      "other": {
+        "USDC": 213.0
+      },
+      "first": 1789160012,
+      "last": 1789160012,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 213.0,
+      "unit": 0.003842249535754382
     }
   },
   "last_daily_cut": 1789138800
