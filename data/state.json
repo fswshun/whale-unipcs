@@ -1,5 +1,5 @@
 {
-  "run_count": 501,
+  "run_count": 502,
   "last_daily": "2026-09-10",
   "cross_alerted": [
     [
@@ -10,24 +10,6 @@
     ]
   ],
   "buy_accum": {
-    "robinhood:0x50fd6f46b83f31f2226964ff221422d2df81fefc:0xf89f3858bc7bac05a83ec284e3e9acdb58bf892a": {
-      "wallet": "0xf89f3858bc7bac05a83ec284e3e9acdb58bf892a",
-      "chain": "robinhood",
-      "contract": "0x50fd6f46b83f31f2226964ff221422d2df81fefc",
-      "sym": "ZDOG",
-      "amount": 152324.9517885137,
-      "usd": 197.87011237327928,
-      "counter_usd": 0.0,
-      "n": 1,
-      "other": {},
-      "first": 1789031564,
-      "last": 1789031564,
-      "runs": 1,
-      "funding": 1352882.5079045526,
-      "note": "09-04T04:03 37.5 SPCXB\u300109-04T04:03 5.135 NVDA\u300109-04T11:50 9.1e+06 AMC",
-      "value": 197.87011237327928,
-      "unit": 0.001299
-    },
     "solana:pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn:6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC": {
       "wallet": "6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC",
       "chain": "solana",
