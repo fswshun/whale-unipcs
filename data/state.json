@@ -1,5 +1,5 @@
 {
-  "run_count": 461,
+  "run_count": 462,
   "last_daily": "2026-09-10",
   "cross_alerted": [
     [
@@ -473,6 +473,42 @@
       "note": "09-04T04:03 37.5 SPCXB\u300109-04T04:03 5.135 NVDA\u300109-04T11:50 9.1e+06 AMC",
       "value": 2231.5969896155625,
       "unit": 0.001011
+    },
+    "robinhood:0xcdecc731d30b35306a104248c0b48f0278a9992a:0x0a6ebed0155edb4b21d92ad02897a626cd90119e": {
+      "wallet": "0x0a6ebed0155edb4b21d92ad02897a626cd90119e",
+      "chain": "robinhood",
+      "contract": "0xcdecc731d30b35306a104248c0b48f0278a9992a",
+      "sym": "GMECAT",
+      "amount": 105833494.48358615,
+      "usd": 1760.0110132620375,
+      "counter_usd": 0.0,
+      "n": 1,
+      "other": {},
+      "first": 1789089510,
+      "last": 1789089510,
+      "runs": 1,
+      "funding": 1509545.970316943,
+      "note": "09-04T04:03 37.5 SPCXB\u300109-04T04:03 5.135 NVDA\u300109-04T11:50 9.1e+06 AMC",
+      "value": 1760.0110132620375,
+      "unit": 1.663e-05
+    },
+    "ethereum:0x6a77e39240da69ea788e4cf93663d2c41ea4b12b:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
+      "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
+      "chain": "ethereum",
+      "contract": "0x6a77e39240da69ea788e4cf93663d2c41ea4b12b",
+      "sym": "SPIRAL",
+      "amount": 1432.8337702771516,
+      "usd": 1662.0871735214957,
+      "counter_usd": 0.0,
+      "n": 1,
+      "other": {},
+      "first": 1789085591,
+      "last": 1789085591,
+      "runs": 1,
+      "funding": 1503703.1634387143,
+      "note": "09-04T04:03 37.5 SPCXB\u300109-04T04:03 5.135 NVDA\u300109-04T11:50 9.1e+06 AMC",
+      "value": 1662.0871735214957,
+      "unit": 1.16
     }
   },
   "last_daily_cut": 1789052400
