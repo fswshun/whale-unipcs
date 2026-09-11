@@ -1,5 +1,5 @@
 {
-  "run_count": 551,
+  "run_count": 552,
   "last_daily": "2026-09-11",
   "cross_alerted": [
     [
@@ -496,6 +496,24 @@
       "note": "09-04T19:04 2e+05 FATCOIN\u300109-04T19:53 3e+05 FATCOIN\u300109-04T23:03 2e+05 FATCOIN",
       "value": 262.35412192871956,
       "unit": 1.4730000000000001e-05
+    },
+    "bsc:0xf05662fdb6f173d4d84c3d6d4133d8e54ab1ffff:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
+      "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
+      "chain": "bsc",
+      "contract": "0xf05662fdb6f173d4d84c3d6d4133d8e54ab1ffff",
+      "sym": "BOB",
+      "amount": 11709233.967901673,
+      "usd": 3938.9863068021227,
+      "counter_usd": 0.0,
+      "n": 1,
+      "other": {},
+      "first": 1789157337,
+      "last": 1789157337,
+      "runs": 1,
+      "funding": 1489039.7906309336,
+      "note": "09-04T23:03 2e+05 FATCOIN\u300109-04T23:16 19.97 SPCXB\u300109-04T23:40 4.423e+06 DELTA",
+      "value": 3938.9863068021227,
+      "unit": 0.0003364
     }
   },
   "last_daily_cut": 1789138800
