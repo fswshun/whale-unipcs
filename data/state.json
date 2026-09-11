@@ -1,5 +1,5 @@
 {
-  "run_count": 457,
+  "run_count": 458,
   "last_daily": "2026-09-10",
   "cross_alerted": [],
   "buy_accum": {
@@ -406,6 +406,66 @@
       "note": "",
       "value": 300.0,
       "unit": 4.842802029620928e-05
+    },
+    "robinhood:0xf014a3782e6979bd965376f6638d90914820ebff:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
+      "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
+      "chain": "robinhood",
+      "contract": "0xf014a3782e6979bd965376f6638d90914820ebff",
+      "sym": "+",
+      "amount": 1692345.767881509,
+      "usd": 2084.969986030019,
+      "counter_usd": 0.0,
+      "n": 1,
+      "other": {},
+      "first": 1789087356,
+      "last": 1789087356,
+      "runs": 1,
+      "funding": 1503703.1634387143,
+      "note": "09-04T04:03 37.5 SPCXB\u300109-04T04:03 5.135 NVDA\u300109-04T11:50 9.1e+06 AMC",
+      "value": 2084.969986030019,
+      "unit": 0.001232
+    },
+    "solana:Xsf9mBktVB9BSU5kf4nHxPq5hCBJ2j2ui3ecFGxPRGc:6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC": {
+      "wallet": "6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC",
+      "chain": "solana",
+      "contract": "Xsf9mBktVB9BSU5kf4nHxPq5hCBJ2j2ui3ecFGxPRGc",
+      "sym": "GMEx",
+      "amount": 16.73388686,
+      "usd": 360.78260070159996,
+      "counter_usd": 727.7826007015999,
+      "n": 1,
+      "other": {
+        "USDC": 367.0,
+        "GMEx": 16.73388686
+      },
+      "first": 1789087459,
+      "last": 1789087459,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 727.7826007015999,
+      "unit": 43.49154543653942
+    },
+    "solana:61i3GyTb1dpPBPWVMzdni1wLDr8R4hfkKqLQc5EctEBz:6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC": {
+      "wallet": "6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC",
+      "chain": "solana",
+      "contract": "61i3GyTb1dpPBPWVMzdni1wLDr8R4hfkKqLQc5EctEBz",
+      "sym": "+",
+      "amount": 2611563.433343,
+      "usd": 415.2385859015369,
+      "counter_usd": 727.7826007015999,
+      "n": 1,
+      "other": {
+        "USDC": 367.0,
+        "GMEx": 16.73388686
+      },
+      "first": 1789087459,
+      "last": 1789087459,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 727.7826007015999,
+      "unit": 0.0002786769761782056
     }
   },
   "last_daily_cut": 1789052400
