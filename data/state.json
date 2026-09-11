@@ -81,48 +81,6 @@
       "value": 1628.860141277011,
       "unit": 0.0019039122213631856
     },
-    "solana:GUbMJTArKAH8MxUhvBZw7NpXQcRD5jY6Sw4zdTQxdJNS:6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC": {
-      "wallet": "6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC",
-      "chain": "solana",
-      "contract": "GUbMJTArKAH8MxUhvBZw7NpXQcRD5jY6Sw4zdTQxdJNS",
-      "sym": "VIAGRA",
-      "amount": 4253050.035906,
-      "usd": 179.64883351666944,
-      "counter_usd": 860.75636222471,
-      "n": 1,
-      "other": {
-        "SOL": 2.914812547,
-        "USDC": 290.0,
-        "PFE": 10.213163
-      },
-      "first": 1789082533,
-      "last": 1789082533,
-      "runs": 1,
-      "funding": 0.0,
-      "note": "",
-      "value": 860.75636222471,
-      "unit": 0.00020238566557126067
-    },
-    "solana:86hthLopFmiq1kayHGFGxTVYX4x6TUgH3AVD3yGrSTNK:6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC": {
-      "wallet": "6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC",
-      "chain": "solana",
-      "contract": "86hthLopFmiq1kayHGFGxTVYX4x6TUgH3AVD3yGrSTNK",
-      "sym": "ETHCAT",
-      "amount": 520121.298961,
-      "usd": 170.9118588385846,
-      "counter_usd": 103.0,
-      "n": 1,
-      "other": {
-        "USDC": 103.0
-      },
-      "first": 1789082341,
-      "last": 1789082341,
-      "runs": 1,
-      "funding": 0.0,
-      "note": "",
-      "value": 103.0,
-      "unit": 0.00019803072899678197
-    },
     "solana:XsbEhLAtcf6HdfpFZ5xEMdqW8nfAvcsP5bdudRLJzJp:6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC": {
       "wallet": "6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC",
       "chain": "solana",
