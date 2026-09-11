@@ -498,8 +498,8 @@
       "contract": "SiLVFMgD3eD2rgK628NbTBq9MnuJF5FW2CRaVyTB35L",
       "sym": "SILV",
       "amount": 10.048734,
-      "usd": 407.57665104,
-      "counter_usd": 1006.991328146114,
+      "usd": 410.39029656,
+      "counter_usd": 1010.4637373924771,
       "n": 1,
       "other": {
         "SOL": 1.231709323,
@@ -512,8 +512,8 @@
       "runs": 1,
       "funding": 0.0,
       "note": "",
-      "value": 1006.991328146114,
-      "unit": 100.21076566919913
+      "value": 1010.4637373924771,
+      "unit": 100.55632255689892
     }
   },
   "last_daily_cut": 1789052400
