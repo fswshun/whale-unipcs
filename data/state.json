@@ -1,5 +1,5 @@
 {
-  "run_count": 455,
+  "run_count": 456,
   "last_daily": "2026-09-10",
   "cross_alerted": [],
   "buy_accum": {
@@ -175,21 +175,22 @@
       "chain": "solana",
       "contract": "XsbEhLAtcf6HdfpFZ5xEMdqW8nfAvcsP5bdudRLJzJp",
       "sym": "AAPLx",
-      "amount": 1.68790505,
-      "usd": 551.0841197745,
-      "counter_usd": 2212.1682395489997,
-      "n": 2,
+      "amount": 3.86828868,
+      "usd": 1263.1756094962,
+      "counter_usd": 3652.3107537303913,
+      "n": 3,
       "other": {
-        "USDC": 1110.0,
-        "AAPLx": 3.3758101
+        "USDC": 1113.160434,
+        "AAPLx": 5.5561937299999995,
+        "TREE": 322030.471106038
       },
       "first": 1789084743,
-      "last": 1789084743,
-      "runs": 1,
+      "last": 1789084952,
+      "runs": 2,
       "funding": 0.0,
       "note": "",
-      "value": 2212.1682395489997,
-      "unit": 1310.5999295096603
+      "value": 3652.3107537303913,
+      "unit": 944.1670609057004
     },
     "solana:8xH8ikqGXNTSYmmUVakCE2tVwU7aYJwz2JZkqAjW88sG:6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC": {
       "wallet": "6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC",
@@ -367,6 +368,24 @@
       "note": "",
       "value": 248.9111955128,
       "unit": 306.2671831666689
+    },
+    "ethereum:0xf12cbb0b9a0bcc6fc6782775f513bee049516ac9:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
+      "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
+      "chain": "ethereum",
+      "contract": "0xf12cbb0b9a0bcc6fc6782775f513bee049516ac9",
+      "sym": "UNCN",
+      "amount": 3020.3238039999997,
+      "usd": 1423.4786088252,
+      "counter_usd": 0.0,
+      "n": 2,
+      "other": {},
+      "first": 1789036031,
+      "last": 1789056779,
+      "runs": 1,
+      "funding": 2766053.7248255676,
+      "note": "09-04T04:03 37.5 SPCXB\u300109-04T04:03 5.135 NVDA\u300109-04T11:50 9.1e+06 AMC",
+      "value": 1423.4786088252,
+      "unit": 0.4713
     }
   },
   "last_daily_cut": 1789052400
