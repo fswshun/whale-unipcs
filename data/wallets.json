@@ -137,7 +137,8 @@
     "parent": "0x01db37579e55ce13f4504019025e36047bdad845",
     "first_seen": "2026-09-11T16:12:41+00:00",
     "chains": [
-      "bsc"
+      "bsc",
+      "robinhood"
     ]
   },
   "0xc292ed096cb52030aa9325e78ebc464b70de8a3a": {
@@ -145,7 +146,8 @@
     "parent": "0x01db37579e55ce13f4504019025e36047bdad845",
     "first_seen": "2026-09-11T16:30:31+00:00",
     "chains": [
-      "bsc"
+      "bsc",
+      "robinhood"
     ]
   },
   "0x4c2945624031e88c44bbf2d49dc4bbf5b6a5d30a": {
@@ -161,7 +163,8 @@
     "parent": "0x4c2945624031e88c44bbf2d49dc4bbf5b6a5d30a",
     "first_seen": "2026-09-09T14:44:39+00:00",
     "chains": [
-      "bsc"
+      "bsc",
+      "robinhood"
     ]
   }
 }
