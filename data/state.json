@@ -1,5 +1,5 @@
 {
-  "run_count": 612,
+  "run_count": 613,
   "last_daily": "2026-09-11",
   "cross_alerted": [
     [
@@ -284,24 +284,6 @@
       "value": 1032.3725880491143,
       "unit": 0.0001482
     },
-    "robinhood:0x2dcea031ef967be9066f3c43687356ce824115b0:0x0a6ebed0155edb4b21d92ad02897a626cd90119e": {
-      "wallet": "0x0a6ebed0155edb4b21d92ad02897a626cd90119e",
-      "chain": "robinhood",
-      "contract": "0x2dcea031ef967be9066f3c43687356ce824115b0",
-      "sym": "PONSWAP",
-      "amount": 40146123.85130293,
-      "usd": 964.3098949082964,
-      "counter_usd": 0.0,
-      "n": 2,
-      "other": {},
-      "first": 1789126481,
-      "last": 1789126556,
-      "runs": 1,
-      "funding": 3448011.094106853,
-      "note": "09-04T11:50 9.1e+06 AMC\u300109-04T11:50 5.144 QQQB\u300109-04T11:50 39.78 SPCXB",
-      "value": 964.3098949082964,
-      "unit": 2.402e-05
-    },
     "robinhood:0x1df1f09c4dd65c76746d53467361d536cdfdc719:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
       "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
       "chain": "robinhood",
@@ -447,24 +429,6 @@
       "note": "",
       "value": 251.727,
       "unit": 0.00031637938646221313
-    },
-    "robinhood:0xf084996360be4ea704b08cc1f661aeadbc611ec7:0x0a6ebed0155edb4b21d92ad02897a626cd90119e": {
-      "wallet": "0x0a6ebed0155edb4b21d92ad02897a626cd90119e",
-      "chain": "robinhood",
-      "contract": "0xf084996360be4ea704b08cc1f661aeadbc611ec7",
-      "sym": "PONSFUN",
-      "amount": 10294004.760500673,
-      "usd": 209.58593692379372,
-      "counter_usd": 0.0,
-      "n": 1,
-      "other": {},
-      "first": 1789126142,
-      "last": 1789126142,
-      "runs": 1,
-      "funding": 1724005.5470534265,
-      "note": "09-04T11:50 9.1e+06 AMC\u300109-04T11:50 5.144 QQQB\u300109-04T11:50 39.78 SPCXB",
-      "value": 209.58593692379372,
-      "unit": 2.036e-05
     },
     "robinhood:0x4cf1763c9285cc6fa6754eed933a0fcd4053ece4:0x0a6ebed0155edb4b21d92ad02897a626cd90119e": {
       "wallet": "0x0a6ebed0155edb4b21d92ad02897a626cd90119e",
