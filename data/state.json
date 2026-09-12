@@ -1,5 +1,5 @@
 {
-  "run_count": 609,
+  "run_count": 610,
   "last_daily": "2026-09-11",
   "cross_alerted": [
     [
@@ -355,24 +355,6 @@
       "note": "09-04T11:50 9.1e+06 AMC\u300109-04T11:50 5.144 QQQB\u300109-04T11:50 39.78 SPCXB",
       "value": 632.5403746929157,
       "unit": 1.435e-05
-    },
-    "robinhood:0xa68ed2f263441f16597cefbde02b0df6ef08c666:0x0a6ebed0155edb4b21d92ad02897a626cd90119e": {
-      "wallet": "0x0a6ebed0155edb4b21d92ad02897a626cd90119e",
-      "chain": "robinhood",
-      "contract": "0xa68ed2f263441f16597cefbde02b0df6ef08c666",
-      "sym": "JUGGERNAUT",
-      "amount": 43192843.99435534,
-      "usd": 588.7184636430633,
-      "counter_usd": 0.0,
-      "n": 1,
-      "other": {},
-      "first": 1789122995,
-      "last": 1789122995,
-      "runs": 1,
-      "funding": 1682340.2468170486,
-      "note": "09-04T11:50 9.1e+06 AMC\u300109-04T11:50 5.144 QQQB\u300109-04T11:50 39.78 SPCXB",
-      "value": 588.7184636430633,
-      "unit": 1.3629999999999998e-05
     },
     "robinhood:0x24672dbd69237fb00a7e3902c23e6268c84de5b7:0x0a6ebed0155edb4b21d92ad02897a626cd90119e": {
       "wallet": "0x0a6ebed0155edb4b21d92ad02897a626cd90119e",
