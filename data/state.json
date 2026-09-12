@@ -1,5 +1,5 @@
 {
-  "run_count": 632,
+  "run_count": 633,
   "last_daily": "2026-09-12",
   "cross_alerted": [
     [
@@ -10,24 +10,6 @@
     ]
   ],
   "buy_accum": {
-    "bsc:0x5ab8b8e5e1be203db1f061254abf84fc4b557777:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
-      "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
-      "chain": "bsc",
-      "contract": "0x5ab8b8e5e1be203db1f061254abf84fc4b557777",
-      "sym": "AdAstra",
-      "amount": 17810870.463592637,
-      "usd": 262.35412192871956,
-      "counter_usd": 0.0,
-      "n": 1,
-      "other": {},
-      "first": 1789152566,
-      "last": 1789152566,
-      "runs": 1,
-      "funding": 1498599.7906309336,
-      "note": "09-04T19:04 2e+05 FATCOIN\u300109-04T19:53 3e+05 FATCOIN\u300109-04T23:03 2e+05 FATCOIN",
-      "value": 262.35412192871956,
-      "unit": 1.4730000000000001e-05
-    },
     "bsc:0xf05662fdb6f173d4d84c3d6d4133d8e54ab1ffff:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
       "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
       "chain": "bsc",
@@ -139,24 +121,6 @@
       "note": "09-04T23:03 2e+05 FATCOIN\u300109-04T23:16 19.97 SPCXB\u300109-04T23:40 4.423e+06 DELTA",
       "value": 1473.7492862625172,
       "unit": 0.00020129999999999996
-    },
-    "robinhood:0x1df1f09c4dd65c76746d53467361d536cdfdc719:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
-      "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
-      "chain": "robinhood",
-      "contract": "0x1df1f09c4dd65c76746d53467361d536cdfdc719",
-      "sym": "FROGE",
-      "amount": 4584857.31884085,
-      "usd": 800.9745736014964,
-      "counter_usd": 0.0,
-      "n": 1,
-      "other": {},
-      "first": 1789152497,
-      "last": 1789152497,
-      "runs": 1,
-      "funding": 1596168.466026564,
-      "note": "09-04T19:04 2e+05 FATCOIN\u300109-04T19:53 3e+05 FATCOIN\u300109-04T23:03 2e+05 FATCOIN",
-      "value": 800.9745736014964,
-      "unit": 0.0001747
     },
     "robinhood:0xac77646bcff9d52e99800534192e0290933f4094:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
       "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
