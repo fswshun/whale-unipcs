@@ -1,5 +1,5 @@
 {
-  "run_count": 606,
+  "run_count": 607,
   "last_daily": "2026-09-11",
   "cross_alerted": [
     [
@@ -27,29 +27,6 @@
       "note": "09-04T16:38 8.415e+05 \u725b\u6765\u300109-04T16:38 8.415e+05 \u725b\u6765\u300109-04T16:56 1e+07 AMC",
       "value": 2578.1512057549817,
       "unit": 0.0003847737156375391
-    },
-    "solana:SiLVFMgD3eD2rgK628NbTBq9MnuJF5FW2CRaVyTB35L:2heJbC32Tpfcb3nbUb5ER61K11FGZVfVGtVnDm6LDogF": {
-      "wallet": "2heJbC32Tpfcb3nbUb5ER61K11FGZVfVGtVnDm6LDogF",
-      "chain": "solana",
-      "contract": "SiLVFMgD3eD2rgK628NbTBq9MnuJF5FW2CRaVyTB35L",
-      "sym": "SILV",
-      "amount": 10.048734,
-      "usd": 410.39029656,
-      "counter_usd": 1010.4637373924771,
-      "n": 1,
-      "other": {
-        "SOL": 1.231709323,
-        "USDC": 0.95,
-        "DEGS": 773541.9426082029,
-        "SILV": 10.048734
-      },
-      "first": 1789120546,
-      "last": 1789120546,
-      "runs": 1,
-      "funding": 0.0,
-      "note": "",
-      "value": 1010.4637373924771,
-      "unit": 100.55632255689892
     },
     "bsc:0x3c1127070996a55d838a1e2743249dc28cec7777:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
       "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
