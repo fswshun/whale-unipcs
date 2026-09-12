@@ -1,5 +1,5 @@
 {
-  "run_count": 631,
+  "run_count": 632,
   "last_daily": "2026-09-12",
   "cross_alerted": [
     [
@@ -157,24 +157,6 @@
       "note": "09-04T19:04 2e+05 FATCOIN\u300109-04T19:53 3e+05 FATCOIN\u300109-04T23:03 2e+05 FATCOIN",
       "value": 800.9745736014964,
       "unit": 0.0001747
-    },
-    "robinhood:0xbca2f7789815d7cf627a60e85f615532efb3be96:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
-      "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
-      "chain": "robinhood",
-      "contract": "0xbca2f7789815d7cf627a60e85f615532efb3be96",
-      "sym": "ABE",
-      "amount": 10220754.596371828,
-      "usd": 504.29203178498597,
-      "counter_usd": 0.0,
-      "n": 1,
-      "other": {},
-      "first": 1789152439,
-      "last": 1789152439,
-      "runs": 1,
-      "funding": 1596168.466026564,
-      "note": "09-04T19:04 2e+05 FATCOIN\u300109-04T19:53 3e+05 FATCOIN\u300109-04T23:03 2e+05 FATCOIN",
-      "value": 504.29203178498597,
-      "unit": 4.934e-05
     },
     "robinhood:0xac77646bcff9d52e99800534192e0290933f4094:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
       "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
@@ -445,8 +427,8 @@
       "runs": 1,
       "funding": 0.0,
       "note": "",
-      "value": 219.441,
-      "unit": 2.6054894669178214e-05
+      "value": 219.261,
+      "unit": 2.603352272391524e-05
     },
     "bsc:0xcf3f10c4f5649e47d35eedb4d591a61ab2b37777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
       "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
