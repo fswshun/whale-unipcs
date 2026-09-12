@@ -1,5 +1,5 @@
 {
-  "run_count": 626,
+  "run_count": 627,
   "last_daily": "2026-09-12",
   "cross_alerted": [
     [
@@ -302,24 +302,6 @@
       "value": 353.083746957663,
       "unit": 4.121e-05
     },
-    "robinhood:0xc0b3a7340f2daaa12615f31606133bedcef28217:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
-      "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
-      "chain": "robinhood",
-      "contract": "0xc0b3a7340f2daaa12615f31606133bedcef28217",
-      "sym": "OPAI",
-      "amount": 7554517.18595018,
-      "usd": 262.4439270399093,
-      "counter_usd": 0.0,
-      "n": 1,
-      "other": {},
-      "first": 1789145407,
-      "last": 1789145407,
-      "runs": 1,
-      "funding": 1566242.1068944444,
-      "note": "09-04T16:56 1e+07 AMC\u300109-04T18:09 3e+05 FATCOIN\u300109-04T19:04 2e+05 FATCOIN",
-      "value": 262.4439270399093,
-      "unit": 3.474e-05
-    },
     "robinhood:0xb934cabf87781f7eb13265de4cb2ce090d00c4e3:0xe63c05565565ac91aaa46b6536e167529509681c": {
       "wallet": "0xe63c05565565ac91aaa46b6536e167529509681c",
       "chain": "robinhood",
@@ -339,24 +321,6 @@
       "note": "",
       "value": 251.727,
       "unit": 0.00031637938646221313
-    },
-    "robinhood:0x687e1cf0c6d5ce808e0cd623d35662b09c22c45e:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
-      "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
-      "chain": "robinhood",
-      "contract": "0x687e1cf0c6d5ce808e0cd623d35662b09c22c45e",
-      "sym": "THWAY",
-      "amount": 13585526.627797443,
-      "usd": 132.7441806802088,
-      "counter_usd": 0.0,
-      "n": 1,
-      "other": {},
-      "first": 1789145127,
-      "last": 1789145127,
-      "runs": 1,
-      "funding": 1566242.1068944444,
-      "note": "09-04T16:56 1e+07 AMC\u300109-04T18:09 3e+05 FATCOIN\u300109-04T19:04 2e+05 FATCOIN",
-      "value": 132.7441806802088,
-      "unit": 9.771e-06
     },
     "robinhood:0x575b2999100150ad45d75e92c33b3e01eb281e18:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
       "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
@@ -553,6 +517,26 @@
       "note": "",
       "value": 73.44500000000001,
       "unit": 3.4180478801072474e-05
+    },
+    "solana:9oXA1VWKNiYDYa6VKHBFFBBvZdvuhw1b2eD5Aka7YrVt:2heJbC32Tpfcb3nbUb5ER61K11FGZVfVGtVnDm6LDogF": {
+      "wallet": "2heJbC32Tpfcb3nbUb5ER61K11FGZVfVGtVnDm6LDogF",
+      "chain": "solana",
+      "contract": "9oXA1VWKNiYDYa6VKHBFFBBvZdvuhw1b2eD5Aka7YrVt",
+      "sym": "FLAME",
+      "amount": 2737225.442677,
+      "usd": 7905.107078451176,
+      "counter_usd": 4932.430643,
+      "n": 1,
+      "other": {
+        "USDC": 4932.430643
+      },
+      "first": 1789231275,
+      "last": 1789231275,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 4932.430643,
+      "unit": 0.001801981877742629
     }
   },
   "last_daily_cut": 1789225200
