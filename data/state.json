@@ -1,5 +1,5 @@
 {
-  "run_count": 641,
+  "run_count": 642,
   "last_daily": "2026-09-12",
   "cross_alerted": [
     [
@@ -67,24 +67,6 @@
       "note": "09-04T23:03 2e+05 FATCOIN\u300109-04T23:16 19.97 SPCXB\u300109-04T23:40 4.423e+06 DELTA",
       "value": 21340.42809244988,
       "unit": 0.007731
-    },
-    "robinhood:0x4eb990547bce4a982432ca88cf5fae7eed1a2d35:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
-      "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
-      "chain": "robinhood",
-      "contract": "0x4eb990547bce4a982432ca88cf5fae7eed1a2d35",
-      "sym": "FLYBRAIN",
-      "amount": 1158794.9951398214,
-      "usd": 11406.019137161262,
-      "counter_usd": 0.0,
-      "n": 1,
-      "other": {},
-      "first": 1789161672,
-      "last": 1789161672,
-      "runs": 1,
-      "funding": 1587408.2629064755,
-      "note": "09-04T23:03 2e+05 FATCOIN\u300109-04T23:16 19.97 SPCXB\u300109-04T23:40 4.423e+06 DELTA",
-      "value": 11406.019137161262,
-      "unit": 0.009843
     },
     "robinhood:0xd07b2001d0713ba95c9b89eef3d6c672cf35e12f:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
       "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
