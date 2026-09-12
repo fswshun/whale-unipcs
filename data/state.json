@@ -1,5 +1,5 @@
 {
-  "run_count": 592,
+  "run_count": 593,
   "last_daily": "2026-09-11",
   "cross_alerted": [
     [
@@ -27,24 +27,6 @@
       "note": "09-04T16:38 8.415e+05 \u725b\u6765\u300109-04T16:38 8.415e+05 \u725b\u6765\u300109-04T16:56 1e+07 AMC",
       "value": 2578.1512057549817,
       "unit": 0.0003847737156375391
-    },
-    "robinhood:0x9336f46d30c8a142703f512b6bb9758f3591e1a3:0xf89f3858bc7bac05a83ec284e3e9acdb58bf892a": {
-      "wallet": "0xf89f3858bc7bac05a83ec284e3e9acdb58bf892a",
-      "chain": "robinhood",
-      "contract": "0x9336f46d30c8a142703f512b6bb9758f3591e1a3",
-      "sym": "PWO",
-      "amount": 55180.60173212424,
-      "usd": 192.3595776381851,
-      "counter_usd": 0.0,
-      "n": 1,
-      "other": {},
-      "first": 1789106417,
-      "last": 1789106417,
-      "runs": 1,
-      "funding": 1585747.1913353377,
-      "note": "09-04T11:50 9.1e+06 AMC\u300109-04T11:50 5.144 QQQB\u300109-04T11:50 39.78 SPCXB",
-      "value": 192.3595776381851,
-      "unit": 0.003486
     },
     "solana:SiLVFMgD3eD2rgK628NbTBq9MnuJF5FW2CRaVyTB35L:2heJbC32Tpfcb3nbUb5ER61K11FGZVfVGtVnDm6LDogF": {
       "wallet": "2heJbC32Tpfcb3nbUb5ER61K11FGZVfVGtVnDm6LDogF",
