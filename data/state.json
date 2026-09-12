@@ -1,5 +1,5 @@
 {
-  "run_count": 611,
+  "run_count": 612,
   "last_daily": "2026-09-11",
   "cross_alerted": [
     [
@@ -338,42 +338,6 @@
       "value": 731.9282800259858,
       "unit": 0.0001851
     },
-    "robinhood:0xa24265fb9ad045ed8d7a734d0248d7c7ae8c4860:0x0a6ebed0155edb4b21d92ad02897a626cd90119e": {
-      "wallet": "0x0a6ebed0155edb4b21d92ad02897a626cd90119e",
-      "chain": "robinhood",
-      "contract": "0xa24265fb9ad045ed8d7a734d0248d7c7ae8c4860",
-      "sym": "GAMBLE",
-      "amount": 44079468.619715385,
-      "usd": 632.5403746929157,
-      "counter_usd": 0.0,
-      "n": 1,
-      "other": {},
-      "first": 1789124284,
-      "last": 1789124284,
-      "runs": 1,
-      "funding": 1682340.2468170486,
-      "note": "09-04T11:50 9.1e+06 AMC\u300109-04T11:50 5.144 QQQB\u300109-04T11:50 39.78 SPCXB",
-      "value": 632.5403746929157,
-      "unit": 1.435e-05
-    },
-    "robinhood:0x24672dbd69237fb00a7e3902c23e6268c84de5b7:0x0a6ebed0155edb4b21d92ad02897a626cd90119e": {
-      "wallet": "0x0a6ebed0155edb4b21d92ad02897a626cd90119e",
-      "chain": "robinhood",
-      "contract": "0x24672dbd69237fb00a7e3902c23e6268c84de5b7",
-      "sym": "PONZI",
-      "amount": 35828410.76420141,
-      "usd": 586.152800102335,
-      "counter_usd": 0.0,
-      "n": 1,
-      "other": {},
-      "first": 1789124784,
-      "last": 1789124784,
-      "runs": 1,
-      "funding": 1710130.6663469095,
-      "note": "09-04T11:50 9.1e+06 AMC\u300109-04T11:50 5.144 QQQB\u300109-04T11:50 39.78 SPCXB",
-      "value": 586.152800102335,
-      "unit": 1.636e-05
-    },
     "robinhood:0xbca2f7789815d7cf627a60e85f615532efb3be96:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
       "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
       "chain": "robinhood",
@@ -445,24 +409,6 @@
       "note": "09-04T19:04 2e+05 FATCOIN\u300109-04T19:53 3e+05 FATCOIN\u300109-04T23:03 2e+05 FATCOIN",
       "value": 353.083746957663,
       "unit": 4.121e-05
-    },
-    "robinhood:0xa62acb2f5a43c4c5ee480af5a63f462dde34f070:0x0a6ebed0155edb4b21d92ad02897a626cd90119e": {
-      "wallet": "0x0a6ebed0155edb4b21d92ad02897a626cd90119e",
-      "chain": "robinhood",
-      "contract": "0xa62acb2f5a43c4c5ee480af5a63f462dde34f070",
-      "sym": "HEDGE",
-      "amount": 20751254.929488927,
-      "usd": 348.62108281541396,
-      "counter_usd": 0.0,
-      "n": 1,
-      "other": {},
-      "first": 1789125122,
-      "last": 1789125122,
-      "runs": 1,
-      "funding": 1724005.5470534265,
-      "note": "09-04T11:50 9.1e+06 AMC\u300109-04T11:50 5.144 QQQB\u300109-04T11:50 39.78 SPCXB",
-      "value": 348.62108281541396,
-      "unit": 1.68e-05
     },
     "robinhood:0xc0b3a7340f2daaa12615f31606133bedcef28217:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
       "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
