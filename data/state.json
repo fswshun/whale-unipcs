@@ -1,5 +1,5 @@
 {
-  "run_count": 603,
+  "run_count": 604,
   "last_daily": "2026-09-11",
   "cross_alerted": [
     [
@@ -722,6 +722,26 @@
       "note": "09-05T16:56 20.43 QQQB\u300109-05T16:57 0.01195 BTCB\u300109-05T17:02 8.039 SPCXB",
       "value": 1864.900038498529,
       "unit": 0.0001652
+    },
+    "solana:9oXA1VWKNiYDYa6VKHBFFBBvZdvuhw1b2eD5Aka7YrVt:AmVpfjnz7QbV7wjmHzKAoWdQvFxQ5c91UtUZuxzbhE4G": {
+      "wallet": "AmVpfjnz7QbV7wjmHzKAoWdQvFxQ5c91UtUZuxzbhE4G",
+      "chain": "solana",
+      "contract": "9oXA1VWKNiYDYa6VKHBFFBBvZdvuhw1b2eD5Aka7YrVt",
+      "sym": "FLAME",
+      "amount": 40379.262127,
+      "usd": 0.0,
+      "counter_usd": 60.0,
+      "n": 1,
+      "other": {
+        "USDT": 60.0
+      },
+      "first": 1789203099,
+      "last": 1789203099,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 60.0,
+      "unit": 0.001485911253437204
     }
   },
   "last_daily_cut": 1789138800
