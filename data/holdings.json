@@ -50696,15 +50696,8 @@
         "symbol": "INU",
         "amount": 15378998.61810352,
         "contract": "0xb9f89a5a075cc280362c5167c5e95723bb2c8cad",
-        "price": 2.995e-05,
-        "usd": 460.6010086122004
-      },
-      "0xac77646bcff9d52e99800534192e0290933f4094": {
-        "symbol": "MARTIANS",
-        "amount": 2724814.61602052,
-        "contract": "0xac77646bcff9d52e99800534192e0290933f4094",
-        "price": 0.00016579,
-        "usd": 451.747015190042
+        "price": 2.926e-05,
+        "usd": 449.98949956570897
       },
       "0xac77646bcff9d52e99800534192e0290933f4094": {
         "symbol": "MARTIANS",
@@ -50712,13 +50705,6 @@
         "contract": "0xac77646bcff9d52e99800534192e0290933f4094",
         "price": 0.00016615,
         "usd": 452.7279484518094
-      },
-      "0xb9f89a5a075cc280362c5167c5e95723bb2c8cad": {
-        "symbol": "INU",
-        "amount": 15378998.61810352,
-        "contract": "0xb9f89a5a075cc280362c5167c5e95723bb2c8cad",
-        "price": 2.926e-05,
-        "usd": 449.98949956570897
       },
       "0x3df3644bcf4ce0d993e18c86c3080e53bfea06f1": {
         "symbol": "JACOB",
