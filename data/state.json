@@ -10,26 +10,6 @@
     ]
   ],
   "buy_accum": {
-    "solana:4MMQY9bwkxxTtsK3W227Q5ABT6yFY8Pmn9Ze7wmAXKY8:6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC": {
-      "wallet": "6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC",
-      "chain": "solana",
-      "contract": "4MMQY9bwkxxTtsK3W227Q5ABT6yFY8Pmn9Ze7wmAXKY8",
-      "sym": "ALLINU",
-      "amount": 70606.592927,
-      "usd": 385.668467757214,
-      "counter_usd": 294.547034,
-      "n": 2,
-      "other": {
-        "USDC": 294.547034
-      },
-      "first": 1789160012,
-      "last": 1789164942,
-      "runs": 2,
-      "funding": 0.0,
-      "note": "",
-      "value": 294.547034,
-      "unit": 0.00417166473822822
-    },
     "robinhood:0xd07b2001d0713ba95c9b89eef3d6c672cf35e12f:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
       "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
       "chain": "robinhood",
