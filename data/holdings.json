@@ -41095,8 +41095,8 @@
         "symbol": "DEAI",
         "amount": 1e-18,
         "contract": "0x1495bc9e44af1f8bcb62278d2bec4540cf0c05ea",
-        "price": 0.00114972,
-        "usd": 1.14972e-21
+        "price": 0.0005506,
+        "usd": 5.5060000000000005e-22
       },
       "0x19640000000ba88d36206beb10d0e86011c8d08c": {
         "symbol": "RALLY",
@@ -41111,13 +41111,6 @@
         "contract": "0xbaac2b4491727d78d2b78815144570b9f2fe8899",
         "price": 0.0004278,
         "usd": 8.556e-22
-      },
-      "0x1495bc9e44af1f8bcb62278d2bec4540cf0c05ea": {
-        "symbol": "DEAI",
-        "amount": 1e-18,
-        "contract": "0x1495bc9e44af1f8bcb62278d2bec4540cf0c05ea",
-        "price": 0.0005506,
-        "usd": 5.5060000000000005e-22
       },
       "0xcdb8fc4ef27dfeaba9b31899a9d165398bf97b9e": {
         "symbol": "ETHOS",
@@ -50640,8 +50633,8 @@
         "symbol": "LILUNI",
         "amount": 3900149.1254500607,
         "contract": "0x4a6eec8a30b49d289b9fc865fd374b4d61eab8fb",
-        "price": 0.0006616,
-        "usd": 2580.3386613977605
+        "price": 0.00064766,
+        "usd": 2525.9705825889864
       },
       "0x9936403a9cc72cf306063e3496ea387428a3aecd": {
         "symbol": "CINEMA",
@@ -50649,13 +50642,6 @@
         "contract": "0x9936403a9cc72cf306063e3496ea387428a3aecd",
         "price": 0.0001388,
         "usd": 2378.797004800132
-      },
-      "0x4a6eec8a30b49d289b9fc865fd374b4d61eab8fb": {
-        "symbol": "LILUNI",
-        "amount": 3900149.1254500607,
-        "contract": "0x4a6eec8a30b49d289b9fc865fd374b4d61eab8fb",
-        "price": 0.00064766,
-        "usd": 2525.9705825889864
       },
       "0x4a0e65a3eccec6dbe60ae065f2e7bb85fae35eea": {
         "symbol": "SPCX",
