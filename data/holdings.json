@@ -8890,8 +8890,8 @@
         "symbol": "QUORUM",
         "amount": 16787.02967,
         "contract": "0xa6452fd7134218f62056a304eaf501f8714a26b9",
-        "price": 2.79e-05,
-        "usd": 0.468358127793
+        "price": 2.658e-05,
+        "usd": 0.4461992486286
       },
       "0xcf3477158c28b3b327422bdedaff90a1abc7718e": {
         "symbol": "PONGETTE",
@@ -8906,13 +8906,6 @@
         "contract": "0x4a76d884bb9cbbf2138fbe47e99584eb5168dde2",
         "price": 0.0001057,
         "usd": 0.4555633325814542
-      },
-      "0xa6452fd7134218f62056a304eaf501f8714a26b9": {
-        "symbol": "QUORUM",
-        "amount": 16787.02967,
-        "contract": "0xa6452fd7134218f62056a304eaf501f8714a26b9",
-        "price": 2.658e-05,
-        "usd": 0.4461992486286
       },
       "0x78e7460ceeae3d206c3aaf57bffc33d3368c1e18": {
         "symbol": "WANNA",
