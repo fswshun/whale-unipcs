@@ -1,6 +1,6 @@
 {
-  "run_count": 625,
-  "last_daily": "2026-09-11",
+  "run_count": 626,
+  "last_daily": "2026-09-12",
   "cross_alerted": [
     [
       "2026-09-11",
@@ -10,42 +10,6 @@
     ]
   ],
   "buy_accum": {
-    "bsc:0x3c1127070996a55d838a1e2743249dc28cec7777:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
-      "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
-      "chain": "bsc",
-      "contract": "0x3c1127070996a55d838a1e2743249dc28cec7777",
-      "sym": "BinanceTown",
-      "amount": 4506338.353784793,
-      "usd": 764.7256186372794,
-      "counter_usd": 0.0,
-      "n": 1,
-      "other": {},
-      "first": 1789140269,
-      "last": 1789140269,
-      "runs": 1,
-      "funding": 1657946.000403803,
-      "note": "09-04T16:38 8.415e+05 \u725b\u6765\u300109-04T16:38 8.415e+05 \u725b\u6765\u300109-04T16:56 1e+07 AMC",
-      "value": 764.7256186372794,
-      "unit": 0.0001697
-    },
-    "bsc:0xbc5ff7fe4d1b928423cf6c54bfa5f907130b4024:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
-      "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
-      "chain": "bsc",
-      "contract": "0xbc5ff7fe4d1b928423cf6c54bfa5f907130b4024",
-      "sym": "MOMO",
-      "amount": 568923.7103978517,
-      "usd": 1769.9216630477165,
-      "counter_usd": 0.0,
-      "n": 1,
-      "other": {},
-      "first": 1789141121,
-      "last": 1789141121,
-      "runs": 1,
-      "funding": 1657946.000403803,
-      "note": "09-04T16:38 8.415e+05 \u725b\u6765\u300109-04T16:38 8.415e+05 \u725b\u6765\u300109-04T16:56 1e+07 AMC",
-      "value": 1769.9216630477165,
-      "unit": 0.003111
-    },
     "bsc:0xf06c3271e72e6ce657e75415dd038f11313d7777:0x0a6ebed0155edb4b21d92ad02897a626cd90119e": {
       "wallet": "0x0a6ebed0155edb4b21d92ad02897a626cd90119e",
       "chain": "bsc",
@@ -157,24 +121,6 @@
       "note": "",
       "value": 146.04306699999998,
       "unit": 0.0006315331871045891
-    },
-    "robinhood:0x3adde168a09132b95f25f52119a440b2bf9b32d0:0x0a6ebed0155edb4b21d92ad02897a626cd90119e": {
-      "wallet": "0x0a6ebed0155edb4b21d92ad02897a626cd90119e",
-      "chain": "robinhood",
-      "contract": "0x3adde168a09132b95f25f52119a440b2bf9b32d0",
-      "sym": "JUGGERNAUT",
-      "amount": 79357566.59763272,
-      "usd": 34441.1839033726,
-      "counter_usd": 0.0,
-      "n": 1,
-      "other": {},
-      "first": 1789143078,
-      "last": 1789143078,
-      "runs": 1,
-      "funding": 1719788.6052612814,
-      "note": "09-04T16:38 8.415e+05 \u725b\u6765\u300109-04T16:38 8.415e+05 \u725b\u6765\u300109-04T16:56 1e+07 AMC",
-      "value": 34441.1839033726,
-      "unit": 0.000434
     },
     "robinhood:0xfd82d8db539b6ace0d50815845133767e24f1e18:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
       "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
@@ -485,7 +431,25 @@
       "note": "",
       "value": 60.0,
       "unit": 0.001485911253437204
+    },
+    "bsc:0x5a11c11d9676f4054b53559f44375ff249cb7777:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
+      "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
+      "chain": "bsc",
+      "contract": "0x5a11c11d9676f4054b53559f44375ff249cb7777",
+      "sym": "mj",
+      "amount": 29756188.869098984,
+      "usd": 459.43555613888833,
+      "counter_usd": 0.0,
+      "n": 1,
+      "other": {},
+      "first": 1789228515,
+      "last": 1789228515,
+      "runs": 1,
+      "funding": 1391625.6476436516,
+      "note": "09-05T16:56 20.43 QQQB\u300109-05T16:57 0.01195 BTCB\u300109-05T17:02 8.039 SPCXB",
+      "value": 459.43555613888833,
+      "unit": 1.544e-05
     }
   },
-  "last_daily_cut": 1789138800
+  "last_daily_cut": 1789225200
 }
