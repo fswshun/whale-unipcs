@@ -1,5 +1,5 @@
 {
-  "run_count": 627,
+  "run_count": 628,
   "last_daily": "2026-09-12",
   "cross_alerted": [
     [
@@ -10,24 +10,6 @@
     ]
   ],
   "buy_accum": {
-    "bsc:0x77e2515c9dab6d2deb22bc99a6a769ae93efdfe4:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
-      "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
-      "chain": "bsc",
-      "contract": "0x77e2515c9dab6d2deb22bc99a6a769ae93efdfe4",
-      "sym": "WERB",
-      "amount": 2629988.578973354,
-      "usd": 585.9614553952632,
-      "counter_usd": 0.0,
-      "n": 1,
-      "other": {},
-      "first": 1789146600,
-      "last": 1789146600,
-      "runs": 1,
-      "funding": 1504335.7906309336,
-      "note": "09-04T18:09 3e+05 FATCOIN\u300109-04T19:04 2e+05 FATCOIN\u300109-04T19:53 3e+05 FATCOIN",
-      "value": 585.9614553952632,
-      "unit": 0.0002228
-    },
     "bsc:0x5ab8b8e5e1be203db1f061254abf84fc4b557777:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
       "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
       "chain": "bsc",
