@@ -104,24 +104,6 @@
       "value": 21340.42809244988,
       "unit": 0.007731
     },
-    "robinhood:0x451b42a15100c340ca12f7c66de06fac5ea2d751:0x0a6ebed0155edb4b21d92ad02897a626cd90119e": {
-      "wallet": "0x0a6ebed0155edb4b21d92ad02897a626cd90119e",
-      "chain": "robinhood",
-      "contract": "0x451b42a15100c340ca12f7c66de06fac5ea2d751",
-      "sym": "BOW",
-      "amount": 2788134.6952020414,
-      "usd": 18878.460021213024,
-      "counter_usd": 0.0,
-      "n": 1,
-      "other": {},
-      "first": 1789149044,
-      "last": 1789149044,
-      "runs": 1,
-      "funding": 1585444.827189447,
-      "note": "09-04T18:09 3e+05 FATCOIN\u300109-04T19:04 2e+05 FATCOIN\u300109-04T19:53 3e+05 FATCOIN",
-      "value": 18878.460021213024,
-      "unit": 0.006771000000000001
-    },
     "robinhood:0x4eb990547bce4a982432ca88cf5fae7eed1a2d35:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
       "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
       "chain": "robinhood",
@@ -506,8 +488,8 @@
       "contract": "0x963e4e3e0720e3e44471f35c2c3aa5b524d87777",
       "sym": "FRONTIER",
       "amount": 8422256.270319488,
-      "usd": 230.93826693216033,
-      "counter_usd": 219.441,
+      "usd": 195.5647905968185,
+      "counter_usd": 219.261,
       "n": 1,
       "other": {
         "BNB": 0.3
@@ -517,8 +499,28 @@
       "runs": 1,
       "funding": 0.0,
       "note": "",
-      "value": 219.441,
-      "unit": 2.6054894669178214e-05
+      "value": 219.261,
+      "unit": 2.603352272391524e-05
+    },
+    "bsc:0xcf3f10c4f5649e47d35eedb4d591a61ab2b37777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
+      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
+      "chain": "bsc",
+      "contract": "0xcf3f10c4f5649e47d35eedb4d591a61ab2b37777",
+      "sym": "INCOME",
+      "amount": 58135287.33239021,
+      "usd": 201.49690589406447,
+      "counter_usd": 219.261,
+      "n": 1,
+      "other": {
+        "BNB": 0.3
+      },
+      "first": 1789235064,
+      "last": 1789235064,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 219.261,
+      "unit": 3.7715647425352658e-06
     }
   },
   "last_daily_cut": 1789225200
