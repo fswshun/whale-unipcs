@@ -39537,13 +39537,6 @@
         "symbol": "BNI",
         "amount": 2.0,
         "contract": "0x209e1c94a88318e2eae570bce87936589a90ffff",
-        "price": 0.0006387,
-        "usd": 0.0012774
-      },
-      "0x209e1c94a88318e2eae570bce87936589a90ffff": {
-        "symbol": "BNI",
-        "amount": 2.0,
-        "contract": "0x209e1c94a88318e2eae570bce87936589a90ffff",
         "price": 0.0006201,
         "usd": 0.0012402
       },
