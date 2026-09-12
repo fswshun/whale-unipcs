@@ -140,24 +140,6 @@
       "value": 1473.7492862625172,
       "unit": 0.00020129999999999996
     },
-    "robinhood:0xdce5c6317222c5b6e5d963eeac010dfc4da9e6da:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
-      "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
-      "chain": "robinhood",
-      "contract": "0xdce5c6317222c5b6e5d963eeac010dfc4da9e6da",
-      "sym": "$1",
-      "amount": 6966076.842436668,
-      "usd": 1032.3725880491143,
-      "counter_usd": 0.0,
-      "n": 1,
-      "other": {},
-      "first": 1789152133,
-      "last": 1789152133,
-      "runs": 1,
-      "funding": 1595170.827189447,
-      "note": "09-04T19:04 2e+05 FATCOIN\u300109-04T19:53 3e+05 FATCOIN\u300109-04T23:03 2e+05 FATCOIN",
-      "value": 1032.3725880491143,
-      "unit": 0.0001482
-    },
     "robinhood:0x1df1f09c4dd65c76746d53467361d536cdfdc719:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
       "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
       "chain": "robinhood",
@@ -175,24 +157,6 @@
       "note": "09-04T19:04 2e+05 FATCOIN\u300109-04T19:53 3e+05 FATCOIN\u300109-04T23:03 2e+05 FATCOIN",
       "value": 800.9745736014964,
       "unit": 0.0001747
-    },
-    "robinhood:0x51d1abab4d1e7b50642a25d3f7b2823067ebf9d7:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
-      "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
-      "chain": "robinhood",
-      "contract": "0x51d1abab4d1e7b50642a25d3f7b2823067ebf9d7",
-      "sym": "CRCL",
-      "amount": 3954231.658703327,
-      "usd": 731.9282800259858,
-      "counter_usd": 0.0,
-      "n": 1,
-      "other": {},
-      "first": 1789152100,
-      "last": 1789152100,
-      "runs": 1,
-      "funding": 1595170.827189447,
-      "note": "09-04T19:04 2e+05 FATCOIN\u300109-04T19:53 3e+05 FATCOIN\u300109-04T23:03 2e+05 FATCOIN",
-      "value": 731.9282800259858,
-      "unit": 0.0001851
     },
     "robinhood:0xbca2f7789815d7cf627a60e85f615532efb3be96:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
       "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
@@ -229,24 +193,6 @@
       "note": "09-04T19:04 2e+05 FATCOIN\u300109-04T19:53 3e+05 FATCOIN\u300109-04T23:03 2e+05 FATCOIN",
       "value": 480.3848168044177,
       "unit": 0.0001763
-    },
-    "robinhood:0xc32b91fe216af1b834db02f33326e983ad8cf201:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
-      "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
-      "chain": "robinhood",
-      "contract": "0xc32b91fe216af1b834db02f33326e983ad8cf201",
-      "sym": "CAMELTOE",
-      "amount": 17842559.306061305,
-      "usd": 479.4295685538672,
-      "counter_usd": 0.0,
-      "n": 1,
-      "other": {},
-      "first": 1789152170,
-      "last": 1789152170,
-      "runs": 1,
-      "funding": 1595170.827189447,
-      "note": "09-04T19:04 2e+05 FATCOIN\u300109-04T19:53 3e+05 FATCOIN\u300109-04T23:03 2e+05 FATCOIN",
-      "value": 479.4295685538672,
-      "unit": 2.687e-05
     },
     "robinhood:0x47cb7f9f0b6f4b7bbda69cb95f871a73c1687901:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
       "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
