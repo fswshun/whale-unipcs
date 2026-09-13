@@ -1,5 +1,5 @@
 {
-  "run_count": 692,
+  "run_count": 693,
   "last_daily": "2026-09-12",
   "cross_alerted": [
     [
@@ -445,6 +445,106 @@
       "note": "",
       "value": 215.36999999999998,
       "unit": 1.0248587216621864e-05
+    },
+    "bsc:0x2f6daba45df8026c63cbaed2e9da250dab477777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
+      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
+      "chain": "bsc",
+      "contract": "0x2f6daba45df8026c63cbaed2e9da250dab477777",
+      "sym": "ZECGUY",
+      "amount": 51112730.72623412,
+      "usd": 191.05938745466315,
+      "counter_usd": 359.77,
+      "n": 1,
+      "other": {
+        "BNB": 0.5
+      },
+      "first": 1789308584,
+      "last": 1789308584,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 359.77,
+      "unit": 7.038755215935751e-06
+    },
+    "bsc:0x1c3b56c339763c6d20adcc70a11a811df94a7777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
+      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
+      "chain": "bsc",
+      "contract": "0x1c3b56c339763c6d20adcc70a11a811df94a7777",
+      "sym": "MONKEY",
+      "amount": 60864966.75470135,
+      "usd": 226.11335149371553,
+      "counter_usd": 359.77,
+      "n": 1,
+      "other": {
+        "BNB": 0.5
+      },
+      "first": 1789309044,
+      "last": 1789309044,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 359.77,
+      "unit": 5.910953692786014e-06
+    },
+    "bsc:0x40c04e221a232e0f60d7a07474a9c2e381307777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
+      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
+      "chain": "bsc",
+      "contract": "0x40c04e221a232e0f60d7a07474a9c2e381307777",
+      "sym": "icat",
+      "amount": 22786421.30342969,
+      "usd": 265.0060797588873,
+      "counter_usd": 215.862,
+      "n": 1,
+      "other": {
+        "BNB": 0.3
+      },
+      "first": 1789307961,
+      "last": 1789307961,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 215.862,
+      "unit": 9.473273452005806e-06
+    },
+    "bsc:0xa5bd4cc5d503c84a89c168fbb9531e169ed67777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
+      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
+      "chain": "bsc",
+      "contract": "0xa5bd4cc5d503c84a89c168fbb9531e169ed67777",
+      "sym": "CumCoin",
+      "amount": 54508638.1674676,
+      "usd": 198.62947748225196,
+      "counter_usd": 215.862,
+      "n": 1,
+      "other": {
+        "BNB": 0.3
+      },
+      "first": 1789309598,
+      "last": 1789309598,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 215.862,
+      "unit": 3.960142965538863e-06
+    },
+    "bsc:0x95dfad76a24e89e9e462f710dfc0e8ad978c7777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
+      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
+      "chain": "bsc",
+      "contract": "0x95dfad76a24e89e9e462f710dfc0e8ad978c7777",
+      "sym": "piupiupiu",
+      "amount": 15296550.796449566,
+      "usd": 273.34936273255374,
+      "counter_usd": 215.862,
+      "n": 1,
+      "other": {
+        "BNB": 0.3
+      },
+      "first": 1789309934,
+      "last": 1789309934,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 215.862,
+      "unit": 1.4111808790914029e-05
     }
   },
   "last_daily_cut": 1789225200
