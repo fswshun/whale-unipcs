@@ -1,5 +1,5 @@
 {
-  "run_count": 702,
+  "run_count": 703,
   "last_daily": "2026-09-13",
   "cross_alerted": [],
   "buy_accum": {
@@ -328,6 +328,46 @@
       "note": "09-06T20:43 5e+05 BEN\u300109-06T20:54 5e+05 BEN\u300109-06T21:22 5.51e+05 BEN",
       "value": 1586.858932890532,
       "unit": 0.001565
+    },
+    "bsc:0xedf7a5d87e840d50065f86b74c59bd02f4467777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
+      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
+      "chain": "bsc",
+      "contract": "0xedf7a5d87e840d50065f86b74c59bd02f4467777",
+      "sym": "NINA",
+      "amount": 2393321.5948116705,
+      "usd": 411.4119821481262,
+      "counter_usd": 361.055,
+      "n": 1,
+      "other": {
+        "BNB": 0.5
+      },
+      "first": 1789325643,
+      "last": 1789325643,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 361.055,
+      "unit": 0.00015085937501366643
+    },
+    "bsc:0x51bf535abb17eeb0ef20b68e0a6290bcedcb7777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
+      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
+      "chain": "bsc",
+      "contract": "0x51bf535abb17eeb0ef20b68e0a6290bcedcb7777",
+      "sym": "INTERN",
+      "amount": 29350972.015288215,
+      "usd": 452.2984787555914,
+      "counter_usd": 361.055,
+      "n": 1,
+      "other": {
+        "BNB": 0.5
+      },
+      "first": 1789325841,
+      "last": 1789325841,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 361.055,
+      "unit": 1.2301296182352501e-05
     }
   },
   "last_daily_cut": 1789311600
