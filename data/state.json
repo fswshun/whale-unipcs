@@ -335,8 +335,8 @@
       "contract": "0xedf7a5d87e840d50065f86b74c59bd02f4467777",
       "sym": "NINA",
       "amount": 2393321.5948116705,
-      "usd": 411.4119821481262,
-      "counter_usd": 361.055,
+      "usd": 450.6624563030375,
+      "counter_usd": 360.555,
       "n": 1,
       "other": {
         "BNB": 0.5
@@ -346,8 +346,8 @@
       "runs": 1,
       "funding": 0.0,
       "note": "",
-      "value": 361.055,
-      "unit": 0.00015085937501366643
+      "value": 360.555,
+      "unit": 0.00015065046033998282
     },
     "bsc:0x51bf535abb17eeb0ef20b68e0a6290bcedcb7777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
       "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
@@ -355,8 +355,8 @@
       "contract": "0x51bf535abb17eeb0ef20b68e0a6290bcedcb7777",
       "sym": "INTERN",
       "amount": 29350972.015288215,
-      "usd": 452.2984787555914,
-      "counter_usd": 361.055,
+      "usd": 447.3088135129924,
+      "counter_usd": 360.555,
       "n": 1,
       "other": {
         "BNB": 0.5
@@ -366,8 +366,8 @@
       "runs": 1,
       "funding": 0.0,
       "note": "",
-      "value": 361.055,
-      "unit": 1.2301296182352501e-05
+      "value": 360.555,
+      "unit": 1.2284260971398003e-05
     }
   },
   "last_daily_cut": 1789311600
