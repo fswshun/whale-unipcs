@@ -1,5 +1,5 @@
 {
-  "run_count": 691,
+  "run_count": 692,
   "last_daily": "2026-09-12",
   "cross_alerted": [
     [
@@ -425,6 +425,26 @@
       "note": "",
       "value": 361.725,
       "unit": 0.00024090247532942494
+    },
+    "bsc:0x3866fb6f6dfbdb2529cdb07b3dea22142c69ffff:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
+      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
+      "chain": "bsc",
+      "contract": "0x3866fb6f6dfbdb2529cdb07b3dea22142c69ffff",
+      "sym": "1bnb",
+      "amount": 21014603.8129722,
+      "usd": 357.8787029349166,
+      "counter_usd": 215.36999999999998,
+      "n": 1,
+      "other": {
+        "BNB": 0.3
+      },
+      "first": 1789307823,
+      "last": 1789307823,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 215.36999999999998,
+      "unit": 1.0248587216621864e-05
     }
   },
   "last_daily_cut": 1789225200
