@@ -306,10 +306,10 @@
       },
       "0xc9a981fee1f9dec688bb123ccdecc63d0debfc4e": {
         "symbol": "GLD",
-        "amount": 0.08812066900113158,
+        "amount": 0.07124802536417922,
         "contract": "0xc9a981fee1f9dec688bb123ccdecc63d0debfc4e",
-        "price": 398.37,
-        "usd": 35.104630909980784
+        "price": 398.42,
+        "usd": 28.386638265596286
       },
       "0xc0d6457c16cc70d6790dd43521c899c87ce02f35": {
         "symbol": "META",
@@ -324,13 +324,6 @@
         "contract": "0xaf3d76f1834a1d425780943c99ea8a608f8a93f9",
         "price": 333.26,
         "usd": 33.26469784028439
-      },
-      "0xc9a981fee1f9dec688bb123ccdecc63d0debfc4e": {
-        "symbol": "GLD",
-        "amount": 0.07124802536417922,
-        "contract": "0xc9a981fee1f9dec688bb123ccdecc63d0debfc4e",
-        "price": 398.42,
-        "usd": 28.386638265596286
       },
       "0x12f190a9f9d7d37a250758b26824b97ce941bf54": {
         "symbol": "AMZN",
@@ -3372,10 +3365,10 @@
       },
       "0xcc41892253786660b5843454a042aa7911e0974f": {
         "symbol": "旺柴",
-        "amount": 4694782.332727601,
+        "amount": 2125607.2461082763,
         "contract": "0xcc41892253786660b5843454a042aa7911e0974f",
-        "price": 8.395e-05,
-        "usd": 394.12697683248206
+        "price": 8.808e-05,
+        "usd": 187.22348623721697
       },
       "0x13b467d4f8f3ddc8d6a17be8733f73efb9e49963": {
         "symbol": "PARADOX",
@@ -3831,13 +3824,6 @@
         "contract": "0x16912513c7cf6967acf6bce5e5f3f7a087eceda4",
         "price": null,
         "usd": null
-      },
-      "0xcc41892253786660b5843454a042aa7911e0974f": {
-        "symbol": "旺柴",
-        "amount": 2125607.2461082763,
-        "contract": "0xcc41892253786660b5843454a042aa7911e0974f",
-        "price": 8.808e-05,
-        "usd": 187.22348623721697
       },
       "0xd046a0b73dbe5b4e00f507526c35e5426c873f99": {
         "symbol": "PEA",
