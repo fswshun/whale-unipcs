@@ -48,46 +48,6 @@
       "value": 60.0,
       "unit": 0.001485911253437204
     },
-    "bsc:0xfd98b9e6b71db2b3fdb5db66d3a081b3cd577777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
-      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
-      "chain": "bsc",
-      "contract": "0xfd98b9e6b71db2b3fdb5db66d3a081b3cd577777",
-      "sym": "Purple Demon",
-      "amount": 43444545.30917734,
-      "usd": 0.0,
-      "counter_usd": 954.7850000000001,
-      "n": 2,
-      "other": {
-        "BNB": 1.3
-      },
-      "first": 1789173463,
-      "last": 1789173544,
-      "runs": 1,
-      "funding": 0.0,
-      "note": "",
-      "value": 954.7850000000001,
-      "unit": 2.1977097313487336e-05
-    },
-    "bsc:0x4e0026b2a27f60cd7ed8bb71f9489501b1f87777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
-      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
-      "chain": "bsc",
-      "contract": "0x4e0026b2a27f60cd7ed8bb71f9489501b1f87777",
-      "sym": "BUDDY",
-      "amount": 8925850.16031826,
-      "usd": 2409.0869582698983,
-      "counter_usd": 734.45,
-      "n": 1,
-      "other": {
-        "BNB": 1.0
-      },
-      "first": 1789173669,
-      "last": 1789173669,
-      "runs": 1,
-      "funding": 0.0,
-      "note": "",
-      "value": 734.45,
-      "unit": 8.228347852680204e-05
-    },
     "bsc:0x3a18430352f18b91a5e40340678f06882c5e7777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
       "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
       "chain": "bsc",
@@ -266,132 +226,6 @@
       "value": 219.267,
       "unit": 3.7716679500753904e-06
     },
-    "robinhood:0xfd82d8db539b6ace0d50815845133767e24f1e18:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
-      "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
-      "chain": "robinhood",
-      "contract": "0xfd82d8db539b6ace0d50815845133767e24f1e18",
-      "sym": "ASTEROID",
-      "amount": 1244595.8195930845,
-      "usd": 14673.784713002466,
-      "counter_usd": 0.0,
-      "n": 1,
-      "other": {},
-      "first": 1789245002,
-      "last": 1789245002,
-      "runs": 1,
-      "funding": 1362812.7279356366,
-      "note": "09-05T21:11 0.2579 WETH\u300109-05T21:23 2.5e+05 BONER\u300109-05T21:23 2.5e+05 BONER",
-      "value": 14673.784713002466,
-      "unit": 0.01179
-    },
-    "robinhood:0x12d5ee7917ca430073c3a638ee1e6f0648a98a01:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
-      "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
-      "chain": "robinhood",
-      "contract": "0x12d5ee7917ca430073c3a638ee1e6f0648a98a01",
-      "sym": "FATCOIN",
-      "amount": 2397708.3508551335,
-      "usd": 4876.938785639341,
-      "counter_usd": 0.0,
-      "n": 1,
-      "other": {},
-      "first": 1789233286,
-      "last": 1789233286,
-      "runs": 1,
-      "funding": 1417114.2912553723,
-      "note": "09-05T17:31 2.5e+05 BONER\u300109-05T17:31 2.5e+05 BONER\u300109-05T17:31 2.5e+05 BONER",
-      "value": 4876.938785639341,
-      "unit": 0.002034
-    },
-    "robinhood:0xbe98b75361935b18d688409424a869a4c3dc7401:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
-      "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
-      "chain": "robinhood",
-      "contract": "0xbe98b75361935b18d688409424a869a4c3dc7401",
-      "sym": "NUDES",
-      "amount": 1973132.031111071,
-      "usd": 4842.066004346568,
-      "counter_usd": 0.0,
-      "n": 1,
-      "other": {},
-      "first": 1789233297,
-      "last": 1789233297,
-      "runs": 1,
-      "funding": 1417114.2912553723,
-      "note": "09-05T17:31 2.5e+05 BONER\u300109-05T17:31 2.5e+05 BONER\u300109-05T17:31 2.5e+05 BONER",
-      "value": 4842.066004346568,
-      "unit": 0.002454
-    },
-    "robinhood:0x6245e67affa44a23077f0ea7f981a8dc743a0c47:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
-      "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
-      "chain": "robinhood",
-      "contract": "0x6245e67affa44a23077f0ea7f981a8dc743a0c47",
-      "sym": "FRONG",
-      "amount": 692487.7394561716,
-      "usd": 4747.695941711513,
-      "counter_usd": 0.0,
-      "n": 1,
-      "other": {},
-      "first": 1789252233,
-      "last": 1789252233,
-      "runs": 1,
-      "funding": 1310618.0925638517,
-      "note": "09-05T23:09 17.91 WETH\u300109-05T23:09 1.02 QQQB\u300109-05T23:33 0.5474 WETH",
-      "value": 4747.695941711513,
-      "unit": 0.006856000000000001
-    },
-    "robinhood:0x3df3644bcf4ce0d993e18c86c3080e53bfea06f1:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
-      "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
-      "chain": "robinhood",
-      "contract": "0x3df3644bcf4ce0d993e18c86c3080e53bfea06f1",
-      "sym": "JACOB",
-      "amount": 10941890.112400373,
-      "usd": 4194.026480083063,
-      "counter_usd": 0.0,
-      "n": 9,
-      "other": {},
-      "first": 1789223303,
-      "last": 1789243673,
-      "runs": 1,
-      "funding": 12787892.026311228,
-      "note": "09-05T20:20 13.41 SPCXB\u300109-05T20:20 2.87 QQQB\u300109-05T21:11 0.2579 WETH",
-      "value": 4194.026480083063,
-      "unit": 0.0003833
-    },
-    "robinhood:0x9baf5f0ba48ecdfcb9e30a937708da8c3cca1d0d:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
-      "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
-      "chain": "robinhood",
-      "contract": "0x9baf5f0ba48ecdfcb9e30a937708da8c3cca1d0d",
-      "sym": "BAWSAQ",
-      "amount": 8177424.761185753,
-      "usd": 2966.7697033581912,
-      "counter_usd": 0.0,
-      "n": 1,
-      "other": {},
-      "first": 1789234320,
-      "last": 1789234320,
-      "runs": 1,
-      "funding": 1371314.2912553723,
-      "note": "09-05T18:46 6.082 QQQB\u300109-05T20:20 13.41 SPCXB\u300109-05T20:20 2.87 QQQB",
-      "value": 2966.7697033581912,
-      "unit": 0.0003628
-    },
-    "robinhood:0x87af913718f73168d4566bbf51683792ac2680eb:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
-      "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
-      "chain": "robinhood",
-      "contract": "0x87af913718f73168d4566bbf51683792ac2680eb",
-      "sym": "OUROBOROS",
-      "amount": 13763.961451276142,
-      "usd": 624.195651815373,
-      "counter_usd": 0.0,
-      "n": 1,
-      "other": {},
-      "first": 1789234454,
-      "last": 1789234454,
-      "runs": 1,
-      "funding": 1371314.2912553723,
-      "note": "09-05T18:46 6.082 QQQB\u300109-05T20:20 13.41 SPCXB\u300109-05T20:20 2.87 QQQB",
-      "value": 624.195651815373,
-      "unit": 0.04535
-    },
     "robinhood:0x2fd1139e2192855def46eef5370f245891eca397:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
       "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
       "chain": "robinhood",
@@ -399,7 +233,7 @@
       "sym": "WeWorm",
       "amount": 13220420.044990893,
       "usd": 0.0,
-      "counter_usd": 505.378,
+      "counter_usd": 505.09,
       "n": 3,
       "other": {
         "ETH": 0.2
@@ -409,8 +243,8 @@
       "runs": 1,
       "funding": 0.0,
       "note": "",
-      "value": 505.378,
-      "unit": 3.8227075862955165e-05
+      "value": 505.09,
+      "unit": 3.820529138114446e-05
     },
     "robinhood:0xb934cabf87781f7eb13265de4cb2ce090d00c4e3:0xe63c05565565ac91aaa46b6536e167529509681c": {
       "wallet": "0xe63c05565565ac91aaa46b6536e167529509681c",
@@ -418,8 +252,8 @@
       "contract": "0xb934cabf87781f7eb13265de4cb2ce090d00c4e3",
       "sym": "SURPLUS",
       "amount": 970302.8439412153,
-      "usd": 144.7691843160293,
-      "counter_usd": 252.689,
+      "usd": 141.0820335090527,
+      "counter_usd": 252.545,
       "n": 1,
       "other": {
         "ETH": 0.1
@@ -429,48 +263,8 @@
       "runs": 1,
       "funding": 0.0,
       "note": "",
-      "value": 252.689,
-      "unit": 0.0002604228170388717
-    },
-    "robinhood:0x9096a612058b6793bed6c92bd6e75d69ac5de746:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
-      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
-      "chain": "robinhood",
-      "contract": "0x9096a612058b6793bed6c92bd6e75d69ac5de746",
-      "sym": "B",
-      "amount": 10434250.883373188,
-      "usd": 0.0,
-      "counter_usd": 252.689,
-      "n": 1,
-      "other": {
-        "ETH": 0.1
-      },
-      "first": 1789173446,
-      "last": 1789173446,
-      "runs": 1,
-      "funding": 0.0,
-      "note": "",
-      "value": 252.689,
-      "unit": 2.421726320599171e-05
-    },
-    "robinhood:0xbd4f913512e12943dd7aa5a3e2f9b11f722ab34f:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
-      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
-      "chain": "robinhood",
-      "contract": "0xbd4f913512e12943dd7aa5a3e2f9b11f722ab34f",
-      "sym": "CLANKER",
-      "amount": 54887684.005555645,
-      "usd": 0.0,
-      "counter_usd": 252.689,
-      "n": 1,
-      "other": {
-        "ETH": 0.1
-      },
-      "first": 1789173984,
-      "last": 1789173984,
-      "runs": 1,
-      "funding": 0.0,
-      "note": "",
-      "value": 252.689,
-      "unit": 4.603746807287828e-06
+      "value": 252.545,
+      "unit": 0.0002602744097648962
     },
     "robinhood:0x011855d8d1f7c19e5c42298427c338a2d8335d7c:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
       "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
@@ -479,7 +273,7 @@
       "sym": "WeWorm",
       "amount": 22353116.80435164,
       "usd": 0.0,
-      "counter_usd": 252.689,
+      "counter_usd": 252.545,
       "n": 1,
       "other": {
         "ETH": 0.1
@@ -489,8 +283,8 @@
       "runs": 1,
       "funding": 0.0,
       "note": "",
-      "value": 252.689,
-      "unit": 1.1304419075500346e-05
+      "value": 252.545,
+      "unit": 1.1297977020852648e-05
     },
     "robinhood:0xfbfd4476ae28428556d0f5ea7dfaff60f8051e18:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
       "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
@@ -498,8 +292,8 @@
       "contract": "0xfbfd4476ae28428556d0f5ea7dfaff60f8051e18",
       "sym": "HENT",
       "amount": 508887.1067775746,
-      "usd": 117.45114424426421,
-      "counter_usd": 252.689,
+      "usd": 118.0618087723973,
+      "counter_usd": 252.545,
       "n": 1,
       "other": {
         "ETH": 0.1
@@ -509,8 +303,8 @@
       "runs": 1,
       "funding": 0.0,
       "note": "",
-      "value": 252.689,
-      "unit": 0.0004965521755897931
+      "value": 252.545,
+      "unit": 0.000496269205166526
     },
     "robinhood:0x16f9ccc5d1659247ec322efcb59ada25d9bebced:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
       "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
@@ -519,7 +313,7 @@
       "sym": "KENDU",
       "amount": 11459240.514415238,
       "usd": 0.0,
-      "counter_usd": 252.689,
+      "counter_usd": 252.545,
       "n": 1,
       "other": {
         "ETH": 0.1
@@ -529,8 +323,8 @@
       "runs": 1,
       "funding": 0.0,
       "note": "",
-      "value": 252.689,
-      "unit": 2.2051112347465606e-05
+      "value": 252.545,
+      "unit": 2.2038546069637782e-05
     },
     "robinhood:0xf17c4762c5beda087b204aefccc7a9acc16e92ae:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
       "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
@@ -539,7 +333,7 @@
       "sym": "LAB",
       "amount": 10703914.452991774,
       "usd": 0.0,
-      "counter_usd": 252.689,
+      "counter_usd": 252.545,
       "n": 1,
       "other": {
         "ETH": 0.1
@@ -549,8 +343,8 @@
       "runs": 1,
       "funding": 0.0,
       "note": "",
-      "value": 252.689,
-      "unit": 2.3607158027068566e-05
+      "value": 252.545,
+      "unit": 2.3593705004752998e-05
     },
     "robinhood:0x8acb1122187284aab054c2a6fa9181f08afc1e18:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
       "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
@@ -559,7 +353,7 @@
       "sym": "AINTI",
       "amount": 7108531.8594245585,
       "usd": 195.76896740855236,
-      "counter_usd": 252.689,
+      "counter_usd": 252.545,
       "n": 1,
       "other": {
         "ETH": 0.1
@@ -569,8 +363,8 @@
       "runs": 1,
       "funding": 0.0,
       "note": "",
-      "value": 252.689,
-      "unit": 3.554728388323709e-05
+      "value": 252.545,
+      "unit": 3.5527026535749916e-05
     },
     "robinhood:0xbbb2ba99cff81e1ab7de37f678b125f207693fde:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
       "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
@@ -578,8 +372,8 @@
       "contract": "0xbbb2ba99cff81e1ab7de37f678b125f207693fde",
       "sym": "delusional",
       "amount": 1880871.5887694093,
-      "usd": 157.50418684355031,
-      "counter_usd": 252.689,
+      "usd": 121.97452253169621,
+      "counter_usd": 252.545,
       "n": 1,
       "other": {
         "ETH": 0.1
@@ -589,44 +383,8 @@
       "runs": 1,
       "funding": 0.0,
       "note": "",
-      "value": 252.689,
-      "unit": 0.00013434675791201985
-    },
-    "robinhood:0x14778a17d61ccc17a22265b6d7d434c7a5559700:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
-      "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
-      "chain": "robinhood",
-      "contract": "0x14778a17d61ccc17a22265b6d7d434c7a5559700",
-      "sym": "PERPSPAD",
-      "amount": 6666420.609150062,
-      "usd": 153.26100980435993,
-      "counter_usd": 0.0,
-      "n": 1,
-      "other": {},
-      "first": 1789228794,
-      "last": 1789228794,
-      "runs": 1,
-      "funding": 1434011.0330797592,
-      "note": "09-05T16:56 20.43 QQQB\u300109-05T16:57 0.01195 BTCB\u300109-05T17:02 8.039 SPCXB",
-      "value": 153.26100980435993,
-      "unit": 2.299e-05
-    },
-    "robinhood:0x3915f57c2aeb20cfb64de2252b14e944d7c2d492:0x0a6ebed0155edb4b21d92ad02897a626cd90119e": {
-      "wallet": "0x0a6ebed0155edb4b21d92ad02897a626cd90119e",
-      "chain": "robinhood",
-      "contract": "0x3915f57c2aeb20cfb64de2252b14e944d7c2d492",
-      "sym": "MONKEY",
-      "amount": 62525.99468601617,
-      "usd": 78.72022730969435,
-      "counter_usd": 0.0,
-      "n": 1,
-      "other": {},
-      "first": 1789224824,
-      "last": 1789224824,
-      "runs": 1,
-      "funding": 1433217.0330797592,
-      "note": "09-05T16:56 20.43 QQQB\u300109-05T16:57 0.01195 BTCB\u300109-05T17:02 8.039 SPCXB",
-      "value": 78.72022730969435,
-      "unit": 0.001259
+      "value": 252.545,
+      "unit": 0.00013427019766151693
     }
   },
   "last_daily_cut": 1789225200
