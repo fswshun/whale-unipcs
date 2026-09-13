@@ -1,5 +1,5 @@
 {
-  "run_count": 710,
+  "run_count": 711,
   "last_daily": "2026-09-13",
   "cross_alerted": [],
   "buy_accum": {
@@ -386,6 +386,26 @@
       "note": "09-06T21:22 5.51e+05 BEN\u300109-06T21:26 4.133e+05 BEN\u300109-06T21:29 2.399e+05 BEN",
       "value": 1028.1792676773862,
       "unit": 0.001558
+    },
+    "solana:4MMQY9bwkxxTtsK3W227Q5ABT6yFY8Pmn9Ze7wmAXKY8:6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC": {
+      "wallet": "6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC",
+      "chain": "solana",
+      "contract": "4MMQY9bwkxxTtsK3W227Q5ABT6yFY8Pmn9Ze7wmAXKY8",
+      "sym": "ALLINU",
+      "amount": 81268.892557,
+      "usd": 166.35742306417902,
+      "counter_usd": 183.110721,
+      "n": 1,
+      "other": {
+        "USDC": 183.110721
+      },
+      "first": 1789338616,
+      "last": 1789338616,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 183.110721,
+      "unit": 0.002253146502169581
     }
   },
   "last_daily_cut": 1789311600
