@@ -1,5 +1,5 @@
 {
-  "run_count": 650,
+  "run_count": 651,
   "last_daily": "2026-09-12",
   "cross_alerted": [
     [
@@ -105,46 +105,6 @@
       "note": "09-05T16:56 20.43 QQQB\u300109-05T16:57 0.01195 BTCB\u300109-05T17:02 8.039 SPCXB",
       "value": 337.73274366427347,
       "unit": 1.135e-05
-    },
-    "bsc:0x4e5b09f32eb710095b7cdc46fb447b72e18c7777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
-      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
-      "chain": "bsc",
-      "contract": "0x4e5b09f32eb710095b7cdc46fb447b72e18c7777",
-      "sym": "Chinese",
-      "amount": 11412532.638102667,
-      "usd": 236.01117495596316,
-      "counter_usd": 220.335,
-      "n": 1,
-      "other": {
-        "BNB": 0.3
-      },
-      "first": 1789174148,
-      "last": 1789174148,
-      "runs": 1,
-      "funding": 0.0,
-      "note": "",
-      "value": 220.335,
-      "unit": 1.9306406998949067e-05
-    },
-    "bsc:0xb5aa982d59d9256c8a1d1c07f5a3d44903ed7777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
-      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
-      "chain": "bsc",
-      "contract": "0xb5aa982d59d9256c8a1d1c07f5a3d44903ed7777",
-      "sym": "DOGGO",
-      "amount": 23924290.85549371,
-      "usd": 296.661206608122,
-      "counter_usd": 220.335,
-      "n": 1,
-      "other": {
-        "BNB": 0.3
-      },
-      "first": 1789174189,
-      "last": 1789174189,
-      "runs": 1,
-      "funding": 0.0,
-      "note": "",
-      "value": 220.335,
-      "unit": 9.209677366441343e-06
     },
     "bsc:0x6ffe841fad56ee1e6dd37b8d1e04c00ce83a7777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
       "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
@@ -263,8 +223,8 @@
       "runs": 1,
       "funding": 0.0,
       "note": "",
-      "value": 252.545,
-      "unit": 0.0002602744097648962
+      "value": 252.689,
+      "unit": 0.0002604228170388717
     },
     "robinhood:0x011855d8d1f7c19e5c42298427c338a2d8335d7c:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
       "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
