@@ -1,5 +1,5 @@
 {
-  "run_count": 655,
+  "run_count": 656,
   "last_daily": "2026-09-12",
   "cross_alerted": [
     [
@@ -449,6 +449,42 @@
       "note": "09-05T16:56 20.43 QQQB\u300109-05T16:57 0.01195 BTCB\u300109-05T17:02 8.039 SPCXB",
       "value": 5455.811847943984,
       "unit": 0.001988
+    },
+    "bsc:0x198dba421a7db566a90da5de7901abe3443b4444:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
+      "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
+      "chain": "bsc",
+      "contract": "0x198dba421a7db566a90da5de7901abe3443b4444",
+      "sym": "\u5bcc\u8d35",
+      "amount": 6306698.987516657,
+      "usd": 7788.773249583071,
+      "counter_usd": 0.0,
+      "n": 1,
+      "other": {},
+      "first": 1789266147,
+      "last": 1789266147,
+      "runs": 1,
+      "funding": 1210327.1502703635,
+      "note": "09-06T04:39 14.73 WETH\u300109-06T04:40 6.112 QQQB\u300109-06T11:30 7.077e+05 BEN",
+      "value": 7788.773249583071,
+      "unit": 0.001235
+    },
+    "robinhood:0xdc1a9f464dcb4a1dfdae34253939fdb509b081bf:0x0a6ebed0155edb4b21d92ad02897a626cd90119e": {
+      "wallet": "0x0a6ebed0155edb4b21d92ad02897a626cd90119e",
+      "chain": "robinhood",
+      "contract": "0xdc1a9f464dcb4a1dfdae34253939fdb509b081bf",
+      "sym": "STONKINU",
+      "amount": 10202646.74483388,
+      "usd": 2706.7621814044282,
+      "counter_usd": 0.0,
+      "n": 1,
+      "other": {},
+      "first": 1789264017,
+      "last": 1789264017,
+      "runs": 1,
+      "funding": 1223545.1218703636,
+      "note": "09-06T01:47 2.886e+05 BONER\u300109-06T04:39 14.73 WETH\u300109-06T04:40 6.112 QQQB",
+      "value": 2706.7621814044282,
+      "unit": 0.0002653
     }
   },
   "last_daily_cut": 1789225200
