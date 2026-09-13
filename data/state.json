@@ -1,5 +1,5 @@
 {
-  "run_count": 654,
+  "run_count": 655,
   "last_daily": "2026-09-12",
   "cross_alerted": [
     [
@@ -49,26 +49,6 @@
       "note": "",
       "value": 587.5600000000001,
       "unit": 1.9555536295460682e-05
-    },
-    "bsc:0x2baf09d6942360a0b85e24474dc2e204b0017777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
-      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
-      "chain": "bsc",
-      "contract": "0x2baf09d6942360a0b85e24474dc2e204b0017777",
-      "sym": "WeWorm",
-      "amount": 3062006.956371411,
-      "usd": 110.07915008155223,
-      "counter_usd": 367.225,
-      "n": 1,
-      "other": {
-        "BNB": 0.5
-      },
-      "first": 1789178054,
-      "last": 1789178054,
-      "runs": 1,
-      "funding": 0.0,
-      "note": "",
-      "value": 367.225,
-      "unit": 0.00011992951199404685
     },
     "bsc:0x5a11c11d9676f4054b53559f44375ff249cb7777:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
       "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
@@ -168,26 +148,6 @@
       "value": 219.267,
       "unit": 3.7716679500753904e-06
     },
-    "robinhood:0x2fd1139e2192855def46eef5370f245891eca397:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
-      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
-      "chain": "robinhood",
-      "contract": "0x2fd1139e2192855def46eef5370f245891eca397",
-      "sym": "WeWorm",
-      "amount": 13220420.044990893,
-      "usd": 0.0,
-      "counter_usd": 505.09,
-      "n": 3,
-      "other": {
-        "ETH": 0.2
-      },
-      "first": 1789178087,
-      "last": 1789178180,
-      "runs": 1,
-      "funding": 0.0,
-      "note": "",
-      "value": 505.09,
-      "unit": 3.820529138114446e-05
-    },
     "robinhood:0xb934cabf87781f7eb13265de4cb2ce090d00c4e3:0xe63c05565565ac91aaa46b6536e167529509681c": {
       "wallet": "0xe63c05565565ac91aaa46b6536e167529509681c",
       "chain": "robinhood",
@@ -207,26 +167,6 @@
       "note": "",
       "value": 252.545,
       "unit": 0.0002602744097648962
-    },
-    "robinhood:0x011855d8d1f7c19e5c42298427c338a2d8335d7c:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
-      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
-      "chain": "robinhood",
-      "contract": "0x011855d8d1f7c19e5c42298427c338a2d8335d7c",
-      "sym": "WeWorm",
-      "amount": 22353116.80435164,
-      "usd": 0.0,
-      "counter_usd": 252.545,
-      "n": 1,
-      "other": {
-        "ETH": 0.1
-      },
-      "first": 1789178283,
-      "last": 1789178283,
-      "runs": 1,
-      "funding": 0.0,
-      "note": "",
-      "value": 252.545,
-      "unit": 1.1297977020852648e-05
     },
     "robinhood:0xfbfd4476ae28428556d0f5ea7dfaff60f8051e18:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
       "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
@@ -509,46 +449,6 @@
       "note": "09-05T16:56 20.43 QQQB\u300109-05T16:57 0.01195 BTCB\u300109-05T17:02 8.039 SPCXB",
       "value": 5455.811847943984,
       "unit": 0.001988
-    },
-    "base:0xb2000000000000000000005d2caef485789de801:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
-      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
-      "chain": "base",
-      "contract": "0xb2000000000000000000005d2caef485789de801",
-      "sym": "EGGFUTURES",
-      "amount": 57894886.68285485,
-      "usd": 0.0,
-      "counter_usd": 252.556,
-      "n": 1,
-      "other": {
-        "ETH": 0.1
-      },
-      "first": 1789179429,
-      "last": 1789179429,
-      "runs": 1,
-      "funding": 0.0,
-      "note": "",
-      "value": 252.556,
-      "unit": 4.362319618716736e-06
-    },
-    "base:0xb200000000000000000000091c544eacac265001:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
-      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
-      "chain": "base",
-      "contract": "0xb200000000000000000000091c544eacac265001",
-      "sym": "egg",
-      "amount": 23705119.498001605,
-      "usd": 0.0,
-      "counter_usd": 252.556,
-      "n": 1,
-      "other": {
-        "ETH": 0.1
-      },
-      "first": 1789179447,
-      "last": 1789179447,
-      "runs": 1,
-      "funding": 0.0,
-      "note": "",
-      "value": 252.556,
-      "unit": 1.065406989495628e-05
     }
   },
   "last_daily_cut": 1789225200
