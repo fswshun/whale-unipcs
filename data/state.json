@@ -3,26 +3,6 @@
   "last_daily": "2026-09-13",
   "cross_alerted": [],
   "buy_accum": {
-    "bsc:0x963e4e3e0720e3e44471f35c2c3aa5b524d87777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
-      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
-      "chain": "bsc",
-      "contract": "0x963e4e3e0720e3e44471f35c2c3aa5b524d87777",
-      "sym": "FRONTIER",
-      "amount": 8422256.270319488,
-      "usd": 195.5647905968185,
-      "counter_usd": 219.261,
-      "n": 1,
-      "other": {
-        "BNB": 0.3
-      },
-      "first": 1789233937,
-      "last": 1789233937,
-      "runs": 1,
-      "funding": 0.0,
-      "note": "",
-      "value": 219.261,
-      "unit": 2.603352272391524e-05
-    },
     "bsc:0xcf3f10c4f5649e47d35eedb4d591a61ab2b37777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
       "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
       "chain": "bsc",
@@ -156,42 +136,6 @@
       "note": "09-05T20:20 13.41 SPCXB\u300109-05T20:20 2.87 QQQB\u300109-05T21:11 0.2579 WETH",
       "value": 3721.3368272273674,
       "unit": 0.0003401
-    },
-    "robinhood:0x9baf5f0ba48ecdfcb9e30a937708da8c3cca1d0d:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
-      "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
-      "chain": "robinhood",
-      "contract": "0x9baf5f0ba48ecdfcb9e30a937708da8c3cca1d0d",
-      "sym": "BAWSAQ",
-      "amount": 8177424.761185753,
-      "usd": 2828.5712248941522,
-      "counter_usd": 0.0,
-      "n": 1,
-      "other": {},
-      "first": 1789234320,
-      "last": 1789234320,
-      "runs": 1,
-      "funding": 1369628.1898685445,
-      "note": "09-05T18:46 6.082 QQQB\u300109-05T20:20 13.41 SPCXB\u300109-05T20:20 2.87 QQQB",
-      "value": 2828.5712248941522,
-      "unit": 0.0003459
-    },
-    "robinhood:0x87af913718f73168d4566bbf51683792ac2680eb:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
-      "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
-      "chain": "robinhood",
-      "contract": "0x87af913718f73168d4566bbf51683792ac2680eb",
-      "sym": "OUROBOROS",
-      "amount": 13763.961451276142,
-      "usd": 624.195651815373,
-      "counter_usd": 0.0,
-      "n": 1,
-      "other": {},
-      "first": 1789234454,
-      "last": 1789234454,
-      "runs": 1,
-      "funding": 1369628.1898685445,
-      "note": "09-05T18:46 6.082 QQQB\u300109-05T20:20 13.41 SPCXB\u300109-05T20:20 2.87 QQQB",
-      "value": 624.195651815373,
-      "unit": 0.04535
     },
     "bsc:0xf4773ff5d33c31e40d6fa6c64a70650536da7777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
       "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
@@ -446,6 +390,24 @@
       "note": "",
       "value": 215.862,
       "unit": 1.4111808790914029e-05
+    },
+    "bsc:0x7bc70ae0f2a67d2fdc0180a697a611f21c857777:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
+      "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
+      "chain": "bsc",
+      "contract": "0x7bc70ae0f2a67d2fdc0180a697a611f21c857777",
+      "sym": "BEN",
+      "amount": 1013967.3692591259,
+      "usd": 1561.509748659054,
+      "counter_usd": 0.0,
+      "n": 1,
+      "other": {},
+      "first": 1789319120,
+      "last": 1789319120,
+      "runs": 1,
+      "funding": 1162554.9189591298,
+      "note": "09-06T20:43 5e+05 BEN\u300109-06T20:54 5e+05 BEN\u300109-06T21:22 5.51e+05 BEN",
+      "value": 1561.509748659054,
+      "unit": 0.00154
     }
   },
   "last_daily_cut": 1789311600
