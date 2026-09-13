@@ -1,5 +1,5 @@
 {
-  "run_count": 705,
+  "run_count": 706,
   "last_daily": "2026-09-13",
   "cross_alerted": [],
   "buy_accum": {
@@ -38,24 +38,6 @@
       "note": "09-06T04:39 14.73 WETH\u300109-06T04:40 6.112 QQQB\u300109-06T11:30 7.077e+05 BEN",
       "value": 9843.484004429472,
       "unit": 0.007229670730845646
-    },
-    "robinhood:0x3df3644bcf4ce0d993e18c86c3080e53bfea06f1:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
-      "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
-      "chain": "robinhood",
-      "contract": "0x3df3644bcf4ce0d993e18c86c3080e53bfea06f1",
-      "sym": "JACOB",
-      "amount": 10941890.112400373,
-      "usd": 3721.3368272273674,
-      "counter_usd": 0.0,
-      "n": 9,
-      "other": {},
-      "first": 1789223303,
-      "last": 1789243673,
-      "runs": 1,
-      "funding": 12773372.113829777,
-      "note": "09-05T20:20 13.41 SPCXB\u300109-05T20:20 2.87 QQQB\u300109-05T21:11 0.2579 WETH",
-      "value": 3721.3368272273674,
-      "unit": 0.0003401
     },
     "bsc:0xf4773ff5d33c31e40d6fa6c64a70650536da7777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
       "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
