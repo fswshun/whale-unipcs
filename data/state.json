@@ -1,5 +1,5 @@
 {
-  "run_count": 708,
+  "run_count": 709,
   "last_daily": "2026-09-13",
   "cross_alerted": [],
   "buy_accum": {
@@ -368,6 +368,24 @@
       "note": "09-06T20:43 5e+05 BEN\u300109-06T20:54 5e+05 BEN\u300109-06T21:22 5.51e+05 BEN",
       "value": 14433.461513964845,
       "unit": 0.01126
+    },
+    "bsc:0xbc5ff7fe4d1b928423cf6c54bfa5f907130b4024:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
+      "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
+      "chain": "bsc",
+      "contract": "0xbc5ff7fe4d1b928423cf6c54bfa5f907130b4024",
+      "sym": "MOMO",
+      "amount": 659935.3451074366,
+      "usd": 1018.2802375007748,
+      "counter_usd": 0.0,
+      "n": 1,
+      "other": {},
+      "first": 1789334083,
+      "last": 1789334083,
+      "runs": 1,
+      "funding": 2604024.1756197163,
+      "note": "09-06T21:22 5.51e+05 BEN\u300109-06T21:26 4.133e+05 BEN\u300109-06T21:29 2.399e+05 BEN",
+      "value": 1018.2802375007748,
+      "unit": 0.001543
     }
   },
   "last_daily_cut": 1789311600
