@@ -1,5 +1,5 @@
 {
-  "run_count": 678,
+  "run_count": 679,
   "last_daily": "2026-09-12",
   "cross_alerted": [
     [
@@ -10,26 +10,6 @@
     ]
   ],
   "buy_accum": {
-    "solana:9oXA1VWKNiYDYa6VKHBFFBBvZdvuhw1b2eD5Aka7YrVt:AmVpfjnz7QbV7wjmHzKAoWdQvFxQ5c91UtUZuxzbhE4G": {
-      "wallet": "AmVpfjnz7QbV7wjmHzKAoWdQvFxQ5c91UtUZuxzbhE4G",
-      "chain": "solana",
-      "contract": "9oXA1VWKNiYDYa6VKHBFFBBvZdvuhw1b2eD5Aka7YrVt",
-      "sym": "FLAME",
-      "amount": 40379.262127,
-      "usd": 0.0,
-      "counter_usd": 60.0,
-      "n": 1,
-      "other": {
-        "USDT": 60.0
-      },
-      "first": 1789203099,
-      "last": 1789203099,
-      "runs": 1,
-      "funding": 0.0,
-      "note": "",
-      "value": 60.0,
-      "unit": 0.001485911253437204
-    },
     "bsc:0x5a11c11d9676f4054b53559f44375ff249cb7777:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
       "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
       "chain": "bsc",
