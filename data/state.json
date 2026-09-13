@@ -3,66 +3,6 @@
   "last_daily": "2026-09-13",
   "cross_alerted": [],
   "buy_accum": {
-    "robinhood:0xf17c4762c5beda087b204aefccc7a9acc16e92ae:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
-      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
-      "chain": "robinhood",
-      "contract": "0xf17c4762c5beda087b204aefccc7a9acc16e92ae",
-      "sym": "LAB",
-      "amount": 10703914.452991774,
-      "usd": 0.0,
-      "counter_usd": 252.545,
-      "n": 1,
-      "other": {
-        "ETH": 0.1
-      },
-      "first": 1789235115,
-      "last": 1789235115,
-      "runs": 1,
-      "funding": 0.0,
-      "note": "",
-      "value": 252.545,
-      "unit": 2.3593705004752998e-05
-    },
-    "robinhood:0x8acb1122187284aab054c2a6fa9181f08afc1e18:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
-      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
-      "chain": "robinhood",
-      "contract": "0x8acb1122187284aab054c2a6fa9181f08afc1e18",
-      "sym": "AINTI",
-      "amount": 7108531.8594245585,
-      "usd": 195.76896740855236,
-      "counter_usd": 252.545,
-      "n": 1,
-      "other": {
-        "ETH": 0.1
-      },
-      "first": 1789235184,
-      "last": 1789235184,
-      "runs": 1,
-      "funding": 0.0,
-      "note": "",
-      "value": 252.545,
-      "unit": 3.5527026535749916e-05
-    },
-    "robinhood:0xbbb2ba99cff81e1ab7de37f678b125f207693fde:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
-      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
-      "chain": "robinhood",
-      "contract": "0xbbb2ba99cff81e1ab7de37f678b125f207693fde",
-      "sym": "delusional",
-      "amount": 1880871.5887694093,
-      "usd": 121.97452253169621,
-      "counter_usd": 252.545,
-      "n": 1,
-      "other": {
-        "ETH": 0.1
-      },
-      "first": 1789235246,
-      "last": 1789235246,
-      "runs": 1,
-      "funding": 0.0,
-      "note": "",
-      "value": 252.545,
-      "unit": 0.00013427019766151693
-    },
     "robinhood:0xfd82d8db539b6ace0d50815845133767e24f1e18:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
       "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
       "chain": "robinhood",
