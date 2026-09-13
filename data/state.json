@@ -1,5 +1,5 @@
 {
-  "run_count": 651,
+  "run_count": 652,
   "last_daily": "2026-09-12",
   "cross_alerted": [
     [
@@ -223,8 +223,8 @@
       "runs": 1,
       "funding": 0.0,
       "note": "",
-      "value": 252.689,
-      "unit": 0.0002604228170388717
+      "value": 252.545,
+      "unit": 0.0002602744097648962
     },
     "robinhood:0x011855d8d1f7c19e5c42298427c338a2d8335d7c:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
       "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
