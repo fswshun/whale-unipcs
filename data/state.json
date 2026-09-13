@@ -1,5 +1,5 @@
 {
-  "run_count": 660,
+  "run_count": 661,
   "last_daily": "2026-09-12",
   "cross_alerted": [
     [
@@ -29,26 +29,6 @@
       "note": "",
       "value": 60.0,
       "unit": 0.001485911253437204
-    },
-    "bsc:0x3a18430352f18b91a5e40340678f06882c5e7777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
-      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
-      "chain": "bsc",
-      "contract": "0x3a18430352f18b91a5e40340678f06882c5e7777",
-      "sym": "CatGPT",
-      "amount": 30045711.409939043,
-      "usd": 312.4753986633661,
-      "counter_usd": 587.5600000000001,
-      "n": 2,
-      "other": {
-        "BNB": 0.8
-      },
-      "first": 1789183485,
-      "last": 1789183750,
-      "runs": 1,
-      "funding": 0.0,
-      "note": "",
-      "value": 587.5600000000001,
-      "unit": 1.9555536295460682e-05
     },
     "bsc:0x5a11c11d9676f4054b53559f44375ff249cb7777:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
       "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
