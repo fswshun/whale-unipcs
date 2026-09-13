@@ -1,5 +1,5 @@
 {
-  "run_count": 684,
+  "run_count": 685,
   "last_daily": "2026-09-12",
   "cross_alerted": [
     [
@@ -107,26 +107,6 @@
       "note": "",
       "value": 219.267,
       "unit": 3.7716679500753904e-06
-    },
-    "robinhood:0x16f9ccc5d1659247ec322efcb59ada25d9bebced:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
-      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
-      "chain": "robinhood",
-      "contract": "0x16f9ccc5d1659247ec322efcb59ada25d9bebced",
-      "sym": "KENDU",
-      "amount": 11459240.514415238,
-      "usd": 0.0,
-      "counter_usd": 252.545,
-      "n": 1,
-      "other": {
-        "ETH": 0.1
-      },
-      "first": 1789211181,
-      "last": 1789211181,
-      "runs": 1,
-      "funding": 0.0,
-      "note": "",
-      "value": 252.545,
-      "unit": 2.2038546069637782e-05
     },
     "robinhood:0xf17c4762c5beda087b204aefccc7a9acc16e92ae:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
       "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
