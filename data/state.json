@@ -1,28 +1,8 @@
 {
-  "run_count": 697,
+  "run_count": 698,
   "last_daily": "2026-09-13",
   "cross_alerted": [],
   "buy_accum": {
-    "bsc:0xcf3f10c4f5649e47d35eedb4d591a61ab2b37777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
-      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
-      "chain": "bsc",
-      "contract": "0xcf3f10c4f5649e47d35eedb4d591a61ab2b37777",
-      "sym": "INCOME",
-      "amount": 58135287.33239021,
-      "usd": 201.49690589406447,
-      "counter_usd": 219.267,
-      "n": 1,
-      "other": {
-        "BNB": 0.3
-      },
-      "first": 1789235064,
-      "last": 1789235064,
-      "runs": 1,
-      "funding": 0.0,
-      "note": "",
-      "value": 219.267,
-      "unit": 3.7716679500753904e-06
-    },
     "robinhood:0xf17c4762c5beda087b204aefccc7a9acc16e92ae:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
       "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
       "chain": "robinhood",
@@ -397,7 +377,7 @@
       "contract": "0x7bc70ae0f2a67d2fdc0180a697a611f21c857777",
       "sym": "BEN",
       "amount": 1013967.3692591259,
-      "usd": 1561.509748659054,
+      "usd": 1586.858932890532,
       "counter_usd": 0.0,
       "n": 1,
       "other": {},
@@ -406,8 +386,8 @@
       "runs": 1,
       "funding": 1162554.9189591298,
       "note": "09-06T20:43 5e+05 BEN\u300109-06T20:54 5e+05 BEN\u300109-06T21:22 5.51e+05 BEN",
-      "value": 1561.509748659054,
-      "unit": 0.00154
+      "value": 1586.858932890532,
+      "unit": 0.001565
     }
   },
   "last_daily_cut": 1789311600
