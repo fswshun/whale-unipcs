@@ -1,5 +1,5 @@
 {
-  "run_count": 696,
+  "run_count": 697,
   "last_daily": "2026-09-13",
   "cross_alerted": [],
   "buy_accum": {
@@ -121,24 +121,6 @@
       "value": 23482.3762830215,
       "unit": 0.00982943032512312
     },
-    "robinhood:0x12d5ee7917ca430073c3a638ee1e6f0648a98a01:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
-      "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
-      "chain": "robinhood",
-      "contract": "0x12d5ee7917ca430073c3a638ee1e6f0648a98a01",
-      "sym": "FATCOIN",
-      "amount": 2397708.3508551335,
-      "usd": 4826.586910271384,
-      "counter_usd": 0.0,
-      "n": 1,
-      "other": {},
-      "first": 1789233286,
-      "last": 1789233286,
-      "runs": 1,
-      "funding": 1415428.1898685445,
-      "note": "09-05T17:31 2.5e+05 BONER\u300109-05T17:31 2.5e+05 BONER\u300109-05T17:31 2.5e+05 BONER",
-      "value": 4826.586910271384,
-      "unit": 0.002013
-    },
     "robinhood:0x6245e67affa44a23077f0ea7f981a8dc743a0c47:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
       "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
       "chain": "robinhood",
@@ -156,24 +138,6 @@
       "note": "09-06T04:39 14.73 WETH\u300109-06T04:40 6.112 QQQB\u300109-06T11:30 7.077e+05 BEN",
       "value": 9843.484004429472,
       "unit": 0.007229670730845646
-    },
-    "robinhood:0xbe98b75361935b18d688409424a869a4c3dc7401:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
-      "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
-      "chain": "robinhood",
-      "contract": "0xbe98b75361935b18d688409424a869a4c3dc7401",
-      "sym": "NUDES",
-      "amount": 1973132.031111071,
-      "usd": 4437.573937968798,
-      "counter_usd": 0.0,
-      "n": 1,
-      "other": {},
-      "first": 1789233297,
-      "last": 1789233297,
-      "runs": 1,
-      "funding": 1415428.1898685445,
-      "note": "09-05T17:31 2.5e+05 BONER\u300109-05T17:31 2.5e+05 BONER\u300109-05T17:31 2.5e+05 BONER",
-      "value": 4437.573937968798,
-      "unit": 0.002249
     },
     "robinhood:0x3df3644bcf4ce0d993e18c86c3080e53bfea06f1:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
       "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
