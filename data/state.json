@@ -28,26 +28,6 @@
       "value": 337.73274366427347,
       "unit": 1.135e-05
     },
-    "bsc:0x6ffe841fad56ee1e6dd37b8d1e04c00ce83a7777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
-      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
-      "chain": "bsc",
-      "contract": "0x6ffe841fad56ee1e6dd37b8d1e04c00ce83a7777",
-      "sym": "Duo",
-      "amount": 2148741.111189336,
-      "usd": 0.0,
-      "counter_usd": 73.44500000000001,
-      "n": 1,
-      "other": {
-        "BNB": 0.1
-      },
-      "first": 1789220072,
-      "last": 1789220072,
-      "runs": 1,
-      "funding": 0.0,
-      "note": "",
-      "value": 73.44500000000001,
-      "unit": 3.4180478801072474e-05
-    },
     "solana:9oXA1VWKNiYDYa6VKHBFFBBvZdvuhw1b2eD5Aka7YrVt:2heJbC32Tpfcb3nbUb5ER61K11FGZVfVGtVnDm6LDogF": {
       "wallet": "2heJbC32Tpfcb3nbUb5ER61K11FGZVfVGtVnDm6LDogF",
       "chain": "solana",
@@ -331,24 +311,6 @@
       "note": "09-05T16:56 20.43 QQQB\u300109-05T16:57 0.01195 BTCB\u300109-05T17:02 8.039 SPCXB",
       "value": 200.99258136587437,
       "unit": 3.0149999999999998e-05
-    },
-    "ethereum:0x47accd13264d8f954105256faac8376ce6a55999:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
-      "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
-      "chain": "ethereum",
-      "contract": "0x47accd13264d8f954105256faac8376ce6a55999",
-      "sym": "SEND",
-      "amount": 2744372.1569134723,
-      "usd": 5455.811847943984,
-      "counter_usd": 0.0,
-      "n": 1,
-      "other": {},
-      "first": 1789220999,
-      "last": 1789220999,
-      "runs": 1,
-      "funding": 1396450.6532199853,
-      "note": "09-05T16:56 20.43 QQQB\u300109-05T16:57 0.01195 BTCB\u300109-05T17:02 8.039 SPCXB",
-      "value": 5455.811847943984,
-      "unit": 0.001988
     },
     "bsc:0x198dba421a7db566a90da5de7901abe3443b4444:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
       "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
