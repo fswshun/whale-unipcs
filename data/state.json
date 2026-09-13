@@ -1,26 +1,8 @@
 {
-  "run_count": 695,
+  "run_count": 696,
   "last_daily": "2026-09-13",
   "cross_alerted": [],
   "buy_accum": {
-    "bsc:0x5a11c11d9676f4054b53559f44375ff249cb7777:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
-      "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
-      "chain": "bsc",
-      "contract": "0x5a11c11d9676f4054b53559f44375ff249cb7777",
-      "sym": "mj",
-      "amount": 29756188.869098984,
-      "usd": 337.73274366427347,
-      "counter_usd": 0.0,
-      "n": 1,
-      "other": {},
-      "first": 1789228515,
-      "last": 1789228515,
-      "runs": 1,
-      "funding": 1391625.6476436516,
-      "note": "09-05T16:56 20.43 QQQB\u300109-05T16:57 0.01195 BTCB\u300109-05T17:02 8.039 SPCXB",
-      "value": 337.73274366427347,
-      "unit": 1.135e-05
-    },
     "solana:9oXA1VWKNiYDYa6VKHBFFBBvZdvuhw1b2eD5Aka7YrVt:2heJbC32Tpfcb3nbUb5ER61K11FGZVfVGtVnDm6LDogF": {
       "wallet": "2heJbC32Tpfcb3nbUb5ER61K11FGZVfVGtVnDm6LDogF",
       "chain": "solana",
@@ -286,24 +268,6 @@
       "note": "",
       "value": 363.695,
       "unit": 2.4005778555497152e-05
-    },
-    "robinhood:0x14778a17d61ccc17a22265b6d7d434c7a5559700:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
-      "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
-      "chain": "robinhood",
-      "contract": "0x14778a17d61ccc17a22265b6d7d434c7a5559700",
-      "sym": "PERPSPAD",
-      "amount": 6666420.609150062,
-      "usd": 200.99258136587437,
-      "counter_usd": 0.0,
-      "n": 1,
-      "other": {},
-      "first": 1789228794,
-      "last": 1789228794,
-      "runs": 1,
-      "funding": 1432324.931692931,
-      "note": "09-05T16:56 20.43 QQQB\u300109-05T16:57 0.01195 BTCB\u300109-05T17:02 8.039 SPCXB",
-      "value": 200.99258136587437,
-      "unit": 3.0149999999999998e-05
     },
     "bsc:0x198dba421a7db566a90da5de7901abe3443b4444:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
       "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
