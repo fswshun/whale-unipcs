@@ -1,5 +1,5 @@
 {
-  "run_count": 653,
+  "run_count": 654,
   "last_daily": "2026-09-12",
   "cross_alerted": [
     [
@@ -10,24 +10,6 @@
     ]
   ],
   "buy_accum": {
-    "robinhood:0x575b2999100150ad45d75e92c33b3e01eb281e18:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
-      "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
-      "chain": "robinhood",
-      "contract": "0x575b2999100150ad45d75e92c33b3e01eb281e18",
-      "sym": "SHOGGOTH",
-      "amount": 11288741.153138796,
-      "usd": 1864.900038498529,
-      "counter_usd": 0.0,
-      "n": 1,
-      "other": {},
-      "first": 1789176249,
-      "last": 1789176249,
-      "runs": 1,
-      "funding": 1371044.0052465107,
-      "note": "09-05T16:56 20.43 QQQB\u300109-05T16:57 0.01195 BTCB\u300109-05T17:02 8.039 SPCXB",
-      "value": 1864.900038498529,
-      "unit": 0.0001652
-    },
     "solana:9oXA1VWKNiYDYa6VKHBFFBBvZdvuhw1b2eD5Aka7YrVt:AmVpfjnz7QbV7wjmHzKAoWdQvFxQ5c91UtUZuxzbhE4G": {
       "wallet": "AmVpfjnz7QbV7wjmHzKAoWdQvFxQ5c91UtUZuxzbhE4G",
       "chain": "solana",
@@ -509,6 +491,64 @@
       "note": "09-05T16:56 20.43 QQQB\u300109-05T16:57 0.01195 BTCB\u300109-05T17:02 8.039 SPCXB",
       "value": 200.99258136587437,
       "unit": 3.0149999999999998e-05
+    },
+    "ethereum:0x47accd13264d8f954105256faac8376ce6a55999:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
+      "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
+      "chain": "ethereum",
+      "contract": "0x47accd13264d8f954105256faac8376ce6a55999",
+      "sym": "SEND",
+      "amount": 2744372.1569134723,
+      "usd": 5455.811847943984,
+      "counter_usd": 0.0,
+      "n": 1,
+      "other": {},
+      "first": 1789220999,
+      "last": 1789220999,
+      "runs": 1,
+      "funding": 1396450.6532199853,
+      "note": "09-05T16:56 20.43 QQQB\u300109-05T16:57 0.01195 BTCB\u300109-05T17:02 8.039 SPCXB",
+      "value": 5455.811847943984,
+      "unit": 0.001988
+    },
+    "base:0xb2000000000000000000005d2caef485789de801:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
+      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
+      "chain": "base",
+      "contract": "0xb2000000000000000000005d2caef485789de801",
+      "sym": "EGGFUTURES",
+      "amount": 57894886.68285485,
+      "usd": 0.0,
+      "counter_usd": 252.556,
+      "n": 1,
+      "other": {
+        "ETH": 0.1
+      },
+      "first": 1789179429,
+      "last": 1789179429,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 252.556,
+      "unit": 4.362319618716736e-06
+    },
+    "base:0xb200000000000000000000091c544eacac265001:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
+      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
+      "chain": "base",
+      "contract": "0xb200000000000000000000091c544eacac265001",
+      "sym": "egg",
+      "amount": 23705119.498001605,
+      "usd": 0.0,
+      "counter_usd": 252.556,
+      "n": 1,
+      "other": {
+        "ETH": 0.1
+      },
+      "first": 1789179447,
+      "last": 1789179447,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 252.556,
+      "unit": 1.065406989495628e-05
     }
   },
   "last_daily_cut": 1789225200
