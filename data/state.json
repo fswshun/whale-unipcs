@@ -21,24 +21,6 @@
       "value": 23482.3762830215,
       "unit": 0.00982943032512312
     },
-    "robinhood:0x6245e67affa44a23077f0ea7f981a8dc743a0c47:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
-      "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
-      "chain": "robinhood",
-      "contract": "0x6245e67affa44a23077f0ea7f981a8dc743a0c47",
-      "sym": "FRONG",
-      "amount": 1361539.7396221517,
-      "usd": 9843.484004429472,
-      "counter_usd": 0.0,
-      "n": 2,
-      "other": {},
-      "first": 1789252233,
-      "last": 1789267534,
-      "runs": 2,
-      "funding": 2519259.141447387,
-      "note": "09-06T04:39 14.73 WETH\u300109-06T04:40 6.112 QQQB\u300109-06T11:30 7.077e+05 BEN",
-      "value": 9843.484004429472,
-      "unit": 0.007229670730845646
-    },
     "robinhood:0x385f4f8ae47651ce5f58f5265395a669f8281e18:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
       "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
       "chain": "robinhood",
