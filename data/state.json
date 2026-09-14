@@ -3,24 +3,6 @@
   "last_daily": "2026-09-14",
   "cross_alerted": [],
   "buy_accum": {
-    "bsc:0xbc5ff7fe4d1b928423cf6c54bfa5f907130b4024:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
-      "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
-      "chain": "bsc",
-      "contract": "0xbc5ff7fe4d1b928423cf6c54bfa5f907130b4024",
-      "sym": "MOMO",
-      "amount": 659935.3451074366,
-      "usd": 1028.1792676773862,
-      "counter_usd": 0.0,
-      "n": 1,
-      "other": {},
-      "first": 1789334083,
-      "last": 1789334083,
-      "runs": 1,
-      "funding": 2604024.1756197163,
-      "note": "09-06T21:22 5.51e+05 BEN\u300109-06T21:26 4.133e+05 BEN\u300109-06T21:29 2.399e+05 BEN",
-      "value": 1028.1792676773862,
-      "unit": 0.001558
-    },
     "solana:4MMQY9bwkxxTtsK3W227Q5ABT6yFY8Pmn9Ze7wmAXKY8:6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC": {
       "wallet": "6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC",
       "chain": "solana",
