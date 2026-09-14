@@ -77,24 +77,6 @@
       "value": 2803.639034743107,
       "unit": 0.00021588581459903544
     },
-    "robinhood:0x46d7b18f7c0a946298ce7ae400df5384bf5addef:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
-      "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
-      "chain": "robinhood",
-      "contract": "0x46d7b18f7c0a946298ce7ae400df5384bf5addef",
-      "sym": "ENDAI",
-      "amount": 1912905.8440275986,
-      "usd": 471.1487093839976,
-      "counter_usd": 0.0,
-      "n": 1,
-      "other": {},
-      "first": 1789336445,
-      "last": 1789336445,
-      "runs": 1,
-      "funding": 2608313.2402548096,
-      "note": "09-06T22:08 1e+06 CZ\u300109-07T00:14 1.5e+05 BASECAT\u300109-07T00:14 1.5e+05 BONER",
-      "value": 471.1487093839976,
-      "unit": 0.0002463
-    },
     "robinhood:0x72a6715cbaf9677a551d193b1afecbec1006e4a8:0xda9f482ea717384af879597303e8b67968afcde2": {
       "wallet": "0xda9f482ea717384af879597303e8b67968afcde2",
       "chain": "robinhood",
