@@ -140,7 +140,8 @@
     "chains": [
       "bsc",
       "robinhood",
-      "base"
+      "base",
+      "ethereum"
     ]
   },
   "0xc292ed096cb52030aa9325e78ebc464b70de8a3a": {
@@ -205,7 +206,9 @@
     "first_seen": "2026-09-13T13:54:09+00:00",
     "chains": [
       "bsc",
-      "robinhood"
+      "robinhood",
+      "ethereum",
+      "base"
     ]
   }
 }

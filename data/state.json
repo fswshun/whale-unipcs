@@ -1,5 +1,5 @@
 {
-  "run_count": 719,
+  "run_count": 720,
   "last_daily": "2026-09-13",
   "cross_alerted": [],
   "buy_accum": {
@@ -584,7 +584,7 @@
       "sym": "WEN",
       "amount": 17329150.51608232,
       "usd": 0.0,
-      "counter_usd": 502.74600000000004,
+      "counter_usd": 503.448,
       "n": 1,
       "other": {
         "ETH": 0.2
@@ -594,8 +594,8 @@
       "runs": 1,
       "funding": 0.0,
       "note": "",
-      "value": 502.74600000000004,
-      "unit": 2.9011577892028034e-05
+      "value": 503.448,
+      "unit": 2.9052087667700443e-05
     },
     "robinhood:0xb71b3699be554055ffbae69b086c51e6de53cc4f:0xda9f482ea717384af879597303e8b67968afcde2": {
       "wallet": "0xda9f482ea717384af879597303e8b67968afcde2",
@@ -603,8 +603,8 @@
       "contract": "0xb71b3699be554055ffbae69b086c51e6de53cc4f",
       "sym": "COOKWARE",
       "amount": 25365281.872714795,
-      "usd": 514.154263559929,
-      "counter_usd": 502.74600000000004,
+      "usd": 524.3003763090148,
+      "counter_usd": 503.448,
       "n": 1,
       "other": {
         "ETH": 0.2
@@ -614,8 +614,8 @@
       "runs": 1,
       "funding": 0.0,
       "note": "",
-      "value": 502.74600000000004,
-      "unit": 1.982024100985053e-05
+      "value": 503.448,
+      "unit": 1.9847916633702164e-05
     }
   },
   "last_daily_cut": 1789311600
