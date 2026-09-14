@@ -520,6 +520,26 @@
       "note": "",
       "value": 503.448,
       "unit": 1.9847916633702164e-05
+    },
+    "solana:5dvXTZ5qwgafnHtwu3Ls3QrWx1U4LQsFeCuJgkk4QEC6:8MDBqGR2bvQ2rW23zsBdJE7ezgarQFjpUuzeWnZ2dMFD": {
+      "wallet": "8MDBqGR2bvQ2rW23zsBdJE7ezgarQFjpUuzeWnZ2dMFD",
+      "chain": "solana",
+      "contract": "5dvXTZ5qwgafnHtwu3Ls3QrWx1U4LQsFeCuJgkk4QEC6",
+      "sym": "EMBER",
+      "amount": 106173.19167100001,
+      "usd": 2916.57757520237,
+      "counter_usd": 2902.093602,
+      "n": 2,
+      "other": {
+        "USDC": 2902.093602
+      },
+      "first": 1789368738,
+      "last": 1789368753,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 2902.093602,
+      "unit": 0.027333581635115088
     }
   },
   "last_daily_cut": 1789311600
