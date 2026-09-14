@@ -57,24 +57,6 @@
       "value": 7788.773249583071,
       "unit": 0.001235
     },
-    "robinhood:0xdc1a9f464dcb4a1dfdae34253939fdb509b081bf:0x0a6ebed0155edb4b21d92ad02897a626cd90119e": {
-      "wallet": "0x0a6ebed0155edb4b21d92ad02897a626cd90119e",
-      "chain": "robinhood",
-      "contract": "0xdc1a9f464dcb4a1dfdae34253939fdb509b081bf",
-      "sym": "STONKINU",
-      "amount": 10202646.74483388,
-      "usd": 2706.7621814044282,
-      "counter_usd": 0.0,
-      "n": 1,
-      "other": {},
-      "first": 1789264017,
-      "last": 1789264017,
-      "runs": 1,
-      "funding": 1223545.1218703636,
-      "note": "09-06T01:47 2.886e+05 BONER\u300109-06T04:39 14.73 WETH\u300109-06T04:40 6.112 QQQB",
-      "value": 2706.7621814044282,
-      "unit": 0.0002653
-    },
     "robinhood:0x385f4f8ae47651ce5f58f5265395a669f8281e18:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
       "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
       "chain": "robinhood",
