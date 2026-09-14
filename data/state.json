@@ -1,26 +1,8 @@
 {
-  "run_count": 734,
+  "run_count": 735,
   "last_daily": "2026-09-14",
   "cross_alerted": [],
   "buy_accum": {
-    "bsc:0xfa6d9b504848606eb9aec04ccc161d169b3f2159:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
-      "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
-      "chain": "bsc",
-      "contract": "0xfa6d9b504848606eb9aec04ccc161d169b3f2159",
-      "sym": "BREW",
-      "amount": 1281834.947954249,
-      "usd": 14433.461513964845,
-      "counter_usd": 0.0,
-      "n": 2,
-      "other": {},
-      "first": 1789328233,
-      "last": 1789328275,
-      "runs": 1,
-      "funding": 2325109.8379182597,
-      "note": "09-06T20:43 5e+05 BEN\u300109-06T20:54 5e+05 BEN\u300109-06T21:22 5.51e+05 BEN",
-      "value": 14433.461513964845,
-      "unit": 0.01126
-    },
     "bsc:0xbc5ff7fe4d1b928423cf6c54bfa5f907130b4024:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
       "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
       "chain": "bsc",
@@ -130,26 +112,6 @@
       "note": "09-06T22:08 1e+06 CZ\u300109-07T00:14 1.5e+05 BASECAT\u300109-07T00:14 1.5e+05 BONER",
       "value": 471.1487093839976,
       "unit": 0.0002463
-    },
-    "robinhood:0x36e93e3f85472f206faf96a2c2313355f9be1e18:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
-      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
-      "chain": "robinhood",
-      "contract": "0x36e93e3f85472f206faf96a2c2313355f9be1e18",
-      "sym": "ANT",
-      "amount": 1107258.1829168424,
-      "usd": 104.76876926759162,
-      "counter_usd": 247.731,
-      "n": 1,
-      "other": {
-        "ETH": 0.1
-      },
-      "first": 1789327793,
-      "last": 1789327793,
-      "runs": 1,
-      "funding": 0.0,
-      "note": "",
-      "value": 247.731,
-      "unit": 0.00022373372698624268
     },
     "robinhood:0x72a6715cbaf9677a551d193b1afecbec1006e4a8:0xda9f482ea717384af879597303e8b67968afcde2": {
       "wallet": "0xda9f482ea717384af879597303e8b67968afcde2",
