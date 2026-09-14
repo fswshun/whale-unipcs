@@ -113,24 +113,6 @@
       "value": 2803.639034743107,
       "unit": 0.00021588581459903544
     },
-    "robinhood:0xaf468cd6f562150723edd79419912199ca767b0d:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
-      "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
-      "chain": "robinhood",
-      "contract": "0xaf468cd6f562150723edd79419912199ca767b0d",
-      "sym": "\u6211\u7684\u5200\u76fe",
-      "amount": 25238653.31912093,
-      "usd": 1022.67023249078,
-      "counter_usd": 0.0,
-      "n": 1,
-      "other": {},
-      "first": 1789327302,
-      "last": 1789327302,
-      "runs": 1,
-      "funding": 1164894.9508523191,
-      "note": "09-06T20:43 5e+05 BEN\u300109-06T20:54 5e+05 BEN\u300109-06T21:22 5.51e+05 BEN",
-      "value": 1022.67023249078,
-      "unit": 4.052e-05
-    },
     "robinhood:0x46d7b18f7c0a946298ce7ae400df5384bf5addef:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
       "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
       "chain": "robinhood",
