@@ -1,5 +1,5 @@
 {
-  "run_count": 725,
+  "run_count": 726,
   "last_daily": "2026-09-13",
   "cross_alerted": [],
   "buy_accum": {
@@ -527,7 +527,7 @@
       "contract": "5dvXTZ5qwgafnHtwu3Ls3QrWx1U4LQsFeCuJgkk4QEC6",
       "sym": "EMBER",
       "amount": 106173.19167100001,
-      "usd": 2916.57757520237,
+      "usd": 3048.23233287441,
       "counter_usd": 2902.093602,
       "n": 2,
       "other": {
