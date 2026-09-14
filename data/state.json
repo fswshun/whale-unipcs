@@ -1,128 +1,8 @@
 {
-  "run_count": 728,
-  "last_daily": "2026-09-13",
+  "run_count": 729,
+  "last_daily": "2026-09-14",
   "cross_alerted": [],
   "buy_accum": {
-    "bsc:0x3866fb6f6dfbdb2529cdb07b3dea22142c69ffff:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
-      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
-      "chain": "bsc",
-      "contract": "0x3866fb6f6dfbdb2529cdb07b3dea22142c69ffff",
-      "sym": "1bnb",
-      "amount": 21014603.8129722,
-      "usd": 357.8787029349166,
-      "counter_usd": 215.36999999999998,
-      "n": 1,
-      "other": {
-        "BNB": 0.3
-      },
-      "first": 1789307823,
-      "last": 1789307823,
-      "runs": 1,
-      "funding": 0.0,
-      "note": "",
-      "value": 215.36999999999998,
-      "unit": 1.0248587216621864e-05
-    },
-    "bsc:0x2f6daba45df8026c63cbaed2e9da250dab477777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
-      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
-      "chain": "bsc",
-      "contract": "0x2f6daba45df8026c63cbaed2e9da250dab477777",
-      "sym": "ZECGUY",
-      "amount": 51112730.72623412,
-      "usd": 191.05938745466315,
-      "counter_usd": 359.77,
-      "n": 1,
-      "other": {
-        "BNB": 0.5
-      },
-      "first": 1789308584,
-      "last": 1789308584,
-      "runs": 1,
-      "funding": 0.0,
-      "note": "",
-      "value": 359.77,
-      "unit": 7.038755215935751e-06
-    },
-    "bsc:0x1c3b56c339763c6d20adcc70a11a811df94a7777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
-      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
-      "chain": "bsc",
-      "contract": "0x1c3b56c339763c6d20adcc70a11a811df94a7777",
-      "sym": "MONKEY",
-      "amount": 60864966.75470135,
-      "usd": 226.11335149371553,
-      "counter_usd": 359.77,
-      "n": 1,
-      "other": {
-        "BNB": 0.5
-      },
-      "first": 1789309044,
-      "last": 1789309044,
-      "runs": 1,
-      "funding": 0.0,
-      "note": "",
-      "value": 359.77,
-      "unit": 5.910953692786014e-06
-    },
-    "bsc:0x40c04e221a232e0f60d7a07474a9c2e381307777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
-      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
-      "chain": "bsc",
-      "contract": "0x40c04e221a232e0f60d7a07474a9c2e381307777",
-      "sym": "icat",
-      "amount": 22786421.30342969,
-      "usd": 265.0060797588873,
-      "counter_usd": 215.862,
-      "n": 1,
-      "other": {
-        "BNB": 0.3
-      },
-      "first": 1789307961,
-      "last": 1789307961,
-      "runs": 1,
-      "funding": 0.0,
-      "note": "",
-      "value": 215.862,
-      "unit": 9.473273452005806e-06
-    },
-    "bsc:0xa5bd4cc5d503c84a89c168fbb9531e169ed67777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
-      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
-      "chain": "bsc",
-      "contract": "0xa5bd4cc5d503c84a89c168fbb9531e169ed67777",
-      "sym": "CumCoin",
-      "amount": 54508638.1674676,
-      "usd": 198.62947748225196,
-      "counter_usd": 215.862,
-      "n": 1,
-      "other": {
-        "BNB": 0.3
-      },
-      "first": 1789309598,
-      "last": 1789309598,
-      "runs": 1,
-      "funding": 0.0,
-      "note": "",
-      "value": 215.862,
-      "unit": 3.960142965538863e-06
-    },
-    "bsc:0x95dfad76a24e89e9e462f710dfc0e8ad978c7777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
-      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
-      "chain": "bsc",
-      "contract": "0x95dfad76a24e89e9e462f710dfc0e8ad978c7777",
-      "sym": "piupiupiu",
-      "amount": 15296550.796449566,
-      "usd": 273.34936273255374,
-      "counter_usd": 215.862,
-      "n": 1,
-      "other": {
-        "BNB": 0.3
-      },
-      "first": 1789309934,
-      "last": 1789309934,
-      "runs": 1,
-      "funding": 0.0,
-      "note": "",
-      "value": 215.862,
-      "unit": 1.4111808790914029e-05
-    },
     "bsc:0x7bc70ae0f2a67d2fdc0180a697a611f21c857777:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
       "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
       "chain": "bsc",
@@ -273,24 +153,6 @@
       "value": 2783.724321969656,
       "unit": 1.431e-06
     },
-    "robinhood:0xab528169dcc80d68837a33b1e2b866bb7d7ee301:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
-      "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
-      "chain": "robinhood",
-      "contract": "0xab528169dcc80d68837a33b1e2b866bb7d7ee301",
-      "sym": "WRESTLER",
-      "amount": 3541746.470696525,
-      "usd": 2340.0318931891943,
-      "counter_usd": 0.0,
-      "n": 3,
-      "other": {},
-      "first": 1789311292,
-      "last": 1789312070,
-      "runs": 1,
-      "funding": 3554742.837151205,
-      "note": "09-06T16:01 16.78 QQQB\u300109-06T16:01 3.853 WETH\u300109-06T16:01 4.33 SPCXB",
-      "value": 2340.0318931891943,
-      "unit": 0.0006607000000000001
-    },
     "robinhood:0x298bcf72f7040d02c6f8d4095bd500690a391c9e:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
       "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
       "chain": "robinhood",
@@ -308,24 +170,6 @@
       "note": "09-07T01:02 1.806e+07 Devil\u300109-07T01:03 1.5e+05 BONER\u300109-07T05:36 3.415 WETH",
       "value": 2803.639034743107,
       "unit": 0.00021588581459903544
-    },
-    "robinhood:0xbc18d0b1d039107fc74ea97c333da6323b87723d:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
-      "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
-      "chain": "robinhood",
-      "contract": "0xbc18d0b1d039107fc74ea97c333da6323b87723d",
-      "sym": "\u5976\u86d9",
-      "amount": 9626472.930579599,
-      "usd": 1464.1865327411572,
-      "counter_usd": 0.0,
-      "n": 1,
-      "other": {},
-      "first": 1789313446,
-      "last": 1789313446,
-      "runs": 1,
-      "funding": 1187254.310943591,
-      "note": "09-06T16:01 16.78 QQQB\u300109-06T16:01 3.853 WETH\u300109-06T16:01 4.33 SPCXB",
-      "value": 1464.1865327411572,
-      "unit": 0.0001521
     },
     "robinhood:0xaf468cd6f562150723edd79419912199ca767b0d:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
       "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
@@ -362,46 +206,6 @@
       "note": "09-06T22:08 1e+06 CZ\u300109-07T00:14 1.5e+05 BASECAT\u300109-07T00:14 1.5e+05 BONER",
       "value": 471.1487093839976,
       "unit": 0.0002463
-    },
-    "robinhood:0x5714b79a1c20bd938a0d1247ac6c218dab60d4a3:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
-      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
-      "chain": "robinhood",
-      "contract": "0x5714b79a1c20bd938a0d1247ac6c218dab60d4a3",
-      "sym": "ROBIN",
-      "amount": 11232231.809719784,
-      "usd": 59.148932709984386,
-      "counter_usd": 247.731,
-      "n": 1,
-      "other": {
-        "ETH": 0.1
-      },
-      "first": 1789307932,
-      "last": 1789307932,
-      "runs": 1,
-      "funding": 0.0,
-      "note": "",
-      "value": 247.731,
-      "unit": 2.2055367463626115e-05
-    },
-    "robinhood:0xd12d155c0280f172baa12ced38241b55d9251e18:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
-      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
-      "chain": "robinhood",
-      "contract": "0xd12d155c0280f172baa12ced38241b55d9251e18",
-      "sym": "CUMCOIN",
-      "amount": 9679810.493483774,
-      "usd": 208.50311802964052,
-      "counter_usd": 247.731,
-      "n": 1,
-      "other": {
-        "ETH": 0.1
-      },
-      "first": 1789309608,
-      "last": 1789309608,
-      "runs": 1,
-      "funding": 0.0,
-      "note": "",
-      "value": 247.731,
-      "unit": 2.5592546482884845e-05
     },
     "robinhood:0x9e3c10ad6428b57d5c7a8eba3edaa94ce2fa1e18:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
       "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
@@ -542,5 +346,5 @@
       "unit": 0.027333581635115088
     }
   },
-  "last_daily_cut": 1789311600
+  "last_daily_cut": 1789398000
 }
