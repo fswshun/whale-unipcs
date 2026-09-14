@@ -1,5 +1,5 @@
 {
-  "run_count": 717,
+  "run_count": 718,
   "last_daily": "2026-09-13",
   "cross_alerted": [],
   "buy_accum": {
@@ -38,24 +38,6 @@
       "note": "09-06T04:39 14.73 WETH\u300109-06T04:40 6.112 QQQB\u300109-06T11:30 7.077e+05 BEN",
       "value": 9843.484004429472,
       "unit": 0.007229670730845646
-    },
-    "bsc:0x198dba421a7db566a90da5de7901abe3443b4444:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
-      "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
-      "chain": "bsc",
-      "contract": "0x198dba421a7db566a90da5de7901abe3443b4444",
-      "sym": "\u5bcc\u8d35",
-      "amount": 6306698.987516657,
-      "usd": 7788.773249583071,
-      "counter_usd": 0.0,
-      "n": 1,
-      "other": {},
-      "first": 1789266147,
-      "last": 1789266147,
-      "runs": 1,
-      "funding": 1210327.1502703635,
-      "note": "09-06T04:39 14.73 WETH\u300109-06T04:40 6.112 QQQB\u300109-06T11:30 7.077e+05 BEN",
-      "value": 7788.773249583071,
-      "unit": 0.001235
     },
     "robinhood:0x385f4f8ae47651ce5f58f5265395a669f8281e18:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
       "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
@@ -594,6 +576,24 @@
       "note": "",
       "value": 496.90200000000004,
       "unit": 2.551215759434049e-05
+    },
+    "robinhood:0x26becab467bf74a3e09c095c30427acbd6544608:0x0a6ebed0155edb4b21d92ad02897a626cd90119e": {
+      "wallet": "0x0a6ebed0155edb4b21d92ad02897a626cd90119e",
+      "chain": "robinhood",
+      "contract": "0x26becab467bf74a3e09c095c30427acbd6544608",
+      "sym": "DOGEGPT",
+      "amount": 31818810.1260886,
+      "usd": 2414.0931242663423,
+      "counter_usd": 0.0,
+      "n": 1,
+      "other": {},
+      "first": 1789350672,
+      "last": 1789350672,
+      "runs": 1,
+      "funding": 2604796.0275779846,
+      "note": "09-07T05:36 3.415 WETH\u300109-07T05:36 4.192 QQQB\u300109-07T05:37 4.127 SPCXB",
+      "value": 2414.0931242663423,
+      "unit": 7.587e-05
     }
   },
   "last_daily_cut": 1789311600
