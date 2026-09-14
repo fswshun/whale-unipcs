@@ -1,5 +1,5 @@
 {
-  "run_count": 715,
+  "run_count": 716,
   "last_daily": "2026-09-13",
   "cross_alerted": [],
   "buy_accum": {
@@ -38,26 +38,6 @@
       "note": "09-06T04:39 14.73 WETH\u300109-06T04:40 6.112 QQQB\u300109-06T11:30 7.077e+05 BEN",
       "value": 9843.484004429472,
       "unit": 0.007229670730845646
-    },
-    "bsc:0xf4773ff5d33c31e40d6fa6c64a70650536da7777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
-      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
-      "chain": "bsc",
-      "contract": "0xf4773ff5d33c31e40d6fa6c64a70650536da7777",
-      "sym": "JUBJUB",
-      "amount": 15150310.545404762,
-      "usd": 484.6584343474983,
-      "counter_usd": 363.695,
-      "n": 1,
-      "other": {
-        "BNB": 0.5
-      },
-      "first": 1789260671,
-      "last": 1789260671,
-      "runs": 1,
-      "funding": 0.0,
-      "note": "",
-      "value": 363.695,
-      "unit": 2.4005778555497152e-05
     },
     "bsc:0x198dba421a7db566a90da5de7901abe3443b4444:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
       "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
@@ -610,8 +590,26 @@
       "runs": 1,
       "funding": 0.0,
       "note": "",
-      "value": 247.731,
-      "unit": 0.00022373372698624268
+      "value": 247.712,
+      "unit": 0.00022371656748334344
+    },
+    "robinhood:0x298bcf72f7040d02c6f8d4095bd500690a391c9e:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
+      "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
+      "chain": "robinhood",
+      "contract": "0x298bcf72f7040d02c6f8d4095bd500690a391c9e",
+      "sym": "d/acc",
+      "amount": 6858413.990325665,
+      "usd": 1208.4525450953822,
+      "counter_usd": 0.0,
+      "n": 1,
+      "other": {},
+      "first": 1789344948,
+      "last": 1789344948,
+      "runs": 1,
+      "funding": 2643918.211882029,
+      "note": "09-07T00:16 1.5e+05 BASECAT\u300109-07T00:16 2.359e+06 SIRIUS\u300109-07T00:18 1e+05 BASECAT",
+      "value": 1208.4525450953822,
+      "unit": 0.0001762
     }
   },
   "last_daily_cut": 1789311600
