@@ -1,28 +1,8 @@
 {
-  "run_count": 738,
+  "run_count": 739,
   "last_daily": "2026-09-14",
   "cross_alerted": [],
   "buy_accum": {
-    "solana:4MMQY9bwkxxTtsK3W227Q5ABT6yFY8Pmn9Ze7wmAXKY8:6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC": {
-      "wallet": "6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC",
-      "chain": "solana",
-      "contract": "4MMQY9bwkxxTtsK3W227Q5ABT6yFY8Pmn9Ze7wmAXKY8",
-      "sym": "ALLINU",
-      "amount": 81268.892557,
-      "usd": 166.35742306417902,
-      "counter_usd": 183.110721,
-      "n": 1,
-      "other": {
-        "USDC": 183.110721
-      },
-      "first": 1789338616,
-      "last": 1789338616,
-      "runs": 1,
-      "funding": 0.0,
-      "note": "",
-      "value": 183.110721,
-      "unit": 0.002253146502169581
-    },
     "robinhood:0xb57b85ff1dae420ad9abe06cc15fb7748e2e855c:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
       "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
       "chain": "robinhood",
