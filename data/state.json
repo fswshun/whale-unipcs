@@ -576,6 +576,46 @@
       "note": "09-07T05:36 3.415 WETH\u300109-07T05:36 4.192 QQQB\u300109-07T05:37 4.127 SPCXB",
       "value": 2414.0931242663423,
       "unit": 7.587e-05
+    },
+    "robinhood:0xef2851eb6b10b077a45cbc0a5b89d0ef0fdcc733:0xda9f482ea717384af879597303e8b67968afcde2": {
+      "wallet": "0xda9f482ea717384af879597303e8b67968afcde2",
+      "chain": "robinhood",
+      "contract": "0xef2851eb6b10b077a45cbc0a5b89d0ef0fdcc733",
+      "sym": "WEN",
+      "amount": 17329150.51608232,
+      "usd": 0.0,
+      "counter_usd": 502.74600000000004,
+      "n": 1,
+      "other": {
+        "ETH": 0.2
+      },
+      "first": 1789354747,
+      "last": 1789354747,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 502.74600000000004,
+      "unit": 2.9011577892028034e-05
+    },
+    "robinhood:0xb71b3699be554055ffbae69b086c51e6de53cc4f:0xda9f482ea717384af879597303e8b67968afcde2": {
+      "wallet": "0xda9f482ea717384af879597303e8b67968afcde2",
+      "chain": "robinhood",
+      "contract": "0xb71b3699be554055ffbae69b086c51e6de53cc4f",
+      "sym": "COOKWARE",
+      "amount": 25365281.872714795,
+      "usd": 514.154263559929,
+      "counter_usd": 502.74600000000004,
+      "n": 1,
+      "other": {
+        "ETH": 0.2
+      },
+      "first": 1789354803,
+      "last": 1789354803,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 502.74600000000004,
+      "unit": 1.982024100985053e-05
     }
   },
   "last_daily_cut": 1789311600
