@@ -210,5 +210,13 @@
       "ethereum",
       "base"
     ]
+  },
+  "0x5f39020cfac23e42430d1dcb43381cc54eca46af": {
+    "role": "孫",
+    "parent": "0xf89f3858bc7bac05a83ec284e3e9acdb58bf892a",
+    "first_seen": "2026-09-14T14:17:53+00:00",
+    "chains": [
+      "robinhood"
+    ]
   }
 }
