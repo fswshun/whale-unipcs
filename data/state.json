@@ -1,5 +1,5 @@
 {
-  "run_count": 799,
+  "run_count": 800,
   "last_daily": "2026-09-24",
   "cross_alerted": [],
   "buy_accum": {
@@ -760,6 +760,66 @@
       "note": "",
       "value": 234.56699999999998,
       "unit": 3.9793767222031105e-06
+    },
+    "bsc:0x32f038231b951cfee92e65c0de1698a432767777:0x8baef48ddd5abf9640498a520598e95621d13a5c": {
+      "wallet": "0x8baef48ddd5abf9640498a520598e95621d13a5c",
+      "chain": "bsc",
+      "contract": "0x32f038231b951cfee92e65c0de1698a432767777",
+      "sym": "PeacePanda",
+      "amount": 1897659.5041071647,
+      "usd": 1077.3013004816376,
+      "counter_usd": 776.2981361328987,
+      "n": 4,
+      "other": {
+        "BNB": 0.995815762908434
+      },
+      "first": 1790265532,
+      "last": 1790266048,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 776.2981361328987,
+      "unit": 0.00040908188979779143
+    },
+    "bsc:0x32f038231b951cfee92e65c0de1698a432767777:0x994aa2c318527ea6c1bb5251e2f7c646cca9bbc0": {
+      "wallet": "0x994aa2c318527ea6c1bb5251e2f7c646cca9bbc0",
+      "chain": "bsc",
+      "contract": "0x32f038231b951cfee92e65c0de1698a432767777",
+      "sym": "PeacePanda",
+      "amount": 4361000.546860094,
+      "usd": 2475.7400104524754,
+      "counter_usd": 467.73599999999993,
+      "n": 1,
+      "other": {
+        "BNB": 0.6
+      },
+      "first": 1790265417,
+      "last": 1790265417,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 467.73599999999993,
+      "unit": 0.00010725428602313942
+    },
+    "bsc:0x32f038231b951cfee92e65c0de1698a432767777:0x6c521307529abf7ec0de79f01c6f5a011e22e1d6": {
+      "wallet": "0x6c521307529abf7ec0de79f01c6f5a011e22e1d6",
+      "chain": "bsc",
+      "contract": "0x32f038231b951cfee92e65c0de1698a432767777",
+      "sym": "PeacePanda",
+      "amount": 1052742.6194914393,
+      "usd": 597.6419850852901,
+      "counter_usd": 400.20193906374936,
+      "n": 2,
+      "other": {
+        "BNB": 0.51336900182635
+      },
+      "first": 1790265581,
+      "last": 1790265739,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 400.20193906374936,
+      "unit": 0.00038015174046727545
     }
   },
   "last_daily_cut": 1790262000
