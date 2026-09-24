@@ -227,5 +227,69 @@
     "chains": [
       "bsc"
     ]
+  },
+  "0x0121525f755c9e7bbc525bba6672716ab46ced57": {
+    "role": "孫",
+    "parent": "0x01db37579e55ce13f4504019025e36047bdad845",
+    "first_seen": "2026-09-24T06:56:15+00:00",
+    "chains": [
+      "bsc"
+    ]
+  },
+  "0x994aa2c318527ea6c1bb5251e2f7c646cca9bbc0": {
+    "role": "孫",
+    "parent": "0x01db37579e55ce13f4504019025e36047bdad845",
+    "first_seen": "2026-09-24T07:01:37+00:00",
+    "chains": [
+      "bsc"
+    ]
+  },
+  "0x9ce0cb4a193acbce0dca3283972341aed6f3f614": {
+    "role": "孫",
+    "parent": "0x01db37579e55ce13f4504019025e36047bdad845",
+    "first_seen": "2026-09-24T07:05:02+00:00",
+    "chains": [
+      "bsc"
+    ]
+  },
+  "0xf1a92ec17b8db57e6ab99c89864a1ae8473e9e44": {
+    "role": "曾孫",
+    "parent": "0x994aa2c318527ea6c1bb5251e2f7c646cca9bbc0",
+    "first_seen": "2026-09-23T14:10:47+00:00",
+    "chains": [
+      "bsc"
+    ]
+  },
+  "0x3894a42b5ccfb563019dbe4751ff82fd775266d1": {
+    "role": "曾孫",
+    "parent": "0x994aa2c318527ea6c1bb5251e2f7c646cca9bbc0",
+    "first_seen": "2026-09-23T14:25:11+00:00",
+    "chains": [
+      "bsc"
+    ]
+  },
+  "0x24756bcb549b083f25ae5581037dff5351c96f78": {
+    "role": "曾孫",
+    "parent": "0x994aa2c318527ea6c1bb5251e2f7c646cca9bbc0",
+    "first_seen": "2026-09-23T14:26:32+00:00",
+    "chains": [
+      "bsc"
+    ]
+  },
+  "0x28816c4c4792467390c90e5b426f198570e29307": {
+    "role": "曾孫",
+    "parent": "0x994aa2c318527ea6c1bb5251e2f7c646cca9bbc0",
+    "first_seen": "2026-09-24T06:47:37+00:00",
+    "chains": [
+      "bsc"
+    ]
+  },
+  "0x16fd4915a855b011e02d3c857ace9aa6b5254458": {
+    "role": "曾孫",
+    "parent": "0x994aa2c318527ea6c1bb5251e2f7c646cca9bbc0",
+    "first_seen": "2026-09-24T06:49:00+00:00",
+    "chains": [
+      "bsc"
+    ]
   }
 }
