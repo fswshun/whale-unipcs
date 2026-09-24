@@ -1,29 +1,8 @@
 {
-  "run_count": 763,
+  "run_count": 764,
   "last_daily": "2026-09-24",
   "cross_alerted": [],
   "buy_accum": {
-    "bsc:0xcafdbce93477261db8250e42bdae6e66733f9e20:0xda9f482ea717384af879597303e8b67968afcde2": {
-      "wallet": "0xda9f482ea717384af879597303e8b67968afcde2",
-      "chain": "bsc",
-      "contract": "0xcafdbce93477261db8250e42bdae6e66733f9e20",
-      "sym": "GSTOCK",
-      "amount": 740420.5314299916,
-      "usd": 18177.324046606293,
-      "counter_usd": 19761.27953136166,
-      "n": 12,
-      "other": {
-        "BNB": 16.5,
-        "B13B": 1152.2716050199842
-      },
-      "first": 1790132703,
-      "last": 1790158067,
-      "runs": 1,
-      "funding": 0.0,
-      "note": "",
-      "value": 19761.27953136166,
-      "unit": 0.026689264671248696
-    },
     "solana:UpBBfyC75u3kxDGWmmmW2yauk9YY3CqZhdt1KUDkids:8MDBqGR2bvQ2rW23zsBdJE7ezgarQFjpUuzeWnZ2dMFD": {
       "wallet": "8MDBqGR2bvQ2rW23zsBdJE7ezgarQFjpUuzeWnZ2dMFD",
       "chain": "solana",
