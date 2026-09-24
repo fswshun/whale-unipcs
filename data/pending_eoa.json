@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "chain": "bsc",
+    "addr": "0xe8715a98ded9d7dfe73f4aaaebad4ecee7318ce6",
+    "parent": "0x8baef48ddd5abf9640498a520598e95621d13a5c",
+    "first_seen": "2026-09-24T06:48:34+00:00"
+  }
+]
