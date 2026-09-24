@@ -1,48 +1,8 @@
 {
-  "run_count": 758,
+  "run_count": 759,
   "last_daily": "2026-09-24",
   "cross_alerted": [],
   "buy_accum": {
-    "bsc:0x26bbf9a757708cec6e42529546f4da7825267777:0x72cdecdc528a42ffd841b506e540394daade3492": {
-      "wallet": "0x72cdecdc528a42ffd841b506e540394daade3492",
-      "chain": "bsc",
-      "contract": "0x26bbf9a757708cec6e42529546f4da7825267777",
-      "sym": "BUILDER",
-      "amount": 51625590.89672963,
-      "usd": 0.0,
-      "counter_usd": 782.35,
-      "n": 1,
-      "other": {
-        "BNB": 1.0
-      },
-      "first": 1790154911,
-      "last": 1790154911,
-      "runs": 1,
-      "funding": 0.0,
-      "note": "",
-      "value": 782.35,
-      "unit": 1.5154305963586756e-05
-    },
-    "bsc:0x26bbf9a757708cec6e42529546f4da7825267777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
-      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
-      "chain": "bsc",
-      "contract": "0x26bbf9a757708cec6e42529546f4da7825267777",
-      "sym": "BUILDER",
-      "amount": 16310187.090251373,
-      "usd": 0.0,
-      "counter_usd": 234.70499999999998,
-      "n": 1,
-      "other": {
-        "BNB": 0.3
-      },
-      "first": 1790154935,
-      "last": 1790154935,
-      "runs": 1,
-      "funding": 0.0,
-      "note": "",
-      "value": 234.70499999999998,
-      "unit": 1.4390086312393288e-05
-    },
     "bsc:0xcafdbce93477261db8250e42bdae6e66733f9e20:0xda9f482ea717384af879597303e8b67968afcde2": {
       "wallet": "0xda9f482ea717384af879597303e8b67968afcde2",
       "chain": "bsc",
