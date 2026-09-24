@@ -1,5 +1,5 @@
 {
-  "run_count": 751,
+  "run_count": 752,
   "last_daily": "2026-09-24",
   "cross_alerted": [],
   "buy_accum": {
@@ -443,6 +443,24 @@
       "note": "",
       "value": 3994.684536608891,
       "unit": 0.0015073326052016242
+    },
+    "bsc:0xd565b8d6c9588fe75f5fee5aeb3f7daa42b27777:0x0a6ebed0155edb4b21d92ad02897a626cd90119e": {
+      "wallet": "0x0a6ebed0155edb4b21d92ad02897a626cd90119e",
+      "chain": "bsc",
+      "contract": "0xd565b8d6c9588fe75f5fee5aeb3f7daa42b27777",
+      "sym": "MOGGED",
+      "amount": 777777.0,
+      "usd": 2187.1089239999997,
+      "counter_usd": 0.0,
+      "n": 1,
+      "other": {},
+      "first": 1790236105,
+      "last": 1790236105,
+      "runs": 1,
+      "funding": 73326.49319445607,
+      "note": "09-18T20:50 1.573e+06 \u5bcc\u8d35\u300109-18T20:51 1.076e+07 OZZY\u300109-22T16:18 5.243e+06 \u5bcc\u8d35",
+      "value": 2187.1089239999997,
+      "unit": 0.0028119999999999994
     }
   },
   "last_daily_cut": 1790175600
