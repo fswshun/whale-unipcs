@@ -1,5 +1,5 @@
 {
-  "run_count": 832,
+  "run_count": 833,
   "last_daily": "2026-09-24",
   "cross_alerted": [],
   "buy_accum": {
@@ -798,6 +798,26 @@
       "note": "09-24T10:28 7.778e+06 FLAPCAT\u300109-24T10:42 1.778e+07 FlapCat\u300109-24T15:59 1.181e+07 PeacePanda",
       "value": 358.11928800000004,
       "unit": 0.0016080000000000003
+    },
+    "solana:5r9K5fzpXkFGxfCF2eUzXkXeamRYXAKNq5bTBg4sX7DD:6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC": {
+      "wallet": "6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC",
+      "chain": "solana",
+      "contract": "5r9K5fzpXkFGxfCF2eUzXkXeamRYXAKNq5bTBg4sX7DD",
+      "sym": "MINE",
+      "amount": 12272331.280521,
+      "usd": 1063.8883987083655,
+      "counter_usd": 1000.0,
+      "n": 1,
+      "other": {
+        "USDC": 1000.0
+      },
+      "first": 1790285404,
+      "last": 1790285404,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 1000.0,
+      "unit": 8.148411065037243e-05
     }
   },
   "last_daily_cut": 1790262000
