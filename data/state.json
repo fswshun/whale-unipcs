@@ -1,48 +1,8 @@
 {
-  "run_count": 870,
+  "run_count": 871,
   "last_daily": "2026-09-24",
   "cross_alerted": [],
   "buy_accum": {
-    "bsc:0x420a935d199a8a6a4f61fdfd74753d7cfd1a7777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
-      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
-      "chain": "bsc",
-      "contract": "0x420a935d199a8a6a4f61fdfd74753d7cfd1a7777",
-      "sym": "Archy",
-      "amount": 25781975.490659133,
-      "usd": 0.0,
-      "counter_usd": 114.8415,
-      "n": 1,
-      "other": {
-        "BNB": 0.15
-      },
-      "first": 1790246009,
-      "last": 1790246009,
-      "runs": 1,
-      "funding": 0.0,
-      "note": "",
-      "value": 114.8415,
-      "unit": 4.454332835806447e-06
-    },
-    "bsc:0x420a935d199a8a6a4f61fdfd74753d7cfd1a7777:0x72cdecdc528a42ffd841b506e540394daade3492": {
-      "wallet": "0x72cdecdc528a42ffd841b506e540394daade3492",
-      "chain": "bsc",
-      "contract": "0x420a935d199a8a6a4f61fdfd74753d7cfd1a7777",
-      "sym": "Archy",
-      "amount": 24472137.251042772,
-      "usd": 0.0,
-      "counter_usd": 114.8415,
-      "n": 1,
-      "other": {
-        "BNB": 0.15
-      },
-      "first": 1790246009,
-      "last": 1790246009,
-      "runs": 1,
-      "funding": 0.0,
-      "note": "",
-      "value": 114.8415,
-      "unit": 4.6927450112722185e-06
-    },
     "bsc:0x05b1d7b05a60580b617498c971c1967b73377777:0x6c521307529abf7ec0de79f01c6f5a011e22e1d6": {
       "wallet": "0x6c521307529abf7ec0de79f01c6f5a011e22e1d6",
       "chain": "bsc",
