@@ -1,5 +1,5 @@
 {
-  "run_count": 878,
+  "run_count": 879,
   "last_daily": "2026-09-24",
   "cross_alerted": [],
   "buy_accum": {
@@ -420,6 +420,24 @@
       "note": "",
       "value": 100.0,
       "unit": 0.000982346181369712
+    },
+    "bsc:0xfa6d9b504848606eb9aec04ccc161d169b3f2159:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
+      "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
+      "chain": "bsc",
+      "contract": "0xfa6d9b504848606eb9aec04ccc161d169b3f2159",
+      "sym": "BREW",
+      "amount": 2566921.556107917,
+      "usd": 40480.35293982185,
+      "counter_usd": 0.0,
+      "n": 8,
+      "other": {},
+      "first": 1790336529,
+      "last": 1790337001,
+      "runs": 1,
+      "funding": 51000.0,
+      "note": "09-23T15:49 5e+05 4Stock",
+      "value": 40480.35293982185,
+      "unit": 0.015770000000000003
     }
   },
   "last_daily_cut": 1790262000
