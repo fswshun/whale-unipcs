@@ -1,48 +1,8 @@
 {
-  "run_count": 855,
+  "run_count": 856,
   "last_daily": "2026-09-24",
   "cross_alerted": [],
   "buy_accum": {
-    "bsc:0xd565b8d6c9588fe75f5fee5aeb3f7daa42b27777:0x6c521307529abf7ec0de79f01c6f5a011e22e1d6": {
-      "wallet": "0x6c521307529abf7ec0de79f01c6f5a011e22e1d6",
-      "chain": "bsc",
-      "contract": "0xd565b8d6c9588fe75f5fee5aeb3f7daa42b27777",
-      "sym": "MOGGED",
-      "amount": 2456868.9506202345,
-      "usd": 5765.387238128496,
-      "counter_usd": 4441.779586443588,
-      "n": 23,
-      "other": {
-        "BNB": 5.722163776620631
-      },
-      "first": 1790232379,
-      "last": 1790237336,
-      "runs": 3,
-      "funding": 0.0,
-      "note": "",
-      "value": 4441.779586443588,
-      "unit": 0.001807902527858584
-    },
-    "bsc:0xd565b8d6c9588fe75f5fee5aeb3f7daa42b27777:0x8baef48ddd5abf9640498a520598e95621d13a5c": {
-      "wallet": "0x8baef48ddd5abf9640498a520598e95621d13a5c",
-      "chain": "bsc",
-      "contract": "0xd565b8d6c9588fe75f5fee5aeb3f7daa42b27777",
-      "sym": "MOGGED",
-      "amount": 3052869.2026023325,
-      "usd": 5365.696595493615,
-      "counter_usd": 4977.697660325666,
-      "n": 21,
-      "other": {
-        "BNB": 6.414536998675528
-      },
-      "first": 1790232331,
-      "last": 1790237289,
-      "runs": 2,
-      "funding": 0.0,
-      "note": "",
-      "value": 4977.697660325666,
-      "unit": 0.0016304981740071168
-    },
     "bsc:0x23417eaf6a39fba9832de8c90a2c3ecd617d7777:0x72cdecdc528a42ffd841b506e540394daade3492": {
       "wallet": "0x72cdecdc528a42ffd841b506e540394daade3492",
       "chain": "bsc",
