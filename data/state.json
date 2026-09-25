@@ -1,48 +1,8 @@
 {
-  "run_count": 860,
+  "run_count": 861,
   "last_daily": "2026-09-24",
   "cross_alerted": [],
   "buy_accum": {
-    "bsc:0x23417eaf6a39fba9832de8c90a2c3ecd617d7777:0x72cdecdc528a42ffd841b506e540394daade3492": {
-      "wallet": "0x72cdecdc528a42ffd841b506e540394daade3492",
-      "chain": "bsc",
-      "contract": "0x23417eaf6a39fba9832de8c90a2c3ecd617d7777",
-      "sym": "EVOLVE",
-      "amount": 32784196.560667153,
-      "usd": 999.5901531347416,
-      "counter_usd": 882.5560000000002,
-      "n": 5,
-      "other": {
-        "BNB": 1.1500000000000001
-      },
-      "first": 1790239331,
-      "last": 1790239857,
-      "runs": 1,
-      "funding": 0.0,
-      "note": "",
-      "value": 882.5560000000002,
-      "unit": 2.692016558547745e-05
-    },
-    "bsc:0x23417eaf6a39fba9832de8c90a2c3ecd617d7777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
-      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
-      "chain": "bsc",
-      "contract": "0x23417eaf6a39fba9832de8c90a2c3ecd617d7777",
-      "sym": "EVOLVE",
-      "amount": 28635505.305593893,
-      "usd": 873.0965567675579,
-      "counter_usd": 729.0680000000001,
-      "n": 2,
-      "other": {
-        "BNB": 0.95
-      },
-      "first": 1790239331,
-      "last": 1790239903,
-      "runs": 1,
-      "funding": 0.0,
-      "note": "",
-      "value": 729.0680000000001,
-      "unit": 2.5460280592903594e-05
-    },
     "bsc:0x68803f4a7c133f6a1463ddbd2bed129c6fee4444:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
       "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
       "chain": "bsc",
