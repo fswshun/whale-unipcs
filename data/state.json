@@ -1,68 +1,8 @@
 {
-  "run_count": 869,
+  "run_count": 870,
   "last_daily": "2026-09-24",
   "cross_alerted": [],
   "buy_accum": {
-    "bsc:0x52e84062e0c84d93cd2968b3bfd2d1d21ebf7777:0x8baef48ddd5abf9640498a520598e95621d13a5c": {
-      "wallet": "0x8baef48ddd5abf9640498a520598e95621d13a5c",
-      "chain": "bsc",
-      "contract": "0x52e84062e0c84d93cd2968b3bfd2d1d21ebf7777",
-      "sym": "FLAPCAT",
-      "amount": 4101203.314260795,
-      "usd": 0.0,
-      "counter_usd": 347.4121311243748,
-      "n": 3,
-      "other": {
-        "BNB": 0.45353057585455
-      },
-      "first": 1790245463,
-      "last": 1790245603,
-      "runs": 1,
-      "funding": 0.0,
-      "note": "",
-      "value": 347.4121311243748,
-      "unit": 8.470980453866933e-05
-    },
-    "bsc:0x52e84062e0c84d93cd2968b3bfd2d1d21ebf7777:0x6c521307529abf7ec0de79f01c6f5a011e22e1d6": {
-      "wallet": "0x6c521307529abf7ec0de79f01c6f5a011e22e1d6",
-      "chain": "bsc",
-      "contract": "0x52e84062e0c84d93cd2968b3bfd2d1d21ebf7777",
-      "sym": "FLAPCAT",
-      "amount": 3361971.183931727,
-      "usd": 244.513530194246,
-      "counter_usd": 485.72486234958274,
-      "n": 3,
-      "other": {
-        "BNB": 0.63420338784855
-      },
-      "first": 1790245511,
-      "last": 1790245699,
-      "runs": 2,
-      "funding": 0.0,
-      "note": "",
-      "value": 485.72486234958274,
-      "unit": 0.00014447621225043984
-    },
-    "bsc:0x6a0a80e176da03a92f3a6a6d87a500890d827777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
-      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
-      "chain": "bsc",
-      "contract": "0x6a0a80e176da03a92f3a6a6d87a500890d827777",
-      "sym": "FLAPGUY",
-      "amount": 34653531.063733704,
-      "usd": 185.29243059778412,
-      "counter_usd": 459.366,
-      "n": 1,
-      "other": {
-        "BNB": 0.6
-      },
-      "first": 1790245681,
-      "last": 1790245681,
-      "runs": 1,
-      "funding": 0.0,
-      "note": "",
-      "value": 459.366,
-      "unit": 1.3255965146961452e-05
-    },
     "bsc:0x420a935d199a8a6a4f61fdfd74753d7cfd1a7777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
       "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
       "chain": "bsc",
