@@ -1,244 +1,148 @@
 {
-  "run_count": 900,
-  "last_daily": "2026-09-25",
+  "run_count": 901,
+  "last_daily": "2026-09-27",
   "cross_alerted": [],
   "buy_accum": {
-    "bsc:0x32f038231b951cfee92e65c0de1698a432767777:0x8baef48ddd5abf9640498a520598e95621d13a5c": {
-      "wallet": "0x8baef48ddd5abf9640498a520598e95621d13a5c",
-      "chain": "bsc",
-      "contract": "0x32f038231b951cfee92e65c0de1698a432767777",
-      "sym": "PeacePanda",
-      "amount": 4139738.7560172845,
-      "usd": 4549.120093806613,
-      "counter_usd": 4483.088456475449,
-      "n": 23,
-      "other": {
-        "BNB": 5.74161333556827
-      },
-      "first": 1790265532,
-      "last": 1790271771,
-      "runs": 10,
-      "funding": 0.0,
-      "note": "",
-      "value": 4483.088456475449,
-      "unit": 0.0010829399439660512
-    },
-    "bsc:0x32f038231b951cfee92e65c0de1698a432767777:0x994aa2c318527ea6c1bb5251e2f7c646cca9bbc0": {
-      "wallet": "0x994aa2c318527ea6c1bb5251e2f7c646cca9bbc0",
-      "chain": "bsc",
-      "contract": "0x32f038231b951cfee92e65c0de1698a432767777",
-      "sym": "PeacePanda",
-      "amount": 4361000.546860094,
-      "usd": 2475.7400104524754,
-      "counter_usd": 467.73599999999993,
-      "n": 1,
-      "other": {
-        "BNB": 0.6
-      },
-      "first": 1790265417,
-      "last": 1790265417,
-      "runs": 1,
-      "funding": 0.0,
-      "note": "",
-      "value": 467.73599999999993,
-      "unit": 0.00010725428602313942
-    },
-    "bsc:0x32f038231b951cfee92e65c0de1698a432767777:0x6c521307529abf7ec0de79f01c6f5a011e22e1d6": {
-      "wallet": "0x6c521307529abf7ec0de79f01c6f5a011e22e1d6",
-      "chain": "bsc",
-      "contract": "0x32f038231b951cfee92e65c0de1698a432767777",
-      "sym": "PeacePanda",
-      "amount": 3577918.787797688,
-      "usd": 4319.057281715323,
-      "counter_usd": 4086.2180038332017,
-      "n": 24,
-      "other": {
-        "BNB": 5.232318483039213
-      },
-      "first": 1790265581,
-      "last": 1790271867,
-      "runs": 10,
-      "funding": 0.0,
-      "note": "",
-      "value": 4086.2180038332017,
-      "unit": 0.0011420656102561753
-    },
-    "bsc:0x32f038231b951cfee92e65c0de1698a432767777:0x0121525f755c9e7bbc525bba6672716ab46ced57": {
-      "wallet": "0x0121525f755c9e7bbc525bba6672716ab46ced57",
-      "chain": "bsc",
-      "contract": "0x32f038231b951cfee92e65c0de1698a432767777",
-      "sym": "PeacePanda",
-      "amount": 222711.0,
-      "usd": 358.11928800000004,
-      "counter_usd": 0.0,
-      "n": 1,
-      "other": {},
-      "first": 1790270290,
-      "last": 1790270290,
-      "runs": 1,
-      "funding": 25759.944511,
-      "note": "09-24T10:28 7.778e+06 FLAPCAT\u300109-24T10:42 1.778e+07 FlapCat\u300109-24T15:59 1.181e+07 PeacePanda",
-      "value": 358.11928800000004,
-      "unit": 0.0016080000000000003
-    },
-    "solana:5r9K5fzpXkFGxfCF2eUzXkXeamRYXAKNq5bTBg4sX7DD:6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC": {
+    "solana:CbcyNo7m1amFWqEQm2m4PLv1UNvpcL3C1Ujm6AkzpKoU:6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC": {
       "wallet": "6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC",
       "chain": "solana",
-      "contract": "5r9K5fzpXkFGxfCF2eUzXkXeamRYXAKNq5bTBg4sX7DD",
-      "sym": "MINE",
-      "amount": 12272331.280521,
-      "usd": 1063.8883987083655,
-      "counter_usd": 1000.0,
-      "n": 1,
-      "other": {
-        "USDC": 1000.0
-      },
-      "first": 1790285404,
-      "last": 1790285404,
-      "runs": 1,
-      "funding": 0.0,
-      "note": "",
-      "value": 1000.0,
-      "unit": 8.148411065037243e-05
-    },
-    "bsc:0xfb8270992c4853becad9ac7bc3e0266e28317777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
-      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
-      "chain": "bsc",
-      "contract": "0xfb8270992c4853becad9ac7bc3e0266e28317777",
-      "sym": "LABUBU",
-      "amount": 6618354.28263985,
-      "usd": 0.0,
-      "counter_usd": 309.31600000000003,
-      "n": 1,
-      "other": {
-        "BNB": 0.4
-      },
-      "first": 1790302322,
-      "last": 1790302322,
-      "runs": 1,
-      "funding": 0.0,
-      "note": "",
-      "value": 309.31600000000003,
-      "unit": 4.673608978765999e-05
-    },
-    "bsc:0xfb8270992c4853becad9ac7bc3e0266e28317777:0x72cdecdc528a42ffd841b506e540394daade3492": {
-      "wallet": "0x72cdecdc528a42ffd841b506e540394daade3492",
-      "chain": "bsc",
-      "contract": "0xfb8270992c4853becad9ac7bc3e0266e28317777",
-      "sym": "LABUBU",
-      "amount": 12959395.62040769,
-      "usd": 0.0,
-      "counter_usd": 309.31600000000003,
-      "n": 1,
-      "other": {
-        "BNB": 0.4
-      },
-      "first": 1790302394,
-      "last": 1790302394,
-      "runs": 1,
-      "funding": 0.0,
-      "note": "",
-      "value": 309.31600000000003,
-      "unit": 2.3868088378512614e-05
-    },
-    "bsc:0x49f2776ea36692e4d3a0aaff5bafe50e51ed7777:0x72cdecdc528a42ffd841b506e540394daade3492": {
-      "wallet": "0x72cdecdc528a42ffd841b506e540394daade3492",
-      "chain": "bsc",
-      "contract": "0x49f2776ea36692e4d3a0aaff5bafe50e51ed7777",
-      "sym": "YAYA",
-      "amount": 38355846.45514193,
-      "usd": 0.0,
-      "counter_usd": 308.9473636813379,
-      "n": 1,
-      "other": {
-        "BNB": 0.39952328839289
-      },
-      "first": 1790302428,
-      "last": 1790302428,
-      "runs": 1,
-      "funding": 0.0,
-      "note": "",
-      "value": 308.9473636813379,
-      "unit": 8.054765889279987e-06
-    },
-    "bsc:0x49f2776ea36692e4d3a0aaff5bafe50e51ed7777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
-      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
-      "chain": "bsc",
-      "contract": "0x49f2776ea36692e4d3a0aaff5bafe50e51ed7777",
-      "sym": "YAYA",
-      "amount": 25590660.916772798,
-      "usd": 0.0,
-      "counter_usd": 231.98699999999997,
-      "n": 1,
-      "other": {
-        "BNB": 0.3
-      },
-      "first": 1790302437,
-      "last": 1790302437,
-      "runs": 1,
-      "funding": 0.0,
-      "note": "",
-      "value": 231.98699999999997,
-      "unit": 9.065299280643024e-06
-    },
-    "bsc:0xfc2f94c7420a6ce6161e4c8a189e9c47b4007777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
-      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
-      "chain": "bsc",
-      "contract": "0xfc2f94c7420a6ce6161e4c8a189e9c47b4007777",
-      "sym": "FLabubu",
-      "amount": 40338240.456154466,
-      "usd": 0.0,
-      "counter_usd": 231.98699999999997,
-      "n": 1,
-      "other": {
-        "BNB": 0.3
-      },
-      "first": 1790303141,
-      "last": 1790303141,
-      "runs": 1,
-      "funding": 0.0,
-      "note": "",
-      "value": 231.98699999999997,
-      "unit": 5.7510441054601175e-06
-    },
-    "solana:AVXPQqxd32ABAP5F7shHKNeWBpos9miktdH3uKqgXYJZ:6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC": {
-      "wallet": "6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC",
-      "chain": "solana",
-      "contract": "AVXPQqxd32ABAP5F7shHKNeWBpos9miktdH3uKqgXYJZ",
-      "sym": "suit",
-      "amount": 101797.107676,
-      "usd": 70.5657550410032,
-      "counter_usd": 100.0,
-      "n": 1,
-      "other": {
-        "USDC": 100.0
-      },
-      "first": 1790300449,
-      "last": 1790300449,
-      "runs": 1,
-      "funding": 0.0,
-      "note": "",
-      "value": 100.0,
-      "unit": 0.000982346181369712
-    },
-    "bsc:0xfa6d9b504848606eb9aec04ccc161d169b3f2159:0x3dc4136de07c56b73fca04d17e598ab35f054201": {
-      "wallet": "0x3dc4136de07c56b73fca04d17e598ab35f054201",
-      "chain": "bsc",
-      "contract": "0xfa6d9b504848606eb9aec04ccc161d169b3f2159",
-      "sym": "BREW",
-      "amount": 2566921.556107917,
-      "usd": 40480.35293982185,
-      "counter_usd": 0.0,
+      "contract": "CbcyNo7m1amFWqEQm2m4PLv1UNvpcL3C1Ujm6AkzpKoU",
+      "sym": "e/acc",
+      "amount": 219543.37658,
+      "usd": 1029.87797953678,
+      "counter_usd": 4257.999999,
       "n": 8,
-      "other": {},
-      "first": 1790336529,
-      "last": 1790337001,
+      "other": {
+        "USDC": 4257.999999
+      },
+      "first": 1790454249,
+      "last": 1790469611,
       "runs": 1,
-      "funding": 51000.0,
-      "note": "09-23T15:49 5e+05 4Stock",
-      "value": 40480.35293982185,
-      "unit": 0.015770000000000003
+      "funding": 0.0,
+      "note": "",
+      "value": 4257.999999,
+      "unit": 0.019394800541606937
+    },
+    "solana:HEjBSeegsXTaRziTBiXNADUQ2Ed1pYoiaGreWWNMT9Lg:6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC": {
+      "wallet": "6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC",
+      "chain": "solana",
+      "contract": "HEjBSeegsXTaRziTBiXNADUQ2Ed1pYoiaGreWWNMT9Lg",
+      "sym": "INUTILE",
+      "amount": 3350465.749645,
+      "usd": 851.01830040983,
+      "counter_usd": 750.0,
+      "n": 1,
+      "other": {
+        "USDC": 750.0
+      },
+      "first": 1790466926,
+      "last": 1790466926,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 750.0,
+      "unit": 0.000223849475279509
+    },
+    "solana:jLz71QZfjnZZMLjUaCBw7KmUyftkkNq8NkWi2u9dyap:8MDBqGR2bvQ2rW23zsBdJE7ezgarQFjpUuzeWnZ2dMFD": {
+      "wallet": "8MDBqGR2bvQ2rW23zsBdJE7ezgarQFjpUuzeWnZ2dMFD",
+      "chain": "solana",
+      "contract": "jLz71QZfjnZZMLjUaCBw7KmUyftkkNq8NkWi2u9dyap",
+      "sym": "YAP",
+      "amount": 121998.86174,
+      "usd": 263.63954022014,
+      "counter_usd": 457.988013,
+      "n": 1,
+      "other": {
+        "USDC": 457.988013
+      },
+      "first": 1790446017,
+      "last": 1790446017,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 457.988013,
+      "unit": 0.003754035131705156
+    },
+    "bsc:0xcd9650215feb51834be23ce67db3400975d37777:0x72cdecdc528a42ffd841b506e540394daade3492": {
+      "wallet": "0x72cdecdc528a42ffd841b506e540394daade3492",
+      "chain": "bsc",
+      "contract": "0xcd9650215feb51834be23ce67db3400975d37777",
+      "sym": "meme",
+      "amount": 38411885.658460036,
+      "usd": 166.4771124437658,
+      "counter_usd": 278.29854471671575,
+      "n": 1,
+      "other": {
+        "BNB": 0.35765504641535467
+      },
+      "first": 1790439317,
+      "last": 1790439317,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 278.29854471671575,
+      "unit": 7.245115410141856e-06
+    },
+    "solana:H7kfBWQqs5asqvzynqRaS6h9jLFc9g1tDQYPnbDSpump:6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC": {
+      "wallet": "6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC",
+      "chain": "solana",
+      "contract": "H7kfBWQqs5asqvzynqRaS6h9jLFc9g1tDQYPnbDSpump",
+      "sym": "DKILL",
+      "amount": 29270952.712464,
+      "usd": 0.0,
+      "counter_usd": 270.0,
+      "n": 1,
+      "other": {
+        "USDC": 270.0
+      },
+      "first": 1790476042,
+      "last": 1790476042,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 270.0,
+      "unit": 9.224161668131493e-06
+    },
+    "bsc:0x6b1c0ce746f18f8aae14f7b681120ae307d97777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
+      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
+      "chain": "bsc",
+      "contract": "0x6b1c0ce746f18f8aae14f7b681120ae307d97777",
+      "sym": "0",
+      "amount": 18407502.558659475,
+      "usd": 0.0,
+      "counter_usd": 233.43599999999998,
+      "n": 1,
+      "other": {
+        "BNB": 0.3
+      },
+      "first": 1790420685,
+      "last": 1790420685,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 233.43599999999998,
+      "unit": 1.2681568249473597e-05
+    },
+    "bsc:0x6b1c0ce746f18f8aae14f7b681120ae307d97777:0x72cdecdc528a42ffd841b506e540394daade3492": {
+      "wallet": "0x72cdecdc528a42ffd841b506e540394daade3492",
+      "chain": "bsc",
+      "contract": "0x6b1c0ce746f18f8aae14f7b681120ae307d97777",
+      "sym": "0",
+      "amount": 29636859.25296212,
+      "usd": 0.0,
+      "counter_usd": 233.43599999999998,
+      "n": 1,
+      "other": {
+        "BNB": 0.3
+      },
+      "first": 1790420873,
+      "last": 1790420873,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 233.43599999999998,
+      "unit": 7.876543125151452e-06
     }
   },
-  "last_daily_cut": 1790348400
+  "last_daily_cut": 1790434800
 }
