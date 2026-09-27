@@ -1,5 +1,5 @@
 {
-  "run_count": 907,
+  "run_count": 908,
   "last_daily": "2026-09-27",
   "cross_alerted": [],
   "buy_accum": {
@@ -148,18 +148,18 @@
       "chain": "bsc",
       "contract": "0xcd26bae62cd9fc7042b4b1128bdb4acc9cc47777",
       "sym": "SI",
-      "amount": 333333.0,
-      "usd": 1257.998742,
+      "amount": 674444.0,
+      "usd": 2483.269454,
       "counter_usd": 0.0,
-      "n": 1,
+      "n": 2,
       "other": {},
       "first": 1790504755,
-      "last": 1790504755,
-      "runs": 1,
-      "funding": 753416.9987233687,
+      "last": 1790506023,
+      "runs": 2,
+      "funding": 1506833.9974467375,
       "note": "09-22T16:18 5.243e+06 \u5bcc\u8d35\u300109-24T06:50 7.738e+06 MOGGED\u300109-24T06:51 7.678e+06 MOGGED",
-      "value": 1257.998742,
-      "unit": 0.003774
+      "value": 2483.269454,
+      "unit": 0.0036819505459311673
     }
   },
   "last_daily_cut": 1790434800
