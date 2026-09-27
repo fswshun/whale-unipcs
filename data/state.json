@@ -1,5 +1,5 @@
 {
-  "run_count": 978,
+  "run_count": 979,
   "last_daily": "2026-09-27",
   "cross_alerted": [],
   "buy_accum": {
@@ -100,6 +100,26 @@
       "note": "",
       "value": 1000.4324170000001,
       "unit": 0.0021202268586875067
+    },
+    "solana:AjxqTiS6TnK75xG6pWAMJgNQuhkip3LzN36uy2wBbwmH:6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC": {
+      "wallet": "6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC",
+      "chain": "solana",
+      "contract": "AjxqTiS6TnK75xG6pWAMJgNQuhkip3LzN36uy2wBbwmH",
+      "sym": "CLAUDECHAN",
+      "amount": 2457410.687783,
+      "usd": 951.017936172021,
+      "counter_usd": 860.8011257964944,
+      "n": 1,
+      "other": {
+        "USDC": 860.8011257964944
+      },
+      "first": 1790550795,
+      "last": 1790550795,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 860.8011257964944,
+      "unit": 0.0003502878578969161
     }
   },
   "last_daily_cut": 1790521200
