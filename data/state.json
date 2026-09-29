@@ -1,69 +1,8 @@
 {
-  "run_count": 1100,
+  "run_count": 1101,
   "last_daily": "2026-09-28",
   "cross_alerted": [],
   "buy_accum": {
-    "solana:CbcyNo7m1amFWqEQm2m4PLv1UNvpcL3C1Ujm6AkzpKoU:6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC": {
-      "wallet": "6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC",
-      "chain": "solana",
-      "contract": "CbcyNo7m1amFWqEQm2m4PLv1UNvpcL3C1Ujm6AkzpKoU",
-      "sym": "e/acc",
-      "amount": 75888.604493,
-      "usd": 687.9301997290451,
-      "counter_usd": 429.45705999999996,
-      "n": 1,
-      "other": {
-        "USDC": 429.45705999999996
-      },
-      "first": 1790555867,
-      "last": 1790555867,
-      "runs": 1,
-      "funding": 0.0,
-      "note": "",
-      "value": 429.45705999999996,
-      "unit": 0.005659045424133649
-    },
-    "solana:AjxqTiS6TnK75xG6pWAMJgNQuhkip3LzN36uy2wBbwmH:6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC": {
-      "wallet": "6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC",
-      "chain": "solana",
-      "contract": "AjxqTiS6TnK75xG6pWAMJgNQuhkip3LzN36uy2wBbwmH",
-      "sym": "CLAUDECHAN",
-      "amount": 4374479.399375,
-      "usd": 1251.4226032784873,
-      "counter_usd": 1720.3060491349581,
-      "n": 2,
-      "other": {
-        "USDC": 1720.3060491349581
-      },
-      "first": 1790550795,
-      "last": 1790553753,
-      "runs": 2,
-      "funding": 0.0,
-      "note": "",
-      "value": 1720.3060491349581,
-      "unit": 0.0003932596069330548
-    },
-    "solana:Pren1FvFX6J3E4kXhJuCiAD5aDmGEb7qJRncwA8Lkhw:6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC": {
-      "wallet": "6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC",
-      "chain": "solana",
-      "contract": "Pren1FvFX6J3E4kXhJuCiAD5aDmGEb7qJRncwA8Lkhw",
-      "sym": "ANTHROPIC",
-      "amount": 0.025542758999999943,
-      "usd": 26.289118417979942,
-      "counter_usd": 337.8956970967687,
-      "n": 2,
-      "other": {
-        "USDC": 40.49507666153618,
-        "CLAUDECHAN": 1897898.024475
-      },
-      "first": 1790553753,
-      "last": 1790555433,
-      "runs": 1,
-      "funding": 0.0,
-      "note": "",
-      "value": 337.8956970967687,
-      "unit": 13228.629573522949
-    },
     "solana:DEW9dSN6QpWyNthphCpMmAbZP1Q4cEKR9xQXAri98WDP:2heJbC32Tpfcb3nbUb5ER61K11FGZVfVGtVnDm6LDogF": {
       "wallet": "2heJbC32Tpfcb3nbUb5ER61K11FGZVfVGtVnDm6LDogF",
       "chain": "solana",
@@ -143,6 +82,26 @@
       "note": "",
       "value": 445.531617,
       "unit": 0.0015486476539877461
+    },
+    "solana:Dz9mQ9NzkBcCsuGPFJ3r1bS4wgqKMHBPiVuniW8Mbonk:6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC": {
+      "wallet": "6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC",
+      "chain": "solana",
+      "contract": "Dz9mQ9NzkBcCsuGPFJ3r1bS4wgqKMHBPiVuniW8Mbonk",
+      "sym": "USELESS",
+      "amount": 7391.911994,
+      "usd": 1708.2708618134,
+      "counter_usd": 1750.0,
+      "n": 1,
+      "other": {
+        "USDC": 1750.0
+      },
+      "first": 1790642897,
+      "last": 1790642897,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 1750.0,
+      "unit": 0.23674524283033557
     }
   },
   "last_daily_cut": 1790607600
