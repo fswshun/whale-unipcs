@@ -1,5 +1,5 @@
 {
-  "run_count": 1104,
+  "run_count": 1105,
   "last_daily": "2026-09-28",
   "cross_alerted": [],
   "buy_accum": {
@@ -68,20 +68,20 @@
       "chain": "solana",
       "contract": "C1mBfBoDkwWfd6uTFZp62ARHLjeVp3bDpCDMfMZtPngE",
       "sym": "HOOKED",
-      "amount": 287690.757709,
+      "amount": 409966.601351,
       "usd": 0.0,
-      "counter_usd": 445.531617,
-      "n": 2,
+      "counter_usd": 638.8898079999999,
+      "n": 3,
       "other": {
-        "USDC": 445.531617
+        "USDC": 638.8898079999999
       },
       "first": 1790627215,
-      "last": 1790627591,
-      "runs": 2,
+      "last": 1790657261,
+      "runs": 3,
       "funding": 0.0,
       "note": "",
-      "value": 445.531617,
-      "unit": 0.0015486476539877461
+      "value": 638.8898079999999,
+      "unit": 0.0015583947714145703
     },
     "solana:Dz9mQ9NzkBcCsuGPFJ3r1bS4wgqKMHBPiVuniW8Mbonk:6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC": {
       "wallet": "6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC",
