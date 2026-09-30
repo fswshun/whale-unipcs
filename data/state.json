@@ -1,28 +1,8 @@
 {
-  "run_count": 1223,
+  "run_count": 1224,
   "last_daily": "2026-09-29",
   "cross_alerted": [],
   "buy_accum": {
-    "solana:BhNmfTQuSdkdgVPhZ5fCJnxa1xYTPqkdjMn7LhLYhype:8MDBqGR2bvQ2rW23zsBdJE7ezgarQFjpUuzeWnZ2dMFD": {
-      "wallet": "8MDBqGR2bvQ2rW23zsBdJE7ezgarQFjpUuzeWnZ2dMFD",
-      "chain": "solana",
-      "contract": "BhNmfTQuSdkdgVPhZ5fCJnxa1xYTPqkdjMn7LhLYhype",
-      "sym": "XLiquid",
-      "amount": 4841578.433117,
-      "usd": 49.28726844913106,
-      "counter_usd": 53.34748499999999,
-      "n": 2,
-      "other": {
-        "USDC": 53.34748499999999
-      },
-      "first": 1790658059,
-      "last": 1790658093,
-      "runs": 1,
-      "funding": 0.0,
-      "note": "",
-      "value": 53.34748499999999,
-      "unit": 1.1018614226116124e-05
-    },
     "solana:Dz9mQ9NzkBcCsuGPFJ3r1bS4wgqKMHBPiVuniW8Mbonk:AmVpfjnz7QbV7wjmHzKAoWdQvFxQ5c91UtUZuxzbhE4G": {
       "wallet": "AmVpfjnz7QbV7wjmHzKAoWdQvFxQ5c91UtUZuxzbhE4G",
       "chain": "solana",
