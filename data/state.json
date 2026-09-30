@@ -1,5 +1,5 @@
 {
-  "run_count": 1329,
+  "run_count": 1330,
   "last_daily": "2026-09-30",
   "cross_alerted": [],
   "buy_accum": {
@@ -22,24 +22,6 @@
       "note": "",
       "value": 4462.022241,
       "unit": 0.04642838270432015
-    },
-    "robinhood:0xe02c53d448a62067b2ac10ed70f5bc6c29471386:0x0a6ebed0155edb4b21d92ad02897a626cd90119e": {
-      "wallet": "0x0a6ebed0155edb4b21d92ad02897a626cd90119e",
-      "chain": "robinhood",
-      "contract": "0xe02c53d448a62067b2ac10ed70f5bc6c29471386",
-      "sym": "NOSH",
-      "amount": 12891166.165840765,
-      "usd": 48316.09078957119,
-      "counter_usd": 0.0,
-      "n": 3,
-      "other": {},
-      "first": 1790714855,
-      "last": 1790721871,
-      "runs": 1,
-      "funding": 639897.2336678463,
-      "note": "09-23T05:30 1e+06 SAYLORMOON\u300109-23T05:33 1e+06 SAYLORMOON\u300109-23T05:56 1e+06 SAYLORMOON",
-      "value": 48316.09078957119,
-      "unit": 0.0037480000000000005
     },
     "robinhood:0x9587c2e24dfbe29fc4d7c601949166d9004c5eba:0x0a6ebed0155edb4b21d92ad02897a626cd90119e": {
       "wallet": "0x0a6ebed0155edb4b21d92ad02897a626cd90119e",
