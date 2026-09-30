@@ -1,5 +1,5 @@
 {
-  "run_count": 1335,
+  "run_count": 1336,
   "last_daily": "2026-09-30",
   "cross_alerted": [],
   "buy_accum": {
@@ -94,24 +94,6 @@
       "note": "09-23T05:30 1e+06 SAYLORMOON\u300109-23T05:33 1e+06 SAYLORMOON\u300109-23T05:56 1e+06 SAYLORMOON",
       "value": 414.3241737616068,
       "unit": 1.4210000000000001e-05
-    },
-    "robinhood:0xbdb7bdc4cb8c8d1c63d0d7507d179d433f369cad:0x0a6ebed0155edb4b21d92ad02897a626cd90119e": {
-      "wallet": "0x0a6ebed0155edb4b21d92ad02897a626cd90119e",
-      "chain": "robinhood",
-      "contract": "0xbdb7bdc4cb8c8d1c63d0d7507d179d433f369cad",
-      "sym": "Vrad",
-      "amount": 17153473.8972918,
-      "usd": 338.2665052545943,
-      "counter_usd": 0.0,
-      "n": 1,
-      "other": {},
-      "first": 1790725740,
-      "last": 1790725740,
-      "runs": 1,
-      "funding": 253840.29794859726,
-      "note": "09-23T05:30 1e+06 SAYLORMOON\u300109-23T05:33 1e+06 SAYLORMOON\u300109-23T05:56 1e+06 SAYLORMOON",
-      "value": 338.2665052545943,
-      "unit": 1.972e-05
     },
     "solana:CbcyNo7m1amFWqEQm2m4PLv1UNvpcL3C1Ujm6AkzpKoU:6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC": {
       "wallet": "6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC",
