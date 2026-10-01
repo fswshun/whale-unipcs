@@ -1,5 +1,5 @@
 {
-  "run_count": 1342,
+  "run_count": 1343,
   "last_daily": "2026-10-01",
   "cross_alerted": [],
   "buy_accum": {
@@ -500,6 +500,66 @@
       "note": "",
       "value": 229.98,
       "unit": 3.440206596964006e-06
+    },
+    "bsc:0x9eb58f798d63d187b41c3606188b3ba310327777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
+      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
+      "chain": "bsc",
+      "contract": "0x9eb58f798d63d187b41c3606188b3ba310327777",
+      "sym": "Bitkin",
+      "amount": 106248371.36373946,
+      "usd": 494.16117521275214,
+      "counter_usd": 1149.27,
+      "n": 3,
+      "other": {
+        "BNB": 1.5
+      },
+      "first": 1790870545,
+      "last": 1790870592,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 1149.27,
+      "unit": 1.0816824627508821e-05
+    },
+    "bsc:0xc257ccda7706797e7d8186dbd61a4ced79647777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
+      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
+      "chain": "bsc",
+      "contract": "0xc257ccda7706797e7d8186dbd61a4ced79647777",
+      "sym": "LUCKY",
+      "amount": 27556796.48015695,
+      "usd": 0.0,
+      "counter_usd": 459.70799999999997,
+      "n": 1,
+      "other": {
+        "BNB": 0.6
+      },
+      "first": 1790870098,
+      "last": 1790870098,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 459.70799999999997,
+      "unit": 1.6682200354131354e-05
+    },
+    "bsc:0x0263d747c266f5217842a08b000da30cb72c7777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
+      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
+      "chain": "bsc",
+      "contract": "0x0263d747c266f5217842a08b000da30cb72c7777",
+      "sym": "BPP",
+      "amount": 94277354.67367545,
+      "usd": 400.7730347177943,
+      "counter_usd": 459.70799999999997,
+      "n": 1,
+      "other": {
+        "BNB": 0.6
+      },
+      "first": 1790870600,
+      "last": 1790870600,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 459.70799999999997,
+      "unit": 4.876123238620756e-06
     }
   },
   "last_daily_cut": 1790866800
