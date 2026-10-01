@@ -1,5 +1,5 @@
 {
-  "run_count": 1338,
+  "run_count": 1339,
   "last_daily": "2026-09-30",
   "cross_alerted": [],
   "buy_accum": {
@@ -8,56 +8,20 @@
       "chain": "solana",
       "contract": "DEW9dSN6QpWyNthphCpMmAbZP1Q4cEKR9xQXAri98WDP",
       "sym": "SI",
-      "amount": 96105.485074,
-      "usd": 4548.853189527091,
-      "counter_usd": 4462.022241,
-      "n": 6,
+      "amount": 107211.191659,
+      "usd": 4983.863716461541,
+      "counter_usd": 4908.022241,
+      "n": 7,
       "other": {
-        "USDC": 4462.022241
+        "USDC": 4908.022241
       },
       "first": 1790713778,
-      "last": 1790789742,
-      "runs": 6,
+      "last": 1790813041,
+      "runs": 7,
       "funding": 0.0,
       "note": "",
-      "value": 4462.022241,
-      "unit": 0.04642838270432015
-    },
-    "robinhood:0x9587c2e24dfbe29fc4d7c601949166d9004c5eba:0x0a6ebed0155edb4b21d92ad02897a626cd90119e": {
-      "wallet": "0x0a6ebed0155edb4b21d92ad02897a626cd90119e",
-      "chain": "robinhood",
-      "contract": "0x9587c2e24dfbe29fc4d7c601949166d9004c5eba",
-      "sym": "SIDOGE",
-      "amount": 142060715.67672312,
-      "usd": 41893.70505306565,
-      "counter_usd": 0.0,
-      "n": 1,
-      "other": {},
-      "first": 1790729002,
-      "last": 1790729002,
-      "runs": 1,
-      "funding": 253840.29794859726,
-      "note": "09-23T05:30 1e+06 SAYLORMOON\u300109-23T05:33 1e+06 SAYLORMOON\u300109-23T05:56 1e+06 SAYLORMOON",
-      "value": 41893.70505306565,
-      "unit": 0.0002949
-    },
-    "robinhood:0x9587c2e24dfbe29fc4d7c601949166d9004c5eba:0x0121525f755c9e7bbc525bba6672716ab46ced57": {
-      "wallet": "0x0121525f755c9e7bbc525bba6672716ab46ced57",
-      "chain": "robinhood",
-      "contract": "0x9587c2e24dfbe29fc4d7c601949166d9004c5eba",
-      "sym": "SIDOGE",
-      "amount": 52972649.00653354,
-      "usd": 15621.634192026742,
-      "counter_usd": 0.0,
-      "n": 1,
-      "other": {},
-      "first": 1790729134,
-      "last": 1790729134,
-      "runs": 1,
-      "funding": 253840.29794859726,
-      "note": "09-23T05:30 1e+06 SAYLORMOON\u300109-23T05:33 1e+06 SAYLORMOON\u300109-23T05:56 1e+06 SAYLORMOON",
-      "value": 15621.634192026742,
-      "unit": 0.0002949
+      "value": 4908.022241,
+      "unit": 0.045779010241865814
     },
     "solana:CbcyNo7m1amFWqEQm2m4PLv1UNvpcL3C1Ujm6AkzpKoU:6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC": {
       "wallet": "6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC",
@@ -84,20 +48,20 @@
       "chain": "solana",
       "contract": "DEW9dSN6QpWyNthphCpMmAbZP1Q4cEKR9xQXAri98WDP",
       "sym": "SI",
-      "amount": 253987.06346599996,
-      "usd": 12941.883548756601,
-      "counter_usd": 12590.136704999999,
-      "n": 3,
+      "amount": 567158.501847,
+      "usd": 25208.80879014037,
+      "counter_usd": 26190.178504,
+      "n": 5,
       "other": {
-        "USDC": 12590.136704999999
+        "USDC": 26190.178504
       },
       "first": 1790792823,
-      "last": 1790803444,
-      "runs": 3,
+      "last": 1790857357,
+      "runs": 4,
       "funding": 0.0,
       "note": "",
-      "value": 12590.136704999999,
-      "unit": 0.04956999200349187
+      "value": 26190.178504,
+      "unit": 0.04617788222994005
     },
     "solana:Cy5TzDyJ4mo6MBAbpwUcAgdfNiXYKrYUPrvhPGVU6XMR:8MDBqGR2bvQ2rW23zsBdJE7ezgarQFjpUuzeWnZ2dMFD": {
       "wallet": "8MDBqGR2bvQ2rW23zsBdJE7ezgarQFjpUuzeWnZ2dMFD",
@@ -157,119 +121,483 @@
       "value": 1898.1182964649029,
       "unit": 0.0006336
     },
-    "robinhood:0x6b515c6d2278a514da041c8aec72d47e32339b57:0x0a6ebed0155edb4b21d92ad02897a626cd90119e": {
+    "robinhood:0x7244ce80931b9bd15dd4b9df1fb9b63430b40c8e:0x0a6ebed0155edb4b21d92ad02897a626cd90119e": {
       "wallet": "0x0a6ebed0155edb4b21d92ad02897a626cd90119e",
       "chain": "robinhood",
-      "contract": "0x6b515c6d2278a514da041c8aec72d47e32339b57",
-      "sym": "GH",
-      "amount": 35240039.48628919,
-      "usd": 411.6036611998577,
+      "contract": "0x7244ce80931b9bd15dd4b9df1fb9b63430b40c8e",
+      "sym": "MICRO",
+      "amount": 137797570.9188056,
+      "usd": 42248.7352437058,
       "counter_usd": 0.0,
       "n": 1,
       "other": {},
-      "first": 1790769692,
-      "last": 1790769692,
+      "first": 1790814814,
+      "last": 1790814814,
       "runs": 1,
-      "funding": 325541.1442593818,
-      "note": "09-23T15:19 1e+06 SAYLORMOON\u300109-23T19:32 7.824e+05 DELTA\u300109-23T19:32 7.94e+05 DELTA",
-      "value": 411.6036611998577,
-      "unit": 1.168e-05
+      "funding": 295936.38672210585,
+      "note": "09-24T09:39 6.147e+05 AMC\u300109-24T09:42 4.114 SPCXB\u300109-24T20:40 8.523e+05 DELTA",
+      "value": 42248.7352437058,
+      "unit": 0.0003066
     },
-    "robinhood:0xa41ad87c9a7d280b0c6c18296235227b2287f3cb:0x0a6ebed0155edb4b21d92ad02897a626cd90119e": {
-      "wallet": "0x0a6ebed0155edb4b21d92ad02897a626cd90119e",
-      "chain": "robinhood",
-      "contract": "0xa41ad87c9a7d280b0c6c18296235227b2287f3cb",
-      "sym": "SE",
-      "amount": 27040606.827959683,
-      "usd": 322.8648455258386,
-      "counter_usd": 0.0,
-      "n": 1,
-      "other": {},
-      "first": 1790769389,
-      "last": 1790769389,
+    "solana:DkQYd9q2p7VSruiKhj54wu4F9CbyqruCRKFewg3dpump:6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC": {
+      "wallet": "6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC",
+      "chain": "solana",
+      "contract": "DkQYd9q2p7VSruiKhj54wu4F9CbyqruCRKFewg3dpump",
+      "sym": "AGI",
+      "amount": 2900865.0571210003,
+      "usd": 782.6533924112458,
+      "counter_usd": 1591.117056,
+      "n": 2,
+      "other": {
+        "USDC": 1591.117056
+      },
+      "first": 1790818472,
+      "last": 1790819190,
       "runs": 1,
-      "funding": 325541.1442593818,
-      "note": "09-23T15:19 1e+06 SAYLORMOON\u300109-23T19:32 7.824e+05 DELTA\u300109-23T19:32 7.94e+05 DELTA",
-      "value": 322.8648455258386,
-      "unit": 1.194e-05
+      "funding": 0.0,
+      "note": "",
+      "value": 1591.117056,
+      "unit": 0.0005484974394428136
     },
-    "bsc:0xffe95b1ae76c30f21ff97cc48b92295caf587777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
+    "bsc:0x1968992a099daead2e0d154173f952c7f8a57777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
       "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
       "chain": "bsc",
-      "contract": "0xffe95b1ae76c30f21ff97cc48b92295caf587777",
-      "sym": "PDD",
-      "amount": 19163823.580355547,
-      "usd": 70.04377518619953,
-      "counter_usd": 307.47600000000006,
+      "contract": "0x1968992a099daead2e0d154173f952c7f8a57777",
+      "sym": "Deftones",
+      "amount": 44228594.12340377,
+      "usd": 0.0,
+      "counter_usd": 1306.4499999999998,
+      "n": 5,
+      "other": {
+        "BNB": 1.7000000000000002
+      },
+      "first": 1790828412,
+      "last": 1790828666,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 1306.4499999999998,
+      "unit": 2.9538583034197904e-05
+    },
+    "bsc:0x88ddd1d6059b1b649264d22a6553c694e0937777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
+      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
+      "chain": "bsc",
+      "contract": "0x88ddd1d6059b1b649264d22a6553c694e0937777",
+      "sym": "hodler",
+      "amount": 93959884.12704459,
+      "usd": 0.0,
+      "counter_usd": 691.65,
+      "n": 2,
+      "other": {
+        "BNB": 0.8999999999999999
+      },
+      "first": 1790823754,
+      "last": 1790824047,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 691.65,
+      "unit": 7.361120188960743e-06
+    },
+    "bsc:0xeb67248319ad9614e2089808c828514f592a7777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
+      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
+      "chain": "bsc",
+      "contract": "0xeb67248319ad9614e2089808c828514f592a7777",
+      "sym": "SI",
+      "amount": 81730050.69344513,
+      "usd": 334.35763738688405,
+      "counter_usd": 461.09999999999997,
+      "n": 1,
+      "other": {
+        "BNB": 0.6
+      },
+      "first": 1790842005,
+      "last": 1790842005,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 461.09999999999997,
+      "unit": 5.641743717124365e-06
+    },
+    "bsc:0xb4463648e4d771286b30406621f3ff9960b47777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
+      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
+      "chain": "bsc",
+      "contract": "0xb4463648e4d771286b30406621f3ff9960b47777",
+      "sym": "SI",
+      "amount": 43131857.27858561,
+      "usd": 163.21094794216796,
+      "counter_usd": 461.09999999999997,
+      "n": 1,
+      "other": {
+        "BNB": 0.6
+      },
+      "first": 1790843091,
+      "last": 1790843091,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 461.09999999999997,
+      "unit": 1.069047402762621e-05
+    },
+    "bsc:0x90d42f789f620cc39fb175dd429f079d90347777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
+      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
+      "chain": "bsc",
+      "contract": "0x90d42f789f620cc39fb175dd429f079d90347777",
+      "sym": "PairLab",
+      "amount": 24951993.168311648,
+      "usd": 207.27620724916486,
+      "counter_usd": 461.09999999999997,
+      "n": 1,
+      "other": {
+        "BNB": 0.6
+      },
+      "first": 1790845778,
+      "last": 1790845778,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 461.09999999999997,
+      "unit": 1.8479485662315123e-05
+    },
+    "bsc:0x354009977bf22ecab02fc9103d5cb5272d1f7777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
+      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
+      "chain": "bsc",
+      "contract": "0x354009977bf22ecab02fc9103d5cb5272d1f7777",
+      "sym": "BHorse",
+      "amount": 78416639.44321714,
+      "usd": 323.23338778494104,
+      "counter_usd": 461.09999999999997,
+      "n": 1,
+      "other": {
+        "BNB": 0.6
+      },
+      "first": 1790848871,
+      "last": 1790848871,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 461.09999999999997,
+      "unit": 5.880129565280472e-06
+    },
+    "bsc:0x8aaa3fa4e64e76621e672d1c44c0c5537dad7777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
+      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
+      "chain": "bsc",
+      "contract": "0x8aaa3fa4e64e76621e672d1c44c0c5537dad7777",
+      "sym": "HONSE",
+      "amount": 32354438.28616222,
+      "usd": 0.0,
+      "counter_usd": 461.09999999999997,
+      "n": 1,
+      "other": {
+        "BNB": 0.6
+      },
+      "first": 1790848908,
+      "last": 1790848908,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 461.09999999999997,
+      "unit": 1.4251522338967924e-05
+    },
+    "bsc:0x09cd29737ccf14c28ad2b9e1e7ebb5b6e581ffff:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
+      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
+      "chain": "bsc",
+      "contract": "0x09cd29737ccf14c28ad2b9e1e7ebb5b6e581ffff",
+      "sym": "RB",
+      "amount": 5742462.239944068,
+      "usd": 657.5119264735957,
+      "counter_usd": 384.25,
+      "n": 1,
+      "other": {
+        "BNB": 0.5
+      },
+      "first": 1790831710,
+      "last": 1790831710,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 384.25,
+      "unit": 6.691380525364023e-05
+    },
+    "bsc:0x4a644a18757e4c9c02466303126b1df926077777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
+      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
+      "chain": "bsc",
+      "contract": "0x4a644a18757e4c9c02466303126b1df926077777",
+      "sym": "HAMMY",
+      "amount": 6002084.154765333,
+      "usd": 0.0,
+      "counter_usd": 384.25,
+      "n": 1,
+      "other": {
+        "BNB": 0.5
+      },
+      "first": 1790863370,
+      "last": 1790863370,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 384.25,
+      "unit": 6.401942893368566e-05
+    },
+    "bsc:0xacf4a049dda97f4a326e133270b36aedbea67777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
+      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
+      "chain": "bsc",
+      "contract": "0xacf4a049dda97f4a326e133270b36aedbea67777",
+      "sym": "World",
+      "amount": 40439717.974046044,
+      "usd": 166.85427636091399,
+      "counter_usd": 307.40000000000003,
       "n": 1,
       "other": {
         "BNB": 0.4
       },
-      "first": 1790773008,
-      "last": 1790773008,
+      "first": 1790827924,
+      "last": 1790827924,
       "runs": 1,
       "funding": 0.0,
       "note": "",
-      "value": 307.47600000000006,
-      "unit": 1.6044606062601598e-05
+      "value": 307.40000000000003,
+      "unit": 7.601437779494096e-06
     },
-    "bsc:0xe2881a7ac454c473a8b4c858732402154e107777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
+    "bsc:0x06459416959cbb261f599016d5a7f1629ef37777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
       "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
       "chain": "bsc",
-      "contract": "0xe2881a7ac454c473a8b4c858732402154e107777",
-      "sym": "RedCoin",
-      "amount": 8443394.979443058,
-      "usd": 54.79763341658545,
-      "counter_usd": 230.607,
+      "contract": "0x06459416959cbb261f599016d5a7f1629ef37777",
+      "sym": "KI",
+      "amount": 56034469.905435994,
+      "usd": 211.41805495321,
+      "counter_usd": 307.40000000000003,
+      "n": 1,
+      "other": {
+        "BNB": 0.4
+      },
+      "first": 1790844328,
+      "last": 1790844328,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 307.40000000000003,
+      "unit": 5.485908950665002e-06
+    },
+    "robinhood:0x866cdac5ab2282c3e23a3b1b1cb0d09850626eea:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
+      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
+      "chain": "robinhood",
+      "contract": "0x866cdac5ab2282c3e23a3b1b1cb0d09850626eea",
+      "sym": "ENGINES",
+      "amount": 17964309.77367683,
+      "usd": 74.26445660438002,
+      "counter_usd": 269.175,
+      "n": 1,
+      "other": {
+        "ETH": 0.1
+      },
+      "first": 1790818743,
+      "last": 1790818743,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 269.175,
+      "unit": 1.4983876552519881e-05
+    },
+    "robinhood:0x392a9334e8f0d252b01f3ff887cf017d5a2e1386:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
+      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
+      "chain": "robinhood",
+      "contract": "0x392a9334e8f0d252b01f3ff887cf017d5a2e1386",
+      "sym": "EOC",
+      "amount": 19912124.274511095,
+      "usd": 164.7728283715793,
+      "counter_usd": 269.175,
+      "n": 1,
+      "other": {
+        "ETH": 0.1
+      },
+      "first": 1790818755,
+      "last": 1790818755,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 269.175,
+      "unit": 1.351814584366384e-05
+    },
+    "robinhood:0x53f6968c6a9f9706e671f0698febc5f6e3567777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
+      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
+      "chain": "robinhood",
+      "contract": "0x53f6968c6a9f9706e671f0698febc5f6e3567777",
+      "sym": "NUVI",
+      "amount": 49125231.92334426,
+      "usd": 229.169206922401,
+      "counter_usd": 269.175,
+      "n": 1,
+      "other": {
+        "ETH": 0.1
+      },
+      "first": 1790826388,
+      "last": 1790826388,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 269.175,
+      "unit": 5.479363444431665e-06
+    },
+    "robinhood:0xe5a3533a5fe0718ab84cb4213f637c5d23961e18:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
+      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
+      "chain": "robinhood",
+      "contract": "0xe5a3533a5fe0718ab84cb4213f637c5d23961e18",
+      "sym": "NUVI",
+      "amount": 12731427.498727001,
+      "usd": 275.6354053474396,
+      "counter_usd": 269.175,
+      "n": 1,
+      "other": {
+        "ETH": 0.1
+      },
+      "first": 1790826414,
+      "last": 1790826414,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 269.175,
+      "unit": 2.11425623738512e-05
+    },
+    "bsc:0xde56c59c667dc36b3b4b30a611e3282f65297777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
+      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
+      "chain": "bsc",
+      "contract": "0xde56c59c667dc36b3b4b30a611e3282f65297777",
+      "sym": "WI",
+      "amount": 21821274.056006916,
+      "usd": 76.0689613592401,
+      "counter_usd": 230.54999999999998,
       "n": 1,
       "other": {
         "BNB": 0.3
       },
-      "first": 1790748977,
-      "last": 1790748977,
+      "first": 1790820291,
+      "last": 1790820291,
       "runs": 1,
       "funding": 0.0,
       "note": "",
-      "value": 230.607,
-      "unit": 2.7312118000099914e-05
+      "value": 230.54999999999998,
+      "unit": 1.0565377594739233e-05
     },
-    "bsc:0x0323bf7e09fc623450753d496e500f92d7fd7777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
+    "bsc:0xa46d46cf6935913c4051e91b45ba752e66d57777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
       "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
       "chain": "bsc",
-      "contract": "0x0323bf7e09fc623450753d496e500f92d7fd7777",
-      "sym": "Wen",
-      "amount": 5266119.232718553,
-      "usd": 0.0,
-      "counter_usd": 230.607,
+      "contract": "0xa46d46cf6935913c4051e91b45ba752e66d57777",
+      "sym": "HODL",
+      "amount": 47600379.01530588,
+      "usd": 197.30357101844285,
+      "counter_usd": 230.54999999999998,
       "n": 1,
       "other": {
         "BNB": 0.3
       },
-      "first": 1790773223,
-      "last": 1790773223,
+      "first": 1790823100,
+      "last": 1790823100,
       "runs": 1,
       "funding": 0.0,
       "note": "",
-      "value": 230.607,
-      "unit": 4.3790690983073825e-05
+      "value": 230.54999999999998,
+      "unit": 4.843448828965558e-06
     },
-    "bsc:0x1ecae0b1313a2ed39124d684a676ae56c56f7777:0x0a6ebed0155edb4b21d92ad02897a626cd90119e": {
-      "wallet": "0x0a6ebed0155edb4b21d92ad02897a626cd90119e",
+    "bsc:0xd74166ccd3c224a93f35398369be3327ca467777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
+      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
       "chain": "bsc",
-      "contract": "0x1ecae0b1313a2ed39124d684a676ae56c56f7777",
-      "sym": "Dust",
-      "amount": 1010156.4567593256,
-      "usd": 54.417128325624866,
-      "counter_usd": 0.0,
+      "contract": "0xd74166ccd3c224a93f35398369be3327ca467777",
+      "sym": "BALDNESS",
+      "amount": 54148853.1972917,
+      "usd": 182.80652839405678,
+      "counter_usd": 230.54999999999998,
       "n": 1,
-      "other": {},
-      "first": 1790729829,
-      "last": 1790729829,
+      "other": {
+        "BNB": 0.3
+      },
+      "first": 1790825179,
+      "last": 1790825179,
       "runs": 1,
-      "funding": 269299.7015455637,
-      "note": "09-23T05:30 1e+06 SAYLORMOON\u300109-23T05:33 1e+06 SAYLORMOON\u300109-23T05:56 1e+06 SAYLORMOON",
-      "value": 54.417128325624866,
-      "unit": 5.387e-05
+      "funding": 0.0,
+      "note": "",
+      "value": 230.54999999999998,
+      "unit": 4.2577078993711934e-06
+    },
+    "bsc:0x6ddac32a1cca9c978a1f1876794aa5556e497777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
+      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
+      "chain": "bsc",
+      "contract": "0x6ddac32a1cca9c978a1f1876794aa5556e497777",
+      "sym": "NUVI",
+      "amount": 52243978.21035934,
+      "usd": 205.1098584538708,
+      "counter_usd": 230.54999999999998,
+      "n": 1,
+      "other": {
+        "BNB": 0.3
+      },
+      "first": 1790826540,
+      "last": 1790826540,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 230.54999999999998,
+      "unit": 4.412948781804e-06
+    },
+    "bsc:0x2fee60728ed8d446fe938953f63e0032d5897777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
+      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
+      "chain": "bsc",
+      "contract": "0x2fee60728ed8d446fe938953f63e0032d5897777",
+      "sym": "SI",
+      "amount": 42235128.09465496,
+      "usd": 174.17766826235706,
+      "counter_usd": 230.54999999999998,
+      "n": 1,
+      "other": {
+        "BNB": 0.3
+      },
+      "first": 1790842034,
+      "last": 1790842034,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 230.54999999999998,
+      "unit": 5.458726193118308e-06
+    },
+    "bsc:0xf52b6063bc45bb39c6d327fd28927e97ff107777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
+      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
+      "chain": "bsc",
+      "contract": "0xf52b6063bc45bb39c6d327fd28927e97ff107777",
+      "sym": "Loki",
+      "amount": 55371789.88474459,
+      "usd": 211.96321167880228,
+      "counter_usd": 230.54999999999998,
+      "n": 1,
+      "other": {
+        "BNB": 0.3
+      },
+      "first": 1790844807,
+      "last": 1790844807,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 230.54999999999998,
+      "unit": 4.163672521330551e-06
+    },
+    "bsc:0x7116c595b5574a28ac17dc0be24affbbacde7777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
+      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
+      "chain": "bsc",
+      "contract": "0x7116c595b5574a28ac17dc0be24affbbacde7777",
+      "sym": "Zakura",
+      "amount": 66850636.296947435,
+      "usd": 208.10603079239738,
+      "counter_usd": 230.54999999999998,
+      "n": 1,
+      "other": {
+        "BNB": 0.3
+      },
+      "first": 1790846626,
+      "last": 1790846626,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 230.54999999999998,
+      "unit": 3.4487330677887273e-06
     }
   },
   "last_daily_cut": 1790780400
