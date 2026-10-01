@@ -1,5 +1,5 @@
 {
-  "run_count": 1344,
+  "run_count": 1345,
   "last_daily": "2026-10-01",
   "cross_alerted": [],
   "buy_accum": {
@@ -580,6 +580,46 @@
       "note": "",
       "value": 460.242,
       "unit": 6.7709953203485625e-06
+    },
+    "solana:C1mBfBoDkwWfd6uTFZp62ARHLjeVp3bDpCDMfMZtPngE:8MDBqGR2bvQ2rW23zsBdJE7ezgarQFjpUuzeWnZ2dMFD": {
+      "wallet": "8MDBqGR2bvQ2rW23zsBdJE7ezgarQFjpUuzeWnZ2dMFD",
+      "chain": "solana",
+      "contract": "C1mBfBoDkwWfd6uTFZp62ARHLjeVp3bDpCDMfMZtPngE",
+      "sym": "HOOKED",
+      "amount": 119631.510618,
+      "usd": 587.031822602526,
+      "counter_usd": 425.640963,
+      "n": 1,
+      "other": {
+        "USDC": 425.640963
+      },
+      "first": 1790872372,
+      "last": 1790872372,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 425.640963,
+      "unit": 0.003557933531067167
+    },
+    "bsc:0xb936cab857514bb917431cc8e2b7f1da5caa7777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
+      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
+      "chain": "bsc",
+      "contract": "0xb936cab857514bb917431cc8e2b7f1da5caa7777",
+      "sym": "Nailoong",
+      "amount": 37246.84438161285,
+      "usd": 75.20137880647634,
+      "counter_usd": 76.676,
+      "n": 1,
+      "other": {
+        "BNB": 0.1
+      },
+      "first": 1790872153,
+      "last": 1790872153,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 76.676,
+      "unit": 0.0020585905000277452
     }
   },
   "last_daily_cut": 1790866800
