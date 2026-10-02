@@ -1,5 +1,5 @@
 {
-  "run_count": 1393,
+  "run_count": 1394,
   "last_daily": "2026-10-01",
   "cross_alerted": [],
   "buy_accum": {
@@ -82,26 +82,6 @@
       "note": "",
       "value": 383.3,
       "unit": 6.386115057978325e-05
-    },
-    "bsc:0x7116c595b5574a28ac17dc0be24affbbacde7777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
-      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
-      "chain": "bsc",
-      "contract": "0x7116c595b5574a28ac17dc0be24affbbacde7777",
-      "sym": "Zakura",
-      "amount": 66850636.296947435,
-      "usd": 208.10603079239738,
-      "counter_usd": 229.98,
-      "n": 1,
-      "other": {
-        "BNB": 0.3
-      },
-      "first": 1790846626,
-      "last": 1790846626,
-      "runs": 1,
-      "funding": 0.0,
-      "note": "",
-      "value": 229.98,
-      "unit": 3.440206596964006e-06
     },
     "bsc:0x9eb58f798d63d187b41c3606188b3ba310327777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
       "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
