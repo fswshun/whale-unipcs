@@ -1,5 +1,5 @@
 {
-  "run_count": 1382,
+  "run_count": 1383,
   "last_daily": "2026-10-01",
   "cross_alerted": [],
   "buy_accum": {
@@ -788,20 +788,20 @@
       "chain": "bsc",
       "contract": "0x88726eb5090dd17783b574bfc21e1892269affff",
       "sym": "MEMEKART",
-      "amount": 24349767.53668758,
+      "amount": 49032611.568695284,
       "usd": 0.0,
-      "counter_usd": 466.59,
-      "n": 1,
+      "counter_usd": 1165.989,
+      "n": 4,
       "other": {
-        "BNB": 0.6
+        "BNB": 1.5
       },
       "first": 1790923924,
-      "last": 1790923924,
-      "runs": 1,
+      "last": 1790924374,
+      "runs": 2,
       "funding": 0.0,
       "note": "",
-      "value": 466.59,
-      "unit": 1.916198991620733e-05
+      "value": 1165.989,
+      "unit": 2.3779867371870153e-05
     },
     "bsc:0xe73e44087884d556408c3bd7f85d2f33b85effff:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
       "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
@@ -828,20 +828,20 @@
       "chain": "bsc",
       "contract": "0xede34369213ff2044e92a63afc9eea892a5bffff",
       "sym": "NEWMEME",
-      "amount": 60248356.97503458,
+      "amount": 78261040.2913937,
       "usd": 0.0,
-      "counter_usd": 311.06,
-      "n": 1,
+      "counter_usd": 388.771,
+      "n": 2,
       "other": {
-        "BNB": 0.4
+        "BNB": 0.5
       },
       "first": 1790924014,
-      "last": 1790924014,
-      "runs": 1,
+      "last": 1790924120,
+      "runs": 2,
       "funding": 0.0,
       "note": "",
-      "value": 311.06,
-      "unit": 5.1629623713870826e-06
+      "value": 388.771,
+      "unit": 4.967618607578781e-06
     },
     "bsc:0xbba3de9d3f9158c5bbdffaeb8516d43485ec7777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
       "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
@@ -862,6 +862,26 @@
       "note": "",
       "value": 233.295,
       "unit": 4.696536880129261e-06
+    },
+    "bsc:0xee1a5b7bce08d7dffb65ef419521923442377777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
+      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
+      "chain": "bsc",
+      "contract": "0xee1a5b7bce08d7dffb65ef419521923442377777",
+      "sym": "WC",
+      "amount": 15934696.299528666,
+      "usd": 398.20806052522136,
+      "counter_usd": 466.26599999999996,
+      "n": 1,
+      "other": {
+        "BNB": 0.6
+      },
+      "first": 1790924453,
+      "last": 1790924453,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 466.26599999999996,
+      "unit": 2.92610534418401e-05
     }
   },
   "last_daily_cut": 1790866800
