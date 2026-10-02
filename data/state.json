@@ -1,5 +1,5 @@
 {
-  "run_count": 1375,
+  "run_count": 1376,
   "last_daily": "2026-10-01",
   "cross_alerted": [],
   "buy_accum": {
@@ -122,26 +122,6 @@
       "note": "",
       "value": 459.96,
       "unit": 1.421628760579416e-05
-    },
-    "bsc:0x09cd29737ccf14c28ad2b9e1e7ebb5b6e581ffff:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
-      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
-      "chain": "bsc",
-      "contract": "0x09cd29737ccf14c28ad2b9e1e7ebb5b6e581ffff",
-      "sym": "RB",
-      "amount": 5742462.239944068,
-      "usd": 739.0548902808016,
-      "counter_usd": 383.3,
-      "n": 1,
-      "other": {
-        "BNB": 0.5
-      },
-      "first": 1790831710,
-      "last": 1790831710,
-      "runs": 1,
-      "funding": 0.0,
-      "note": "",
-      "value": 383.3,
-      "unit": 6.674837099211529e-05
     },
     "bsc:0x4a644a18757e4c9c02466303126b1df926077777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
       "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
@@ -582,6 +562,46 @@
       "note": "",
       "value": 168.458409,
       "unit": 0.035075211763796944
+    },
+    "bsc:0x7c731b8cc1f69e1b3da0bbf073331df295c57777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
+      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
+      "chain": "bsc",
+      "contract": "0x7c731b8cc1f69e1b3da0bbf073331df295c57777",
+      "sym": "PROMETHEUS",
+      "amount": 63328058.09907446,
+      "usd": 307.1410817805111,
+      "counter_usd": 312.096,
+      "n": 1,
+      "other": {
+        "BNB": 0.4
+      },
+      "first": 1790918300,
+      "last": 1790918300,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 312.096,
+      "unit": 4.92824206786409e-06
+    },
+    "bsc:0x6b06c6400630fefa862bf449f473cd49ba458d60:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
+      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
+      "chain": "bsc",
+      "contract": "0x6b06c6400630fefa862bf449f473cd49ba458d60",
+      "sym": "GI",
+      "amount": 1167858.5780204118,
+      "usd": 0.0,
+      "counter_usd": 78.024,
+      "n": 1,
+      "other": {
+        "BNB": 0.1
+      },
+      "first": 1790917808,
+      "last": 1790917808,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 78.024,
+      "unit": 6.680945918319599e-05
     }
   },
   "last_daily_cut": 1790866800
