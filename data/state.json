@@ -1,5 +1,5 @@
 {
-  "run_count": 1416,
+  "run_count": 1417,
   "last_daily": "2026-10-02",
   "cross_alerted": [],
   "buy_accum": {
@@ -920,6 +920,26 @@
       "note": "",
       "value": 77.933,
       "unit": 0.019051683161634404
+    },
+    "bsc:0x5c77a45fff03d44b90fff30901211e73fb2affff:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
+      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
+      "chain": "bsc",
+      "contract": "0x5c77a45fff03d44b90fff30901211e73fb2affff",
+      "sym": "KKK",
+      "amount": 1512083.4710592425,
+      "usd": 325.85398801326676,
+      "counter_usd": 310.002,
+      "n": 1,
+      "other": {
+        "BNB": 0.4
+      },
+      "first": 1790953083,
+      "last": 1790953083,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 310.002,
+      "unit": 0.00020501645969507083
     }
   },
   "last_daily_cut": 1790953200
