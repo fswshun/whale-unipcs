@@ -1,5 +1,5 @@
 {
-  "run_count": 1408,
+  "run_count": 1409,
   "last_daily": "2026-10-01",
   "cross_alerted": [],
   "buy_accum": {
@@ -800,6 +800,66 @@
       "note": "",
       "value": 389.995,
       "unit": 9.15667357887074e-06
+    },
+    "bsc:0x189e66498cec55b83bc019729eec8d3a1c9a7777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
+      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
+      "chain": "bsc",
+      "contract": "0x189e66498cec55b83bc019729eec8d3a1c9a7777",
+      "sym": "Hirono",
+      "amount": 63426687.39712221,
+      "usd": 0.0,
+      "counter_usd": 313.20720000000006,
+      "n": 1,
+      "other": {
+        "BNB": 0.4
+      },
+      "first": 1790948176,
+      "last": 1790948176,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 313.20720000000006,
+      "unit": 4.9380980286574266e-06
+    },
+    "bsc:0xc887341158c930395d5192d4ecaf213fb6059401:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
+      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
+      "chain": "bsc",
+      "contract": "0xc887341158c930395d5192d4ecaf213fb6059401",
+      "sym": "GM",
+      "amount": 41286782.393848635,
+      "usd": 0.0,
+      "counter_usd": 234.9054,
+      "n": 1,
+      "other": {
+        "BNB": 0.3
+      },
+      "first": 1790948306,
+      "last": 1790948306,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 234.9054,
+      "unit": 5.689602976544832e-06
+    },
+    "bsc:0x7281ba9e0c8acbc5f46f92491bbb5448f3e4ba01:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
+      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
+      "chain": "bsc",
+      "contract": "0x7281ba9e0c8acbc5f46f92491bbb5448f3e4ba01",
+      "sym": "OI",
+      "amount": 52268787.66107879,
+      "usd": 0.0,
+      "counter_usd": 234.9054,
+      "n": 1,
+      "other": {
+        "BNB": 0.3
+      },
+      "first": 1790948360,
+      "last": 1790948360,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 234.9054,
+      "unit": 4.4941811454126946e-06
     }
   },
   "last_daily_cut": 1790866800
