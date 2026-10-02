@@ -1,5 +1,5 @@
 {
-  "run_count": 1404,
+  "run_count": 1405,
   "last_daily": "2026-10-01",
   "cross_alerted": [],
   "buy_accum": {
@@ -780,6 +780,26 @@
       "note": "09-29T10:50 7e+05 \u4e2d\u56fd\u4eba\u80fd\u98de\u300109-29T10:50 7e+05 \u4e2d\u56fd\u4eba\u80fd\u98de\u300109-29T10:51 7e+05 \u4e2d\u56fd\u4eba\u80fd\u98de",
       "value": 7326.36097058771,
       "unit": 0.00967
+    },
+    "bsc:0x604049d9e3ed132c4c9e654a3f3f1b380d3a7777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
+      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
+      "chain": "bsc",
+      "contract": "0x604049d9e3ed132c4c9e654a3f3f1b380d3a7777",
+      "sym": "SIGNS",
+      "amount": 42591340.25481956,
+      "usd": 192.51285795178438,
+      "counter_usd": 389.995,
+      "n": 1,
+      "other": {
+        "BNB": 0.5
+      },
+      "first": 1790943532,
+      "last": 1790943532,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 389.995,
+      "unit": 9.15667357887074e-06
     }
   },
   "last_daily_cut": 1790866800
