@@ -1,5 +1,5 @@
 {
-  "run_count": 1418,
+  "run_count": 1419,
   "last_daily": "2026-10-02",
   "cross_alerted": [],
   "buy_accum": {
@@ -22,66 +22,6 @@
       "note": "",
       "value": 30030.052406000003,
       "unit": 0.04448768561970662
-    },
-    "bsc:0x9eb58f798d63d187b41c3606188b3ba310327777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
-      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
-      "chain": "bsc",
-      "contract": "0x9eb58f798d63d187b41c3606188b3ba310327777",
-      "sym": "Bitkin",
-      "amount": 106248371.36373946,
-      "usd": 490.76122732911244,
-      "counter_usd": 1150.605,
-      "n": 3,
-      "other": {
-        "BNB": 1.5
-      },
-      "first": 1790870545,
-      "last": 1790870592,
-      "runs": 1,
-      "funding": 0.0,
-      "note": "",
-      "value": 1150.605,
-      "unit": 1.0829389525990226e-05
-    },
-    "bsc:0xc257ccda7706797e7d8186dbd61a4ced79647777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
-      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
-      "chain": "bsc",
-      "contract": "0xc257ccda7706797e7d8186dbd61a4ced79647777",
-      "sym": "LUCKY",
-      "amount": 27556796.48015695,
-      "usd": 0.0,
-      "counter_usd": 460.242,
-      "n": 1,
-      "other": {
-        "BNB": 0.6
-      },
-      "first": 1790870098,
-      "last": 1790870098,
-      "runs": 1,
-      "funding": 0.0,
-      "note": "",
-      "value": 460.242,
-      "unit": 1.6701578513722023e-05
-    },
-    "bsc:0x0263d747c266f5217842a08b000da30cb72c7777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
-      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
-      "chain": "bsc",
-      "contract": "0x0263d747c266f5217842a08b000da30cb72c7777",
-      "sym": "BPP",
-      "amount": 94277354.67367545,
-      "usd": 400.7730347177943,
-      "counter_usd": 460.242,
-      "n": 1,
-      "other": {
-        "BNB": 0.6
-      },
-      "first": 1790870600,
-      "last": 1790870600,
-      "runs": 1,
-      "funding": 0.0,
-      "note": "",
-      "value": 460.242,
-      "unit": 4.881787377181372e-06
     },
     "bsc:0xdc3cf424947e3dd12c42a961b35350bb1b057777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
       "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
@@ -162,26 +102,6 @@
       "note": "",
       "value": 769.22,
       "unit": 7.340352979029283e-05
-    },
-    "ethereum:0xf280b16ef293d8e534e370794ef26bf312694126:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
-      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
-      "chain": "ethereum",
-      "contract": "0xf280b16ef293d8e534e370794ef26bf312694126",
-      "sym": "ASTEROID",
-      "amount": 9506480.018260835,
-      "usd": 123.86943463793868,
-      "counter_usd": 135.2048,
-      "n": 1,
-      "other": {
-        "ETH": 0.05
-      },
-      "first": 1790870855,
-      "last": 1790870855,
-      "runs": 1,
-      "funding": 0.0,
-      "note": "",
-      "value": 135.2048,
-      "unit": 1.4222383020874962e-05
     },
     "solana:GAwhcphCqCv5bKHmCiN4VDdNWfbXJL4npmkc8L3Q9S9H:6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC": {
       "wallet": "6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC",
