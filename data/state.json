@@ -1,5 +1,5 @@
 {
-  "run_count": 1380,
+  "run_count": 1381,
   "last_daily": "2026-10-01",
   "cross_alerted": [],
   "buy_accum": {
@@ -602,6 +602,66 @@
       "note": "",
       "value": 78.024,
       "unit": 6.680945918319599e-05
+    },
+    "bsc:0x964a234fb71b0d1cd19e580f2c7d1f7538519988:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
+      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
+      "chain": "bsc",
+      "contract": "0x964a234fb71b0d1cd19e580f2c7d1f7538519988",
+      "sym": "BLUES",
+      "amount": 8285075.500427609,
+      "usd": 1373.6655179708976,
+      "counter_usd": 1011.127,
+      "n": 1,
+      "other": {
+        "BNB": 1.3
+      },
+      "first": 1790920775,
+      "last": 1790920775,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 1011.127,
+      "unit": 0.00012204197776445292
+    },
+    "bsc:0xadd28db25566a2b13197be54d95b6a0b2e637777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
+      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
+      "chain": "bsc",
+      "contract": "0xadd28db25566a2b13197be54d95b6a0b2e637777",
+      "sym": "FLAPTRUCK",
+      "amount": 29313273.400488973,
+      "usd": 531.1565140168601,
+      "counter_usd": 466.674,
+      "n": 1,
+      "other": {
+        "BNB": 0.6
+      },
+      "first": 1790921402,
+      "last": 1790921402,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 466.674,
+      "unit": 1.5920228137749208e-05
+    },
+    "bsc:0xf2caedf6f0a535c08df088f7299ac8e7ba657777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
+      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
+      "chain": "bsc",
+      "contract": "0xf2caedf6f0a535c08df088f7299ac8e7ba657777",
+      "sym": "MEMETRUCK",
+      "amount": 11258072.167784968,
+      "usd": 936.6716043597094,
+      "counter_usd": 311.116,
+      "n": 1,
+      "other": {
+        "BNB": 0.4
+      },
+      "first": 1790921445,
+      "last": 1790921445,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 311.116,
+      "unit": 2.7634926776385395e-05
     }
   },
   "last_daily_cut": 1790866800
