@@ -1,5 +1,5 @@
 {
-  "run_count": 1392,
+  "run_count": 1393,
   "last_daily": "2026-10-01",
   "cross_alerted": [],
   "buy_accum": {
@@ -22,26 +22,6 @@
       "note": "",
       "value": 30030.052406000003,
       "unit": 0.04448768561970662
-    },
-    "bsc:0x90d42f789f620cc39fb175dd429f079d90347777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
-      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
-      "chain": "bsc",
-      "contract": "0x90d42f789f620cc39fb175dd429f079d90347777",
-      "sym": "PairLab",
-      "amount": 24951993.168311648,
-      "usd": 206.52764745411554,
-      "counter_usd": 459.96,
-      "n": 1,
-      "other": {
-        "BNB": 0.6
-      },
-      "first": 1790845778,
-      "last": 1790845778,
-      "runs": 1,
-      "funding": 0.0,
-      "note": "",
-      "value": 459.96,
-      "unit": 1.8433797929382918e-05
     },
     "bsc:0x354009977bf22ecab02fc9103d5cb5272d1f7777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
       "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
