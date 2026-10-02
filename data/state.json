@@ -1,28 +1,8 @@
 {
-  "run_count": 1373,
+  "run_count": 1374,
   "last_daily": "2026-10-01",
   "cross_alerted": [],
   "buy_accum": {
-    "solana:DEW9dSN6QpWyNthphCpMmAbZP1Q4cEKR9xQXAri98WDP:6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC": {
-      "wallet": "6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC",
-      "chain": "solana",
-      "contract": "DEW9dSN6QpWyNthphCpMmAbZP1Q4cEKR9xQXAri98WDP",
-      "sym": "SI",
-      "amount": 107211.191659,
-      "usd": 4976.08972185204,
-      "counter_usd": 4908.022241,
-      "n": 7,
-      "other": {
-        "USDC": 4908.022241
-      },
-      "first": 1790713778,
-      "last": 1790813041,
-      "runs": 7,
-      "funding": 0.0,
-      "note": "",
-      "value": 4908.022241,
-      "unit": 0.045779010241865814
-    },
     "solana:DEW9dSN6QpWyNthphCpMmAbZP1Q4cEKR9xQXAri98WDP:2heJbC32Tpfcb3nbUb5ER61K11FGZVfVGtVnDm6LDogF": {
       "wallet": "2heJbC32Tpfcb3nbUb5ER61K11FGZVfVGtVnDm6LDogF",
       "chain": "solana",
@@ -562,6 +542,126 @@
       "note": "",
       "value": 769.22,
       "unit": 7.340352979029283e-05
+    },
+    "robinhood:0x866cdac5ab2282c3e23a3b1b1cb0d09850626eea:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
+      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
+      "chain": "robinhood",
+      "contract": "0x866cdac5ab2282c3e23a3b1b1cb0d09850626eea",
+      "sym": "ENGINES",
+      "amount": 17964309.77367683,
+      "usd": 78.03696165685216,
+      "counter_usd": 270.4096,
+      "n": 1,
+      "other": {
+        "ETH": 0.1
+      },
+      "first": 1790818743,
+      "last": 1790818743,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 270.4096,
+      "unit": 1.5052601708985903e-05
+    },
+    "robinhood:0x392a9334e8f0d252b01f3ff887cf017d5a2e1386:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
+      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
+      "chain": "robinhood",
+      "contract": "0x392a9334e8f0d252b01f3ff887cf017d5a2e1386",
+      "sym": "EOC",
+      "amount": 19912124.274511095,
+      "usd": 132.29615367985173,
+      "counter_usd": 270.4096,
+      "n": 1,
+      "other": {
+        "ETH": 0.1
+      },
+      "first": 1790818755,
+      "last": 1790818755,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 270.4096,
+      "unit": 1.358014826906957e-05
+    },
+    "robinhood:0x53f6968c6a9f9706e671f0698febc5f6e3567777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
+      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
+      "chain": "robinhood",
+      "contract": "0x53f6968c6a9f9706e671f0698febc5f6e3567777",
+      "sym": "NUVI",
+      "amount": 49125231.92334426,
+      "usd": 229.169206922401,
+      "counter_usd": 270.4096,
+      "n": 1,
+      "other": {
+        "ETH": 0.1
+      },
+      "first": 1790826388,
+      "last": 1790826388,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 270.4096,
+      "unit": 5.504495132398584e-06
+    },
+    "robinhood:0xe5a3533a5fe0718ab84cb4213f637c5d23961e18:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
+      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
+      "chain": "robinhood",
+      "contract": "0xe5a3533a5fe0718ab84cb4213f637c5d23961e18",
+      "sym": "NUVI",
+      "amount": 12731427.498727001,
+      "usd": 270.9247771729106,
+      "counter_usd": 270.4096,
+      "n": 1,
+      "other": {
+        "ETH": 0.1
+      },
+      "first": 1790826414,
+      "last": 1790826414,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 270.4096,
+      "unit": 2.1239535003206665e-05
+    },
+    "ethereum:0x4924eaecdb444bfd15b9dd358c74144fdf75f3ff:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
+      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
+      "chain": "ethereum",
+      "contract": "0x4924eaecdb444bfd15b9dd358c74144fdf75f3ff",
+      "sym": "SNOWMOON",
+      "amount": 20237508.24190799,
+      "usd": 301.9436229692672,
+      "counter_usd": 270.4096,
+      "n": 1,
+      "other": {
+        "ETH": 0.1
+      },
+      "first": 1790819255,
+      "last": 1790819255,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 270.4096,
+      "unit": 1.3361803082062923e-05
+    },
+    "ethereum:0xf280b16ef293d8e534e370794ef26bf312694126:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
+      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
+      "chain": "ethereum",
+      "contract": "0xf280b16ef293d8e534e370794ef26bf312694126",
+      "sym": "ASTEROID",
+      "amount": 9506480.018260835,
+      "usd": 123.86943463793868,
+      "counter_usd": 135.2048,
+      "n": 1,
+      "other": {
+        "ETH": 0.05
+      },
+      "first": 1790870855,
+      "last": 1790870855,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 135.2048,
+      "unit": 1.4222383020874962e-05
     }
   },
   "last_daily_cut": 1790866800
