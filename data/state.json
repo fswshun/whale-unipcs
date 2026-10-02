@@ -1,5 +1,5 @@
 {
-  "run_count": 1410,
+  "run_count": 1411,
   "last_daily": "2026-10-01",
   "cross_alerted": [],
   "buy_accum": {
@@ -22,26 +22,6 @@
       "note": "",
       "value": 30030.052406000003,
       "unit": 0.04448768561970662
-    },
-    "bsc:0x4a644a18757e4c9c02466303126b1df926077777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
-      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
-      "chain": "bsc",
-      "contract": "0x4a644a18757e4c9c02466303126b1df926077777",
-      "sym": "HAMMY",
-      "amount": 6002084.154765333,
-      "usd": 0.0,
-      "counter_usd": 383.3,
-      "n": 1,
-      "other": {
-        "BNB": 0.5
-      },
-      "first": 1790863370,
-      "last": 1790863370,
-      "runs": 1,
-      "funding": 0.0,
-      "note": "",
-      "value": 383.3,
-      "unit": 6.386115057978325e-05
     },
     "bsc:0x9eb58f798d63d187b41c3606188b3ba310327777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
       "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
@@ -880,6 +860,66 @@
       "note": "",
       "value": 88.068147,
       "unit": 0.0035420573468296357
+    },
+    "bsc:0x8a449defbc1c388daa195141f4d0b1ef943ce201:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
+      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
+      "chain": "bsc",
+      "contract": "0x8a449defbc1c388daa195141f4d0b1ef943ce201",
+      "sym": "OSTOCK",
+      "amount": 44537453.04629429,
+      "usd": 0.0,
+      "counter_usd": 1013.129,
+      "n": 4,
+      "other": {
+        "BNB": 1.3
+      },
+      "first": 1790949311,
+      "last": 1790949688,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 1013.129,
+      "unit": 2.2747798329350063e-05
+    },
+    "bsc:0x2ed49c6edc540f8ba6e517b88bfcd8d087e07777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
+      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
+      "chain": "bsc",
+      "contract": "0x2ed49c6edc540f8ba6e517b88bfcd8d087e07777",
+      "sym": "Grumpy",
+      "amount": 59258967.241660364,
+      "usd": 309.56884487043374,
+      "counter_usd": 311.732,
+      "n": 1,
+      "other": {
+        "BNB": 0.4
+      },
+      "first": 1790950124,
+      "last": 1790950124,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 311.732,
+      "unit": 5.260503422692887e-06
+    },
+    "bsc:0xcafdbce93477261db8250e42bdae6e66733f9e20:0xda9f482ea717384af879597303e8b67968afcde2": {
+      "wallet": "0xda9f482ea717384af879597303e8b67968afcde2",
+      "chain": "bsc",
+      "contract": "0xcafdbce93477261db8250e42bdae6e66733f9e20",
+      "sym": "GSTOCK",
+      "amount": 4090.6097030281653,
+      "usd": 76.94436851395979,
+      "counter_usd": 77.933,
+      "n": 1,
+      "other": {
+        "BNB": 0.1
+      },
+      "first": 1790949777,
+      "last": 1790949777,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 77.933,
+      "unit": 0.019051683161634404
     }
   },
   "last_daily_cut": 1790866800
