@@ -1,26 +1,7 @@
 {
-  "run_count": 2691,
+  "run_count": 2692,
   "last_daily": "2026-10-25",
   "cross_alerted": [],
-  "buy_accum": {
-    "robinhood:0x94641b97010608c3827fb058074889f19868ff33:0x0a6ebed0155edb4b21d92ad02897a626cd90119e": {
-      "wallet": "0x0a6ebed0155edb4b21d92ad02897a626cd90119e",
-      "chain": "robinhood",
-      "contract": "0x94641b97010608c3827fb058074889f19868ff33",
-      "sym": "VRAX",
-      "amount": 1195000.2848964098,
-      "usd": 3638.775867509568,
-      "counter_usd": 0.0,
-      "n": 1,
-      "other": {},
-      "first": 1792863402,
-      "last": 1792863402,
-      "runs": 1,
-      "funding": 12741.133078441067,
-      "note": "10-20T07:29 2.6e+07 AMERICA\u300110-21T11:30 0.5252 WETH\u300110-21T20:21 8.901e+06 CANAL",
-      "value": 3638.775867509568,
-      "unit": 0.003045
-    }
-  },
+  "buy_accum": {},
   "last_daily_cut": 1792940400
 }
