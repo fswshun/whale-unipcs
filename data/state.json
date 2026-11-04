@@ -1,10 +1,7 @@
 {
-  "run_count": 4114,
+  "run_count": 4115,
   "last_daily": "2026-11-04",
   "cross_alerted": [],
   "buy_accum": {},
-  "last_daily_cut": 1793804400,
-  "daily_cut": 1793804400,
-  "daily_due": false,
-  "holdings_refreshed": false
+  "last_daily_cut": 1793804400
 }
