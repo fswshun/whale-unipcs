@@ -1,47 +1,67 @@
 {
-  "run_count": 4435,
+  "run_count": 4436,
   "last_daily": "2026-11-06",
   "cross_alerted": [],
   "buy_accum": {
-    "bsc:0x4fa5d03695eaa81c71300e0428cc23d65d627777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
-      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
-      "chain": "bsc",
-      "contract": "0x4fa5d03695eaa81c71300e0428cc23d65d627777",
-      "sym": "RM",
-      "amount": 10312808.64651009,
-      "usd": 53.28628227651764,
-      "counter_usd": 208.167,
+    "solana:DEW9dSN6QpWyNthphCpMmAbZP1Q4cEKR9xQXAri98WDP:2heJbC32Tpfcb3nbUb5ER61K11FGZVfVGtVnDm6LDogF": {
+      "wallet": "2heJbC32Tpfcb3nbUb5ER61K11FGZVfVGtVnDm6LDogF",
+      "chain": "solana",
+      "contract": "DEW9dSN6QpWyNthphCpMmAbZP1Q4cEKR9xQXAri98WDP",
+      "sym": "SI",
+      "amount": 526162.879303,
+      "usd": 4012.5181175646785,
+      "counter_usd": 3833.567132,
       "n": 1,
       "other": {
-        "BNB": 0.3
+        "USDC": 3833.567132
       },
-      "first": 1793948483,
-      "last": 1793948483,
+      "first": 1794037532,
+      "last": 1794037532,
       "runs": 1,
       "funding": 0.0,
       "note": "",
-      "value": 208.167,
-      "unit": 2.018528677640546e-05
+      "value": 3833.567132,
+      "unit": 0.007285894316752767
     },
-    "bsc:0xdf10a132bb3ed6ed09f5aef192233192d6327777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
+    "bsc:0x67917ecde504ce0175e2d73518cf5a17000f7777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
       "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
       "chain": "bsc",
-      "contract": "0xdf10a132bb3ed6ed09f5aef192233192d6327777",
-      "sym": "RM",
-      "amount": 24840539.281570107,
-      "usd": 0.0,
-      "counter_usd": 208.167,
+      "contract": "0x67917ecde504ce0175e2d73518cf5a17000f7777",
+      "sym": "FLAPLESS",
+      "amount": 41037402.30499222,
+      "usd": 158.15814848344002,
+      "counter_usd": 208.356,
       "n": 1,
       "other": {
         "BNB": 0.3
       },
-      "first": 1793948669,
-      "last": 1793948669,
+      "first": 1794028454,
+      "last": 1794028454,
       "runs": 1,
       "funding": 0.0,
       "note": "",
-      "value": 208.167,
-      "unit": 8.380132075250272e-06
+      "value": 208.356,
+      "unit": 5.077221955997283e-06
+    },
+    "bsc:0xf7d936a82d05dc2b41743f7a707ca40503f44444:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
+      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
+      "chain": "bsc",
+      "contract": "0xf7d936a82d05dc2b41743f7a707ca40503f44444",
+      "sym": "FLAPLESS",
+      "amount": 27200931.852995258,
+      "usd": 0.0,
+      "counter_usd": 208.356,
+      "n": 1,
+      "other": {
+        "BNB": 0.3
+      },
+      "first": 1794028525,
+      "last": 1794028525,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 208.356,
+      "unit": 7.659884636527873e-06
     }
   },
   "last_daily_cut": 1793977200
