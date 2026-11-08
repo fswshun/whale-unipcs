@@ -1,48 +1,8 @@
 {
-  "run_count": 4587,
+  "run_count": 4588,
   "last_daily": "2026-11-08",
   "cross_alerted": [],
   "buy_accum": {
-    "bsc:0x34f3e4bb710e8d161ad2738922a3333001307777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
-      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
-      "chain": "bsc",
-      "contract": "0x34f3e4bb710e8d161ad2738922a3333001307777",
-      "sym": "CHIPS",
-      "amount": 6617377.647498266,
-      "usd": 68.48985865160705,
-      "counter_usd": 69.38600000000001,
-      "n": 1,
-      "other": {
-        "BNB": 0.1
-      },
-      "first": 1794068466,
-      "last": 1794068466,
-      "runs": 1,
-      "funding": 0.0,
-      "note": "",
-      "value": 69.38600000000001,
-      "unit": 1.0485422428056792e-05
-    },
-    "bsc:0x0d2591f26a43a3ce0a40f1fe8609b03962527777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
-      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
-      "chain": "bsc",
-      "contract": "0x0d2591f26a43a3ce0a40f1fe8609b03962527777",
-      "sym": "RAM",
-      "amount": 18951836.761373874,
-      "usd": 67.94233478952533,
-      "counter_usd": 69.38600000000001,
-      "n": 1,
-      "other": {
-        "BNB": 0.1
-      },
-      "first": 1794068488,
-      "last": 1794068488,
-      "runs": 1,
-      "funding": 0.0,
-      "note": "",
-      "value": 69.38600000000001,
-      "unit": 3.661175477271788e-06
-    },
     "solana:8wAjDJmUU5uSjsGigTNpwUyzjWZbGgLLvVDh5Z9fLoat:6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC": {
       "wallet": "6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC",
       "chain": "solana",
