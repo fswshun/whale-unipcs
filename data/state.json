@@ -1,5 +1,5 @@
 {
-  "run_count": 4741,
+  "run_count": 4742,
   "last_daily": "2026-11-09",
   "cross_alerted": [],
   "buy_accum": {
@@ -122,6 +122,26 @@
       "note": "",
       "value": 282.30022299999996,
       "unit": 0.00017521923603391106
+    },
+    "bsc:0x12b4356c65340fb02cdff01293f95febb1512f3b:0xda9f482ea717384af879597303e8b67968afcde2": {
+      "wallet": "0xda9f482ea717384af879597303e8b67968afcde2",
+      "chain": "bsc",
+      "contract": "0x12b4356c65340fb02cdff01293f95febb1512f3b",
+      "sym": "Broccoli",
+      "amount": 140245.77646072803,
+      "usd": 667.7101417295261,
+      "counter_usd": 689.78,
+      "n": 1,
+      "other": {
+        "BNB": 1.0
+      },
+      "first": 1794274308,
+      "last": 1794274308,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 689.78,
+      "unit": 0.004918365582247348
     }
   },
   "last_daily_cut": 1794236400
