@@ -1,28 +1,8 @@
 {
-  "run_count": 4755,
+  "run_count": 4756,
   "last_daily": "2026-11-09",
   "cross_alerted": [],
   "buy_accum": {
-    "bsc:0x5be2321d56b09ec665dcf3b14d6efc276a797777:0x72cdecdc528a42ffd841b506e540394daade3492": {
-      "wallet": "0x72cdecdc528a42ffd841b506e540394daade3492",
-      "chain": "bsc",
-      "contract": "0x5be2321d56b09ec665dcf3b14d6efc276a797777",
-      "sym": "NVDA",
-      "amount": 28052935.20668795,
-      "usd": 79.10927728286002,
-      "counter_usd": 205.347,
-      "n": 1,
-      "other": {
-        "BNB": 0.3
-      },
-      "first": 1794202754,
-      "last": 1794202754,
-      "runs": 1,
-      "funding": 0.0,
-      "note": "",
-      "value": 205.347,
-      "unit": 7.319982685841884e-06
-    },
     "solana:DEW9dSN6QpWyNthphCpMmAbZP1Q4cEKR9xQXAri98WDP:2heJbC32Tpfcb3nbUb5ER61K11FGZVfVGtVnDm6LDogF": {
       "wallet": "2heJbC32Tpfcb3nbUb5ER61K11FGZVfVGtVnDm6LDogF",
       "chain": "solana",
