@@ -1,5 +1,5 @@
 {
-  "run_count": 4921,
+  "run_count": 4922,
   "last_daily": "2026-11-10",
   "cross_alerted": [],
   "buy_accum": {
@@ -182,6 +182,26 @@
       "note": "",
       "value": 341.075,
       "unit": 8.121118704839948e-06
+    },
+    "bsc:0x0da27398e363adb801300b4d36d600631fae7777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
+      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
+      "chain": "bsc",
+      "contract": "0x0da27398e363adb801300b4d36d600631fae7777",
+      "sym": "spyless",
+      "amount": 15822999.660085246,
+      "usd": 244.94003473811964,
+      "counter_usd": 204.09900000000002,
+      "n": 1,
+      "other": {
+        "BNB": 0.3
+      },
+      "first": 1794400405,
+      "last": 1794400405,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 204.09900000000002,
+      "unit": 1.2898881652311205e-05
     }
   },
   "last_daily_cut": 1794322800
