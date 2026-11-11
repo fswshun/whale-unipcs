@@ -1,28 +1,8 @@
 {
-  "run_count": 4897,
+  "run_count": 4898,
   "last_daily": "2026-11-10",
   "cross_alerted": [],
   "buy_accum": {
-    "solana:DEW9dSN6QpWyNthphCpMmAbZP1Q4cEKR9xQXAri98WDP:2heJbC32Tpfcb3nbUb5ER61K11FGZVfVGtVnDm6LDogF": {
-      "wallet": "2heJbC32Tpfcb3nbUb5ER61K11FGZVfVGtVnDm6LDogF",
-      "chain": "solana",
-      "contract": "DEW9dSN6QpWyNthphCpMmAbZP1Q4cEKR9xQXAri98WDP",
-      "sym": "SI",
-      "amount": 1429117.680208,
-      "usd": 8670.521639845449,
-      "counter_usd": 8236.978439,
-      "n": 2,
-      "other": {
-        "USDC": 8236.978439
-      },
-      "first": 1794244349,
-      "last": 1794299654,
-      "runs": 2,
-      "funding": 0.0,
-      "note": "",
-      "value": 8236.978439,
-      "unit": 0.005763681013169717
-    },
     "bsc:0xccbd85ef8d58a26bb1df6b7f26a6a988d1117777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
       "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
       "chain": "bsc",
