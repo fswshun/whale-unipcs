@@ -1,5 +1,5 @@
 {
-  "run_count": 4866,
+  "run_count": 4867,
   "last_daily": "2026-11-10",
   "cross_alerted": [],
   "buy_accum": {
@@ -22,26 +22,6 @@
       "note": "",
       "value": 8236.978439,
       "unit": 0.005763681013169717
-    },
-    "bsc:0x12b4356c65340fb02cdff01293f95febb1512f3b:0xda9f482ea717384af879597303e8b67968afcde2": {
-      "wallet": "0xda9f482ea717384af879597303e8b67968afcde2",
-      "chain": "bsc",
-      "contract": "0x12b4356c65340fb02cdff01293f95febb1512f3b",
-      "sym": "Broccoli",
-      "amount": 140245.77646072803,
-      "usd": 667.7101417295261,
-      "counter_usd": 689.78,
-      "n": 1,
-      "other": {
-        "BNB": 1.0
-      },
-      "first": 1794274308,
-      "last": 1794274308,
-      "runs": 1,
-      "funding": 0.0,
-      "note": "",
-      "value": 689.78,
-      "unit": 0.004918365582247348
     },
     "bsc:0xccbd85ef8d58a26bb1df6b7f26a6a988d1117777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
       "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
@@ -108,20 +88,20 @@
       "chain": "solana",
       "contract": "4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump",
       "sym": "mihao",
-      "amount": 87528.354607,
-      "usd": 919.9230069195701,
-      "counter_usd": 1000.0,
-      "n": 1,
+      "amount": 104696.563781,
+      "usd": 1168.51867575909,
+      "counter_usd": 1200.0,
+      "n": 3,
       "other": {
-        "USDC": 1000.0
+        "USDC": 1200.0
       },
       "first": 1794354339,
-      "last": 1794354339,
-      "runs": 1,
+      "last": 1794357753,
+      "runs": 2,
       "funding": 0.0,
       "note": "",
-      "value": 1000.0,
-      "unit": 0.011424869169424852
+      "value": 1200.0,
+      "unit": 0.011461694220548737
     }
   },
   "last_daily_cut": 1794322800
