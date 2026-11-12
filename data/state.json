@@ -1,6 +1,6 @@
 {
-  "run_count": 5058,
-  "last_daily": "2026-11-11",
+  "run_count": 5059,
+  "last_daily": "2026-11-12",
   "cross_alerted": [],
   "buy_accum": {
     "solana:5hvV6oAoUt8rxDJgusk3c32TfxtXYCbddbfkabupump:6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC": {
@@ -84,5 +84,5 @@
       "unit": 7.31839385942733e-05
     }
   },
-  "last_daily_cut": 1794409200
+  "last_daily_cut": 1794495600
 }
