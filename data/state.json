@@ -1,28 +1,8 @@
 {
-  "run_count": 4990,
+  "run_count": 4991,
   "last_daily": "2026-11-11",
   "cross_alerted": [],
   "buy_accum": {
-    "bsc:0xc52c76f84c48bad0deadd3ab2de9dec34c11ffff:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
-      "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
-      "chain": "bsc",
-      "contract": "0xc52c76f84c48bad0deadd3ab2de9dec34c11ffff",
-      "sym": "BIGMEMES",
-      "amount": 47330211.60099501,
-      "usd": 0.0,
-      "counter_usd": 204.93,
-      "n": 1,
-      "other": {
-        "BNB": 0.3
-      },
-      "first": 1794368455,
-      "last": 1794368455,
-      "runs": 1,
-      "funding": 0.0,
-      "note": "",
-      "value": 204.93,
-      "unit": 4.329792601131997e-06
-    },
     "bsc:0x3af0daee3ebf208f9d94e22ef6b4df58fe447777:0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5": {
       "wallet": "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5",
       "chain": "bsc",
