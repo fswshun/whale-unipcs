@@ -1,28 +1,8 @@
 {
-  "run_count": 5086,
+  "run_count": 5087,
   "last_daily": "2026-11-12",
   "cross_alerted": [],
   "buy_accum": {
-    "solana:5hvV6oAoUt8rxDJgusk3c32TfxtXYCbddbfkabupump:6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC": {
-      "wallet": "6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC",
-      "chain": "solana",
-      "contract": "5hvV6oAoUt8rxDJgusk3c32TfxtXYCbddbfkabupump",
-      "sym": "BIBERTY",
-      "amount": 37051481.353601,
-      "usd": 0.0,
-      "counter_usd": 100.246656,
-      "n": 1,
-      "other": {
-        "USDC": 100.246656
-      },
-      "first": 1794426315,
-      "last": 1794426315,
-      "runs": 1,
-      "funding": 0.0,
-      "note": "",
-      "value": 100.246656,
-      "unit": 2.705604535572965e-06
-    },
     "solana:5qaP7oKUqKffwwo5DaEqDoTtsBLMpdbQTxEkCDaTpump:6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC": {
       "wallet": "6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC",
       "chain": "solana",
