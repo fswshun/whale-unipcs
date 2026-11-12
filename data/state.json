@@ -1,28 +1,8 @@
 {
-  "run_count": 5010,
+  "run_count": 5011,
   "last_daily": "2026-11-11",
   "cross_alerted": [],
   "buy_accum": {
-    "bsc:0x8e6442663a4f8c50b6132c68d42a30e7dfe4ae15:0xda9f482ea717384af879597303e8b67968afcde2": {
-      "wallet": "0xda9f482ea717384af879597303e8b67968afcde2",
-      "chain": "bsc",
-      "contract": "0x8e6442663a4f8c50b6132c68d42a30e7dfe4ae15",
-      "sym": "JAGENT",
-      "amount": 376498621.27433944,
-      "usd": 760.5272149741658,
-      "counter_usd": 678.9,
-      "n": 1,
-      "other": {
-        "BNB": 1.0
-      },
-      "first": 1794380675,
-      "last": 1794380675,
-      "runs": 1,
-      "funding": 0.0,
-      "note": "",
-      "value": 678.9,
-      "unit": 1.8031938542088653e-06
-    },
     "bsc:0x26734ab6aaa3e9ff198f28cb6e9c8a0a30c97777:0xda9f482ea717384af879597303e8b67968afcde2": {
       "wallet": "0xda9f482ea717384af879597303e8b67968afcde2",
       "chain": "bsc",
