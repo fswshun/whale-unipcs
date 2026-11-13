@@ -1,7 +1,28 @@
 {
-  "run_count": 5224,
+  "run_count": 5225,
   "last_daily": "2026-11-13",
   "cross_alerted": [],
-  "buy_accum": {},
+  "buy_accum": {
+    "solana:BApgNbjD25PHFft8WNATeL6gwpFFucEn5VBg2VHDpump:6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC": {
+      "wallet": "6iJ7Ax3fwNwBYRHyAf9F6WzdKKR2Y6GiuQnvtGcCZzvC",
+      "chain": "solana",
+      "contract": "BApgNbjD25PHFft8WNATeL6gwpFFucEn5VBg2VHDpump",
+      "sym": "KOSMIK",
+      "amount": 8621580.051764,
+      "usd": 557.7300135486132,
+      "counter_usd": 654.4284849999999,
+      "n": 1,
+      "other": {
+        "USDC": 654.4284849999999
+      },
+      "first": 1794606464,
+      "last": 1794606464,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 654.4284849999999,
+      "unit": 7.590586424655443e-05
+    }
+  },
   "last_daily_cut": 1794582000
 }
